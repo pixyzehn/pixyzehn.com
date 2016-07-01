@@ -1,4 +1,4 @@
-# pixyzehn.github.io
+# pixyzehn.github.io [![Build Status](https://travis-ci.org/pixyzehn/pixyzehn.github.io.svg?branch=master)](https://travis-ci.org/pixyzehn/pixyzehn.github.io)
 
 Subscribe via [RSS](https://pixyzehn.github.io/feed.xml).
 
