@@ -6,11 +6,11 @@ permalink: /apps/
 
 #### Taskey - Task & Todo list
 
-[Taskey](https://itunes.apple.com/us/app/taskey-tasuku-guan-li-todorisuto/id1063089003?ls=1&mt=8) is quick, cool, simple and intuitive task management application that helps you get stuff done.
+[Taskey](https://itunes.apple.com/us/app/taskey-tasuku-guan-li-todorisuto/id1063089003?ls=1&mt=8) is a quick, cool, simple and intuitive task management application that helps you get stuff done.
 
 #### Esafeed for esa.io
 
-[Esafeed](https://itunes.apple.com/us/app/esafeed-for-esa.io/id1111901482?ls=1&mt=8) is a feed reader for esa.io.
+[Esafeed](https://itunes.apple.com/us/app/esafeed-for-esa.io/id1111901482?ls=1&mt=8) is a feed reader for [esa.io](https://esa.io/).
 
 #### Motivation from age
 

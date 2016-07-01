@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 I'm Hiroki Nagasawa and I live in Tokyo, Japan. Thank you for visiting this site. I mostly develop iOS apps and libraries. I'll write about tips that I wanted to share once in a while.
-If you have a question and a feedback, feel free to contact me. The origin of my accout name is pixy (so-called Dragan Stojković).
+If you have a question and a feedback, feel free to contact me. The origin of my account name is pixy (so-called Dragan Stojković).
 
 Email <pixyzehn@gmail.com>  
 Twitter [@pixyzehn](https://twitter.com/pixyzehn)  
