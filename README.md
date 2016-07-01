@@ -1,6 +1,6 @@
 # pixyzehn.github.io
 
-Subscribe via [RSS]("https://pixyzehn.github.io/feed.xml").
+Subscribe via [RSS](https://pixyzehn.github.io/feed.xml).
 
 ## Requirements
 
@@ -22,4 +22,4 @@ $ bundle exec jekyll serve
 
 If you'd like to show your draft, add `--draft` after `jekyll server`.
 
-You can see the site locally. [http://localhost:4000]("http://localhost:4000")
+You can see the site locally. [http://localhost:4000](http://localhost:4000)
