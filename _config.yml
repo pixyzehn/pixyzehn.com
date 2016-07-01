@@ -1,0 +1,20 @@
+# Site settings
+title: pixyzehn
+email: civokjots10.pico@gmail.com
+author: pixyzehn
+description: ''
+baseurl: ""
+url: "https://pixyzehn.github.io"
+twitter_username: pixyzehn
+github_username: pixyzehn
+
+links:
+  twitter: 'https://twitter.com/pixyzehn'
+  github: 'https://github.com/pixyzehn'
+  linkedin: 'https://www.linkedin.com/in/pixyzehn'
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+gems: [jekyll-sitemap, jekyll-paginate, jekyll-seo-tag]
