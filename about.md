@@ -11,7 +11,7 @@ Email <pixyzehn@gmail.com>
 Twitter [@pixyzehn](https://twitter.com/pixyzehn)  
 Github [@pixyzehn](https://github.com/pixyzehn)  
 Medium [@pixyzehn](https://medium.com/@pixyzehn)  
-LinkedIn [Hiroki Nagasawa](https://www.linkedin.com/in/pixyzehn)  
+LinkedIn [Hiroki Nagasawa](https://www.linkedin.com/in/pixyzehn)
 
 ### About This Site
 

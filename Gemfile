@@ -1,9 +1,11 @@
 source "https://rubygems.org"
 
-gem 'jekyll'
 gem 'html-proofer'
 gem 'github-pages'
 
+gem 'jekyll'
+gem 'jekyll-redirect-from'
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
+gem 'jekyll-feed'
 gem 'jekyll-paginate'
