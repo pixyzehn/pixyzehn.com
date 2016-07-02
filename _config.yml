@@ -19,6 +19,6 @@ links:
 markdown: kramdown
 highlighter: rouge
 
-gems: [jekyll-sitemap, jekyll-paginate, jekyll-seo-tag]
+gems: [jekyll-sass, jekyll-sitemap, jekyll-paginate, jekyll-seo-tag, jekyll-feed]
 
 exclude: [vendor]

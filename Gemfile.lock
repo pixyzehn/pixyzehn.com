@@ -143,7 +143,6 @@ DEPENDENCIES
   jekyll
   jekyll-feed
   jekyll-paginate
-  jekyll-redirect-from
   jekyll-sass
   jekyll-seo-tag
   jekyll-sitemap
