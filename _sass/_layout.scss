@@ -182,6 +182,12 @@
     > li {
         margin-bottom: $spacing-unit;
     }
+    
+    a {
+        &:hover {
+            text-decoration: underline;
+        }
+    }
 }
 
 .post-meta {
