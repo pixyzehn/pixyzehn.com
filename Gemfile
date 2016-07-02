@@ -6,7 +6,6 @@ gem 'github-pages'
 gem 'jekyll'
 
 group :jekyll_plugins do
-  gem 'jekyll-sass'
   gem 'jekyll-sitemap'
   gem 'jekyll-paginate'
   gem 'jekyll-seo-tag'
