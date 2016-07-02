@@ -8,14 +8,14 @@ I'm Hiroki Nagasawa and I live in Tokyo, Japan. Thank you for visiting this site
 If you have a question and a feedback, feel free to contact me. The origin of my account name is pixy (so-called Dragan Stojković).
 
 Email <pixyzehn@gmail.com>  
-Twitter [@pixyzehn](https://twitter.com/pixyzehn)  
-Github [@pixyzehn](https://github.com/pixyzehn)  
-Medium [@pixyzehn](https://medium.com/@pixyzehn)  
-stackoverflow [@pixyzehn](http://stackoverflow.com/users/2461812/pixyzehn)  
-LinkedIn [Hiroki Nagasawa](https://www.linkedin.com/in/pixyzehn)
+Twitter [@pixyzehn](https://twitter.com/pixyzehn){:target="_blank"}  
+Github [@pixyzehn](https://github.com/pixyzehn){:target="_blank"}  
+Medium [@pixyzehn](https://medium.com/@pixyzehn){:target="_blank"}  
+stackoverflow [@pixyzehn](http://stackoverflow.com/users/2461812/pixyzehn){:target="_blank"}  
+LinkedIn [Hiroki Nagasawa](https://www.linkedin.com/in/pixyzehn){:target="_blank"}
 
-I like taking photos with iPhone everywhere and use flickr as a image hosting. Here are [my photos](https://www.flickr.com/photos/pixyzehn).
+I like taking photos with iPhone everywhere and use flickr as a image hosting. Here are [my photos](https://www.flickr.com/photos/pixyzehn){:target="_blank"}.
 
 ### About This Site
 
-I build this site by [jekyll](https://github.com/jekyll/jekyll). So far It looks good for me. I write articles in Markdown and deploy this site using [Github](https://github.com/pixyzehn/pixyzehn.github.io).
+I build this site by [jekyll](https://github.com/jekyll/jekyll){:target="_blank"}. So far It looks good for me. I write articles in Markdown and deploy this site using [Github](https://github.com/pixyzehn/pixyzehn.github.io){:target="_blank"}.
