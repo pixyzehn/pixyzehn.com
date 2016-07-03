@@ -5,6 +5,7 @@
     border-top: 5px solid $orange-color;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
+    background: #fafafa;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -182,7 +183,7 @@
     > li {
         margin-bottom: $spacing-unit;
     }
-    
+
     a {
         &:hover {
             text-decoration: underline;
