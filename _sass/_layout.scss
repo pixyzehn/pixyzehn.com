@@ -183,13 +183,6 @@
     > li {
         margin-bottom: $spacing-unit;
     }
-
-    a {
-        &:hover {
-            text-decoration: underline;
-            color: #EF5138;
-        }
-    }
 }
 
 .post-meta {
@@ -198,8 +191,11 @@
 }
 
 .post-link {
-    display: block;
     font-size: 24px;
+    &:hover {
+        text-decoration: underline;
+        color: #EF5138;
+    }
 }
 
 
