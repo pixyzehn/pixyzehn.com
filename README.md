@@ -5,6 +5,7 @@ Subscribe via [RSS](https://pixyzehn.github.io/feed.xml).
 ## Requirements
 
 - [Jekyll](https://jekyllrb.com)
+- [Bower](https://bower.io)
 
 ## Instration
 
@@ -12,6 +13,7 @@ Subscribe via [RSS](https://pixyzehn.github.io/feed.xml).
 $ git clone https://github.com/pixyzehn/pixyzehn.github.io.git
 $ cd pixyzehn.github.io/
 $ bundle install
+$ bower install
 ```
 
 ## Build
