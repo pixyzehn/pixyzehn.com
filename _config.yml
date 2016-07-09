@@ -18,6 +18,7 @@ links:
 # Build settings
 markdown: kramdown
 highlighter: rouge
+paginate: 8
 
 gems: [jekyll-sitemap, jekyll-paginate, jekyll-seo-tag, jekyll-feed]
 

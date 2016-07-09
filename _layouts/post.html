@@ -10,8 +10,12 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
-
-  {% if page.comments %}
-    {% include comment-disqus.html %}
-  {% endif %}
 </article>
+
+{% include social_share.html %}
+
+<br>
+
+{% if page.comments %}
+  {% include comment-disqus.html %}
+{% endif %}

@@ -23,6 +23,10 @@
     &:visited {
         color: $grey-color-dark;
     }
+
+    &:hover {
+        text-decoration: none;
+    }
 }
 
 .site-nav {
@@ -36,6 +40,7 @@
     .page-link {
         color: $text-color;
         line-height: $base-line-height;
+        text-decoration: none;
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
@@ -183,6 +188,13 @@
     > li {
         margin-bottom: $spacing-unit;
     }
+
+    .post-link {
+        &:hover {
+          text-decoration: underline;
+          color: #EF5138;
+        }
+    }
 }
 
 .post-meta {
@@ -192,10 +204,6 @@
 
 .post-link {
     font-size: 24px;
-    &:hover {
-        text-decoration: underline;
-        color: #EF5138;
-    }
 }
 
 
@@ -243,4 +251,26 @@
             font-size: 18px;
         }
     }
+}
+
+
+
+/**
+ * Pagination
+ */
+.pagination {
+    display: block;
+    margin-bottom: 0rem;
+}
+
+.center {
+   float: none;
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+   text-align: center;
+}
+
+.pager li {
+  margin: 6px;
 }
