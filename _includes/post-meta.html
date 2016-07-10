@@ -1,0 +1,18 @@
+{% if post %}
+  {% assign date = post.date %}
+  {% assign tags = post.tags %}
+{% else %}
+  {% assign date = page.date %}
+  {% assign tags = page.tags %}
+{% endif %}
+
+<p class="post-meta">
+  <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}
+  <div class="post-tags">
+    {% for tag in tags %}
+      <a href="{{ site.baseurl }}/tags#{{ tag | slugize }}">
+        #{{ tag }}
+      </a>
+    {% endfor %}
+  </div>
+</p>

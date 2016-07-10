@@ -275,3 +275,38 @@
 .pager li {
   margin: 6px;
 }
+
+
+
+/**
+ *  Meta data line below post title
+ */
+.post-meta {
+  display: block;
+  margin-top: -.3rem;
+  margin-bottom: 1rem;
+  color: #9a9a9a;
+  time {
+    margin-right: .5rem;
+  }
+  .post-tags {
+    display: inline-block;
+    a {
+      font-size: .8rem;
+    }
+  }
+}
+
+
+
+/**
+ * Styles for _pages/tags.html
+ */
+.tag-cloud {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  li {
+    display: inline-block;
+  }
+}
