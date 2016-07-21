@@ -16,7 +16,7 @@ I found Jekyll's [Google Summer of Code Project in Jekyll news](https://jekyllrb
 The project includes a graphical solution for managing your site’s content. It looks really good, but unfortunately this is under development, so I have to wait for that.
 
 
-But suddenly, I found [Foresty.io](https://forestry.io/){:target="_blank"}. It looks good contents management system for now. It works!! I could import my jekyll blog easily and fast. Also, I can connect Github from Forestry.io. They provide many options for each user.
+But suddenly, I found [Foresty.io](https://forestry.io/){:target="_blank"}. It looks like good contents management system for now. It works!! I could import my jekyll blog easily and fast. Also, I can connect Github from Forestry.io. They provide many options for each user.
 
 
 I hope the following things will be improved in the near future:)

@@ -18,7 +18,7 @@ permalink: /apps/
 
 ---
 <br>
-Note: The following apps are only Japanese available and not maintenance for now. (> <)
+Note: The following apps are only Japanese available and not under maintenance for now. (> <)
 
 - [India Note](https://itunes.apple.com/us/app/india-note-indono-xian-daiwo/id976964541?ls=1&mt=8){:target="_blank"}
 - [Fastzaim](https://itunes.apple.com/us/app/fastzaim-su-zaokuzaimni-tou/id883247555?ls=1&mt=8){:target="_blank"}
