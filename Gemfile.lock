@@ -138,9 +138,11 @@ DEPENDENCIES
   html-proofer
   jekyll
   jekyll-feed
+  jekyll-mentions
   jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
+  jemoji
 
 BUNDLED WITH
    1.12.5
