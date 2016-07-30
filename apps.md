@@ -4,6 +4,8 @@ title: Apps
 permalink: /apps/
 ---
 
+This is my portfolio.
+
 #### Taskey - Task & Todo list
 
 [Taskey](https://itunes.apple.com/us/app/taskey-tasuku-guan-li-todorisuto/id1063089003?ls=1&mt=8){:target="_blank"} is a quick, cool, simple and intuitive task management application that helps you get stuff done.
