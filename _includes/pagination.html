@@ -4,15 +4,15 @@
 			<ul class="pager">
 				<li>
 					<a href="/page{{paginator.next_page}}" class="btn btn-default {% if paginator.next_page == nil %}disabled{% endif %}">
-					<i class="fa fa-hand-o-left"></i> Prev
+						<i class="fa fa-hand-o-left"></i> Prev
 					</a>
 				</li>
 				<li>
 					<a href="/{% if paginator.page != 2 %}page{{paginator.previous_page}}{% endif %}" class="btn btn-default {% if paginator.previous_page == nil %}disabled{% endif %}">
-					Next <i class="fa fa-hand-o-right"></i>
+						Next <i class="fa fa-hand-o-right"></i>
 					</a>
 				</li>
-				</ul>
+			</ul>
 		</nav>
 	</div>
 </div>
