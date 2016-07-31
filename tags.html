@@ -21,7 +21,7 @@ permalink: /tags/
     <div>
       <h4 id="{{ tag_name }}">
         #{{ tag_name }}
-      </h3>
+      </h4>
       {% for post in site.tags[tag_name] %}
         <a href="{{ post.url | prepend: baseurl }}">{{ post.title }}</a>
         <br>
