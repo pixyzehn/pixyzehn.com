@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-06-27 23:47:13 +0900
+title: "Welcome to Jekyll!"
+date: 2016-06-27 23:47:13 +0900
 tags: jekyll blog
 comments: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "My favorite podcasts"
-date:   2016-08-2 08:37:00 +0900
+title: "My favorite podcasts"
+date: 2016-08-02 08:37:00 +0900
 tags: blog
 comments: true
 ---

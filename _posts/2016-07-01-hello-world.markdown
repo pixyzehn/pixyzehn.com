@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hello world:)"
-date:   2016-07-01 23:29:00 +0900
+title: "Hello world:)"
+date: 2016-07-01 23:29:00 +0900
 tags: blog
 comments: false
 ---
