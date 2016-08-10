@@ -5,7 +5,7 @@ date: 2016-08-02 08:37:00 +0900
 tags: blog
 comments: true
 ---
-I'd like to introduce my favorite podcasts in this article. They are almost related to iOS development. If you're interested in the field, you may find a new podcast. And I intend to update this article regularly. <5/5> means a five star rating in my opinion.
+I'd like to introduce you to my favorite podcasts in this article. They are almost all related to iOS development. If you're interested in that field, you may find a new podcast. And I intend to update this article regularly. <5/5> means a five star rating in my opinion.
 
 ---
 
@@ -15,19 +15,19 @@ I'd like to introduce my favorite podcasts in this article. They are almost rela
 
 > Build Phase is a weekly technical podcast discussing iOS development and design. Hosted by iOS developers Mark Adams, Jack Nutting, and Gordon Fontenot.
 
-Their talk is not only iOS development but also functional programming, Vim, [Elm](http://elm-lang.org/){:target="_blank"} and so on. I really like their personality and the atmosphere in their conversation. Their episode is less than 30 ~ 40 minutes, so these are very listenable for me.
+Their topics are not only about iOS development but also about functional programming, Vim, [Elm](http://elm-lang.org/){:target="_blank"} and so on. I really like their personality and the atmosphere in their conversation. Their episodes are less than 30 ~ 40 minutes, so these are very listenable for me.
 
-\- [Under the Rader](https://www.relay.fm/radar){:target="_blank"}
+\- [Under the Radar](https://www.relay.fm/radar){:target="_blank"}
 
 > From development and design to marketing and support, Under the Radar is all about independent app development. It's never longer than 30 minutes.
 
-Actually, I'm a big fan of [Marco Arment](https://marco.org/){:target="_blank"}. They're not talking about new things like a Swift new feature now, but they have great knowledge of iOS app development and iOS market. I always use [Overcast](https://overcast.fm/){:target="_blank"} that Marco created.
+Actually, I'm a big fan of [Marco Arment](https://marco.org/){:target="_blank"}. They're not talking about new things like a Swift's new feature now, but they have great knowledge of iOS app development and iOS market. I always use [Overcast](https://overcast.fm/){:target="_blank"} that Marco created.
 
 \- [Runtime](http://spec.fm/podcasts/runtime){:target="_blank"}
 
 > Sam Soffes and Caleb Davenport talk about Swift, iOS, and other things they like.
 
-I think this is newer podcast than others. They discuss Swift new proposal and hot news in Swift developers. If you catch up with new features in Swift 3 and 4, I recommend to listen this podcast. Personally, I like the introduction music in this podcast:)
+I think this is newer podcast than others. They discuss Swift's new proposal and hot news in Swift developing. If you catch up with new features in Swift 3 and 4, I recommend to listen this podcast. Personally, I like the introduction music in this podcast:)
 
 <4/5>
 
@@ -39,7 +39,7 @@ I think this is newer podcast than others. They discuss Swift new proposal and h
 
 > Open Source moves fast. Keep up.
 
-I don't listen all episodes. If anything, I listen to the episode that I'm interested in.
+I don't listen to all episodes usually. If anything, I listen to the episode that I'm interested in.
 
 \- [CocoaConf Podcast](http://cocoaconf.com/podcast){:target="_blank"}
 
@@ -73,4 +73,4 @@ I don't listen all episodes. If anything, I listen to the episode that I'm inter
 
 ---
 
-That's all. I think many many podcast will be released in the near future. If you have a favorite podcast except for the above, tell me about it :)
+That's all. I think many podcast will be released in the near future. If you have a favorite podcast except for the ones mentioned the above, tell me about it :)
