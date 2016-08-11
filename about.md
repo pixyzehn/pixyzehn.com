@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![My profile]({{ site.url }}/assets/profile.png){:height="75px" width="75px" .profile-image}
+
 I'm Hiroki Nagasawa and I live in Tokyo, Japan. Thank you for visiting this site. I mostly develop iOS apps and libraries. I'll write about tips that I wanted to share once in a while.
 If you have a question and a feedback, feel free to contact me. The origin of my account name is pixy (so-called [Dragan Stojković](https://en.wikipedia.org/wiki/Dragan_Stojkovi%C4%87){:target="_blank"}).
 
