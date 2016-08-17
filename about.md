@@ -21,3 +21,8 @@ I like taking photos with iPhone everywhere and use flickr as an image hosting. 
 ### About This Site
 
 I build this site by [jekyll](https://github.com/jekyll/jekyll){:target="_blank"}. So far It looks good for me. I write articles in Markdown and deploy this site using [Github](https://github.com/pixyzehn/pixyzehn.github.io){:target="_blank"}.
+
+### Say Hi!
+Feel free to say hi :+1:
+
+<a href="https://twitter.com/intent/tweet?screen_name=pixyzehn" class="twitter-mention-button" data-size="large" data-text="Hi!" data-show-count="false">Tweet to @pixyzehn</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
