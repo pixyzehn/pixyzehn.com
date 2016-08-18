@@ -11,6 +11,6 @@ To be added...
 #### Git
 - [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/){:target="_blank"}
 
-### Misc
+#### Misc
 - [Write Code Every Day](http://ejohn.org/blog/write-code-every-day/){:target="_blank"}
 - [180 websites in 180 days](https://jenniferdewalt.com/){:target="_blank"}
