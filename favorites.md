@@ -18,3 +18,4 @@ To be added...
 #### Misc
 - [Write Code Every Day](http://ejohn.org/blog/write-code-every-day/){:target="_blank"}
 - [180 websites in 180 days](https://jenniferdewalt.com/){:target="_blank"}
+- [Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html){:target="_blank"}
