@@ -26,7 +26,11 @@ $ bower install
 $ bundle exec jekyll serve
 ```
 
-If you'd like to show your draft, add `--draft` after `jekyll serve`.
+If you'd like to show your draft files, use this.
+
+```bash
+$ bundle exec jekyll serve --drafts
+```
 
 You can see the site locally. [http://localhost:4000](http://localhost:4000)
 
