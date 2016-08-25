@@ -8,6 +8,9 @@ Here are some my favorite links, I sometimes back to them to refer them again. T
 
 To be added...
 
+#### Swift
+- [Swift Weak References by Mike Ash](https://www.mikeash.com/pyblog/friday-qa-2015-12-11-swift-weak-references.html){:target="_blank"}
+
 #### Git
 - [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/){:target="_blank"}
 
