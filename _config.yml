@@ -28,5 +28,6 @@ gems:
   - jekyll-feed
   - jekyll-mentions
   - jemoji
+  - jekyll-gist
 
 exclude: [vendor]
