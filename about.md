@@ -16,7 +16,7 @@ Medium [@pixyzehn](https://medium.com/@pixyzehn){:target="_blank"}
 stackoverflow [@pixyzehn](http://stackoverflow.com/users/2461812/pixyzehn){:target="_blank"}  
 LinkedIn [Hiroki Nagasawa](https://www.linkedin.com/in/pixyzehn){:target="_blank"}
 
-I like taking photos with iPhone everywhere and use flickr as an image hosting. Here are [my photos](https://www.flickr.com/photos/pixyzehn){:target="_blank"} and [Instgram](https://www.instagram.com/pixyzehn/){:target="_blank"}.
+I like taking photos with iPhone everywhere and use flickr as an image hosting. Here are [my photos](https://www.flickr.com/photos/pixyzehn/albums){:target="_blank"} and [Instgram](https://www.instagram.com/pixyzehn/){:target="_blank"}.
 
 ### About This Site
 
