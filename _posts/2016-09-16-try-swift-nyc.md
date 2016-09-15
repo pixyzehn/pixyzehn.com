@@ -40,7 +40,7 @@ Andyy Hope talks about Swift eye for the Stringly typed API.
 
 He explains how we avoid Apple official Stringly typed API. He made `NSUserDefaults` more type-safe API. When I develop iOS applications, I recently use [SwiftGen](https://github.com/AliSoftware/SwiftGen){:target="_blank"} for resources and [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults){:target="_blank"} for `NSUserDefaults`. It's good idea to create these as extensions or structs and enums by myself in a certain case.
 
-- Refactoring at scale – Lessons learned rewriting Instagram’s feed
+- Refactoring at scale – Lessons learned rewriting Instagram’s feed [[Talk](https://speakerdeck.com/realm/ryan-nystrom-refactoring-at-scale-lessons-learned-rewriting-instagrams-feed){:target="_blank"}]
 
 Ryan announces new iOS library [IGListKit](https://github.com/instagram/IGListKit){:target="_blank"} by Instagram. It looks great. I can't wait to see it. He said it will be coming in September, 2016.
 
