@@ -52,6 +52,6 @@ In addition to the above, I saw many great talks.
 
 #### Conclusion
 
-try!Swift NYC was by far the best conference for me. I met many people and learned a lot. At the same time, I thought I'd like to contribute more to Swift developer community as possible as I can. Finally, thank you for @NatashaTheRobot, organizers, speakers, and volunteers. Hope to see you again:)
+try!Swift NYC was by far the best conference for me. I met many people and learned a lot. At the same time, I thought I'd like to contribute more to Swift developer community as possible as I can. Finally, thank you @NatashaTheRobot, organizers, speakers, and volunteers. Hope to see you again:)
 
 ![Ending]({{ site.url }}/assets/try-swift-nyc-ending.png)
