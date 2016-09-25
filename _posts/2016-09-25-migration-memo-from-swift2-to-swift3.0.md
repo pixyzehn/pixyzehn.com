@@ -6,7 +6,7 @@ tags: swift
 comments: true
 ---
 
-I did migration from Swift2 to Swift3.0 in my app called [Esafeed](https://itunes.apple.com/us/app/esafeed-for-esa.io/id1111901482?mt=8). I'll take a note for future myself and may be others. I hope it'll be useful for you.
+I did migration from Swift2 to Swift3.0 in my app called [Esafeed](https://itunes.apple.com/us/app/esafeed-for-esa.io/id1111901482?mt=8){:target="_blank"}. I'll take a note for future myself and may be others. I hope it'll be useful for you.
 
 In my opinion, if your app is small compared to other apps, it may be better to skip `Swift2.3`. In short, use `Swift3.0`.
 At first, I'm afraid of skipping `Swift2.3`, but it's easier more than I thought. Give it a try!
@@ -56,7 +56,7 @@ github "delba/SwiftyOAuth"
 #### 5. Check entitlements
 
 For instance, Keychain needs `entitlements`. Check apple official reference in details.  
-[About Entitlements](https://developer.apple.com/library/content/documentation/Miscellaneous/Reference/EntitlementKeyReference/Chapters/AboutEntitlements.html)
+[About Entitlements](https://developer.apple.com/library/content/documentation/Miscellaneous/Reference/EntitlementKeyReference/Chapters/AboutEntitlements.html){:target="_blank"}
 
 #### 6. Change libraries if needed (Option)
 
@@ -123,13 +123,14 @@ Skip the details because there are a ton of options.
 
 This is a short and brief memo. If you don't yet, I recommend updating right now. Enjoy with Swift3.0:)
 
-I'm still not used to writing codes like Swift3.0. @inaka said
+I'm still not used to writing codes like Swift3.0. @volbap said
 
 > A piece of advice: Read the Swift 3 API design guidelines once and again. Every day in the morning, if necessary, until you get used to the new way of writing Swift code.
 
 That makes sense.
 
 Ref  
-- [Function Naming In Swift 3](http://inaka.net/blog/2016/09/16/function-naming-in-swift-3/)  
-- [Swift 3.0 Refactoring Cues](https://www.natashatherobot.com/swift-3-0-refactoring-cues/)  
-- [Migrating to Swift 2.3 or Swift 3 from Swift 2.2](https://swift.org/migration-guide/)  
+- [Function Naming In Swift 3](http://inaka.net/blog/2016/09/16/function-naming-in-swift-3/){:target="_blank"}  
+- [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/){:target="_blank"}  
+- [Swift 3.0 Refactoring Cues](https://www.natashatherobot.com/swift-3-0-refactoring-cues/){:target="_blank"}  
+- [Migrating to Swift 2.3 or Swift 3 from Swift 2.2](https://swift.org/migration-guide/){:target="_blank"}  
