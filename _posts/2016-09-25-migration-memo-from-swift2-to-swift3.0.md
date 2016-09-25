@@ -9,7 +9,7 @@ comments: true
 I did migration from Swift2 to Swift3.0 in my app called [Esafeed](https://itunes.apple.com/us/app/esafeed-for-esa.io/id1111901482?mt=8){:target="_blank"}. I'll take a note for future myself and may be others. I hope it'll be useful for you.
 
 In my opinion, if your app is small compared to other apps, it may be better to skip `Swift2.3`. In short, use `Swift3.0`.
-At first, I'm afraid of skipping `Swift2.3`, but it's easier more than I thought. Give it a try!
+At first, I'm afraid of skipping `Swift2.3`, but it's easier than I thought. Give it a try!
 
 The following steps are just 12 steps toward Migration to Swift3.0. Let's go at ease.
 
@@ -52,6 +52,73 @@ github "realm/realm-cocoa"
 github "ArtSabintsev/Siren"
 github "delba/SwiftyOAuth"
 ```
+
+In some libraries(In the case of APIKit), I faced a problem. In Swift2.0, I used `HTTPHeaderFields` as a property.   
+
+```swift
+protocol EsaRequestType: RequestType {}
+
+extension EsaRequestType {
+    ...
+    var HTTPHeaderFields: [String: String] {
+        ...
+        return [
+          "Authorization": "Bearer \(token)"
+        ]
+    }
+    ...
+}
+```
+
+In APIKit, `HTTPHeaderFields` was defined in `Request` extension like this.
+
+```swift
+// In APIKit
+public extension Request {
+    ...
+    public var HTTPHeaderFields: [String: String] {
+        return [:]
+    }
+    ...
+}
+```
+
+`HTTPHeaderFields` became `headerFields`, so there was no warnings and no errors in original codes. I could build for sure. But `APIKit` never use `HTTPHeaderFields`.
+
+In Swift3.0,
+
+```swift
+protocol EsaRequestType: RequestType {}
+
+extension EsaRequestType {
+    ...
+    // var HTTPHeaderFields : [String: String] will be OK, but...
+    // You have to change here!!
+    var headerFields: [String: String] {
+        ...
+        return [
+          "Authorization": "Bearer \(token)"
+        ]
+    }
+    ...
+}
+```
+
+```swift
+// In APIKit
+public extension Request {
+    ...
+    public var headerFields: [String: String] {
+        return [:]
+    }
+    ...
+}
+```
+
+I have to notice that change by myself. It means if you miss the change, your application doesn't work correctly. From this example, I think you should carefully read library's migration guides. I needed to have `warning` or `error`...
+
+[APIKit 2 Migration Guide](https://github.com/ishkawa/APIKit/blob/master/Documentation/APIKit2MigrationGuide.md){:target="_blank"}  
+[APIKit 3 Migration Guide](https://github.com/ishkawa/APIKit/blob/master/Documentation/APIKit3MigrationGuide.md){:target="_blank"}
 
 #### 5. Check entitlements
 
@@ -127,7 +194,7 @@ I'm still not used to writing codes like Swift3.0. @volbap said
 
 > A piece of advice: Read the Swift 3 API design guidelines once and again. Every day in the morning, if necessary, until you get used to the new way of writing Swift code.
 
-That makes sense.
+That makes sense. If you know about something that I missed, please leave a comment.
 
 Ref  
 - [Function Naming In Swift 3](http://inaka.net/blog/2016/09/16/function-naming-in-swift-3/){:target="_blank"}  
