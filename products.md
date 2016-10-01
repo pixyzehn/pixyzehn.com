@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Apps
-permalink: /apps/
+title: Products
+permalink: /products/
 ---
 
 This is my portfolio.
