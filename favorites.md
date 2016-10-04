@@ -23,3 +23,4 @@ To be added...
 - [180 websites in 180 days](https://jenniferdewalt.com/){:target="_blank"}
 - [Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html){:target="_blank"}
 - [Copying](http://robnapier.net/copying){:target="_blank"}
+- [If you don’t have pet projects, I don’t think want you](https://ayende.com/blog/90113/if-you-dont-have-pet-projects-i-dont-think-i-want-you){:target="_blank"}  
