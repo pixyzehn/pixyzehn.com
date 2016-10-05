@@ -25,3 +25,7 @@ I build this site by [jekyll](https://github.com/jekyll/jekyll){:target="_blank"
 Feel free to say hi :+1:
 
 <a href="https://twitter.com/intent/tweet?screen_name=pixyzehn" class="twitter-mention-button" data-size="large" data-text="Hi!" data-show-count="false">Tweet to @pixyzehn</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+If you interested in my blog, please subscribe :rocket:.
+
+{% include mail_form.html %}
