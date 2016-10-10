@@ -15,7 +15,7 @@ Here is `circle.yml`. I temporarily replace a real name with \*\*\*. Keep in min
 
 In iOS projects, we cannot change parallelism like this. (Android can change.)
 
-![Parallelism]({{ site.url }}/assets/error-parallelism.png){:height="75px"}
+![Parallelism]({{ site.url }}/assets/error-parallelism.png){:max-height="50%"}
 
 I plan to deploy when merging release branch. It depends on situations. The above script takes a time(15min ~ 20min) for my project, so It may be better to improve the slowness.
 
