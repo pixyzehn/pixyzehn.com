@@ -171,7 +171,7 @@ Now I plan to add the following features in near future.
 
 In this case, I can use `stodo`. Cool isn't it?
 
-![stodo]({{ site.url }}/assets/example-stodo.png){:max-height="60%"}
+![stodo]({{ site.url }}/assets/example-stodo.png){:height="100px"}
 
 If you wanna make command line tool, these links and repos might be good ref.  
 
