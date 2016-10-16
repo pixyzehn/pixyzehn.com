@@ -25,3 +25,4 @@ To be added...
 - [Copying](http://robnapier.net/copying){:target="_blank"}
 - [If you don’t have pet projects, I don’t think want you](https://ayende.com/blog/90113/if-you-dont-have-pet-projects-i-dont-think-i-want-you){:target="_blank"}  
 - [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html){:target="_blank"}  
+- [Programming books you might want to consider reading (12 CS books)](http://danluu.com/programming-books/)
