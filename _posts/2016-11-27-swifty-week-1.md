@@ -39,11 +39,15 @@ I cannot abuse Protocol Oriented Programming in everywhere.
 
 #### [dotSwift 2016 - Rob Napier - Beyond Crusty: Real-World Protocols](https://youtu.be/QCxkaTj7QJs){:target="_blank"}
 
-@chriseidhof recommend the video at the end of `Protocol Oriented Programming is Not a Silver Bullet`. This talk is useful if you think about when should I use Protocol Oriented Programming.
+> Apple has declared Swift as the first Protocol Oriented language. If you've tried to write protocol oriented
+
+Filmed at [http://2016.dotswift.io](http://2016.dotswift.io){:target="_blank"} on January 29th in Paris. @chriseidhof recommend the video at the end of the article.. This talk is useful if you think about when should I use Protocol Oriented Programming.
 
 <br>
 
 #### [Protocol-oriented Programming in Swift - Apple WWDC 2015](https://www.youtube.com/watch?v=g2LwFZatfTI){:target="_blank"}
+
+> At the heart of Swift's design are two incredibly powerful ideas: protocol-oriented programming and first class value semantics. Each of these concepts benefit predictability, performance, and productivity, but together they can change the way we think about programming. Find out how you can apply these ideas to improve the code you write.
 
 It may be time to watch the famous video again.
 
@@ -51,11 +55,15 @@ It may be time to watch the famous video again.
 
 #### [Functional programming with Swift 3](http://mislavjavor.github.io/2016/11/14/Functional-programming-with-Swift-3.html){:target="_blank"}
 
-If you don't know about the side of functional in Swift, this is the simple and clear article. You can check all in Swift Playground.
+> Functional programming is a great way to improve the safety and testability of your code. But remember - it’s not a one-size-fits-all paradigm. In fact, no paradigm is. So use it when you need it, and combine it with the features you love in Swift to make better software.
+
+If you don't know about the functional side in Swift, this is the simple and clear article. You can check all in Swift Playground.
 
 <br>
 
 #### [Meaningful Composite Errors](https://medium.com/@IanKeen/meaningful-composite-errors-3146f191ff28#.nd9kwx9jz){:target="_blank"}
+
+> Generally our errors represent a specific failure at a specific point in our code; which is fine… like the rest of our code we try to keep things decoupled.
 
 Error handling is really important in Swift. He explain how to handle error by using a simple JSON decode case like a [Himotoki](https://github.com/ikesyo/Himotoki){:target="_blank"}. (just interface.)
 
@@ -71,7 +79,9 @@ A behavior in Set is reversed in between Swift 2.2 and Swift 3. It looks weird f
 
 #### [Fun with Date Calculations](http://useyourloaf.com/blog/fun-with-date-calculations/){:target="_blank"}
 
-This is another `fun with ***` series. But the author is different.
+> Date calculations are a common trap for the unwary. How do you work out the start of the day today, tomorrow or in five days or five months time? What is the correct answer when you add a month to January 31? If you are doing date and time calculations by adding the number of seconds in an hour or day you are probably doing it wrong.
+
+This is another `fun with ***` series. But the author is different. If you're not familiar with Date Calculations, this article is worth reading. I used to struggle to solve hidden precision in Date like [this](http://martinfowler.com/bliki/HiddenPrecision.html){:target="_blank"}.
 
 <br>
 
@@ -119,6 +129,6 @@ by @ashfurrow
 ---
 
 If you have any questions and feedbacks about a kind of new Swifty week, feel free to ask me :+1:
-You can catch me on [Twitter](https://twitter.com/pixyzehn) and [Github](https://github.com/pixyzehn). If you interested in more, check the archive of [Swifty week](http://pixyzehn.com/tags/#swiftyweek){:target="_blank"}.
+You can catch me on [Twitter](https://twitter.com/pixyzehn){:target="_blank"} and [Github](https://github.com/pixyzehn){:target="_blank"}. If you interested in more, check the archive of [Swifty week](http://pixyzehn.com/tags/#swiftyweek){:target="_blank"}.
 
 Have a lovely week <3
