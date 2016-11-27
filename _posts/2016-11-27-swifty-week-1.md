@@ -9,7 +9,7 @@ comments: true
 This is the first week article. I inspired by many newsletters.
 Sometimes I wanted to wrap up articles I read about Swift and iOS. This series of articles will be posted in every week:)
 I try to do my best to achieve that.
-I'll add `#swiftyweek` tag to this series of articles.
+I'll add [#swiftyweek](http://pixyzehn.com/tags/#swiftyweek){:target="_blank"} tag to this series of articles.
 
 There are some notes in the Swifty Week.  
 
@@ -19,7 +19,7 @@ There are some notes in the Swifty Week.
 - I usually post on weekends.  
 - I put about 10 ~ 15 links with a short comment at most.
 - Subtitles are `Article`, `Github`, `Random` and so on. (To be added.)
-- This series may include old articles sometime. Not every link is new.
+- This series may include old articles. Keep in mind that not every link is new.
 
 I manage the all posts in [Github](https://github.com/pixyzehn/pixyzehn.github.io/tree/master/_posts){:target="_blank"}. Please create a PR or an issue if you want any changes.
 
@@ -119,6 +119,6 @@ by @ashfurrow
 ---
 
 If you have any questions and feedbacks about a kind of new Swifty week, feel free to ask me :+1:
-You can catch me on [Twitter](https://twitter.com/pixyzehn) and [Github](https://github.com/pixyzehn). If you interested in more, check other [Swifty week](http://localhost:4000/tags/#swiftyweek).
+You can catch me on [Twitter](https://twitter.com/pixyzehn) and [Github](https://github.com/pixyzehn). If you interested in more, check the archive of [Swifty week](http://pixyzehn.com/tags/#swiftyweek){:target="_blank"}.
 
 Have a lovely week <3
