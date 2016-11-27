@@ -99,6 +99,14 @@ Looks good and promising. I hope Swift evolve constantly in the future.
 
 <br>
 
+#### [First and Rest](http://www.figure.ink/blog/2016/11/12/first-and-rest?utm_source=Swift_Developments&utm_medium=email&utm_campaign=Swift_Developments_Issue_64){:target="_blank"}
+
+> Often times (especially when writing recursive functions) we want to take an array and split it into its first and remaining elements.
+
+I also interested in pursuing a most effective way. I tried other solutions on this theme [First and rest in Type erasure](http://pixyzehn.com/2016/11/24/first-and-rest-in-type-erasure.html).
+
+<br>
+
 ---
 
 ### Github
