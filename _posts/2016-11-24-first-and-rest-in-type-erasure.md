@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First and rest in Type erasure"
-date: 2016-11-24 021:53:00 +0900
+date: 2016-11-24 21:53:00 +0900
 tags: swift
 comments: true
 ---
