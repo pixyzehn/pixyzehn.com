@@ -32,3 +32,6 @@ Note: The following apps are only Japanese available and not under maintenance f
 ### Tool
 
 #### [stodo](https://github.com/pixyzehn/stodo) - Swifty command-line tool for todo list.
+
+#### [EsaKit](https://github.com/pixyzehn/EsaKit) - A Swift framework for the esa.io API [https://esa.io/](https://esa.io/).
+
