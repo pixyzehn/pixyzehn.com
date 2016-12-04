@@ -30,6 +30,6 @@ comments: true
 
 
 If you have any questions and feedbacks about a kind of new Swifty week, feel free to ask me :+1:
-You can catch me on [Twitter](https://twitter.com/pixyzehn) and [Github](https://github.com/pixyzehn).
+You can catch me on [Twitter](https://twitter.com/pixyzehn){:target="_blank"} and [Github](https://github.com/pixyzehn){:target="_blank"}.
 
 Have a lovely week <3
