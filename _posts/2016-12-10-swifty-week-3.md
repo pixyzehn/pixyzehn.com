@@ -7,7 +7,7 @@ comments: true
 ---
 
 Hi! This is the 3rd swifty week. Time flies so fast! The App Store's Holidays will be December 23 to 27 (Pacific Time).
-We'll have a busy week more than usual. By the way, I'm very excited attending [try!Swift Tokyo 2017](https://www.tryswift.co/tokyo/en){:target="_blank"}. If you have a chance to go the conference, give me a call :+1:
+We'll have a busy week more than usual. By the way, I'm very excited to attend [try!Swift Tokyo 2017](https://www.tryswift.co/tokyo/en){:target="_blank"}. If you have a chance to go the conference, feel free to talk to me :+1:
 
 Congrats :tada: - [Best of 2016](https://developer.apple.com/app-store/best-of-2016/){:target="_blank"}
 
@@ -164,7 +164,7 @@ I saw some famous algorithms in Swift Algorithm Club. The implementation is real
 
 #### [SIL Ownership Model](https://gottesmm.github.io/proposals/sil-ownership-model.html){:target="_blank"}
 
-Is it time to understand ownership For Swift4??
+Is it time to understand ownership for Swift4??
 
 <br>
 
