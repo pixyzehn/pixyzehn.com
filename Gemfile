@@ -15,5 +15,5 @@ group :jekyll_plugins do
 end
 
 group :development do
-  gem 'jekyll-admin', group: :jekyll_plugins
+  gem 'jekyll-admin'
 end
