@@ -1,4 +1,4 @@
-# pixyzehn.github.io
+# [pixyzehn.github.io](http://pixyzehn.com)
 
 [![Build Status](https://travis-ci.org/pixyzehn/pixyzehn.github.io.svg?branch=master)](https://travis-ci.org/pixyzehn/pixyzehn.github.io)
 [![Gihub Issue](https://img.shields.io/github/issues/pixyzehn/pixyzehn.github.io.svg)](https://github.com/pixyzehn/pixyzehn.github.io/issues)
@@ -8,10 +8,11 @@ Subscribe via [RSS](https://pixyzehn.github.io/feed.xml).
 
 ## Requirements
 
-- [Jekyll](https://jekyllrb.com)
+- [Bundler](https://bundler.io)
 - [Bower](https://bower.io)
+- [Jekyll](https://jekyllrb.com)
 
-## Instration
+## Installation
 
 ```bash
 $ git clone https://github.com/pixyzehn/pixyzehn.github.io.git
@@ -23,19 +24,28 @@ $ bower install
 ## Build
 
 ```bash
+$ bundle exec jekyll build
+```
+
+## Preview
+
+```bash
 $ bundle exec jekyll serve
 ```
 
-If you'd like to show your draft files, use this.
+You can see the site locally. [http://localhost:4000](http://localhost:4000)  
+And the admin is here. [http://localhost:4000/admin](http://localhost:4000/admin)
+
+## Draft
+
+Create a new post in `_drafts` locally. (NOTE: Added `_drafts` in `.gitginore`.)
 
 ```bash
-$ bundle exec jekyll serve --drafts
+$ bundle exec jekyll build --future --drafts --watch
 ```
-
-You can see the site locally. [http://localhost:4000](http://localhost:4000)
 
 ## License
 
 Code is open sourced under the [MIT license](LICENSE.md).
 
-Content is released under a [Creative Commons BY-NC License](http://creativecommons.org/licenses/by-nc/4.0/)
+Content is released under a [Creative Commons BY-NC License](http://creativecommons.org/licenses/by-nc/4.0/).
