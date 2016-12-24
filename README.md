@@ -11,6 +11,7 @@ Subscribe via [RSS](https://pixyzehn.github.io/feed.xml).
 - [Bundler](https://bundler.io)
 - [Bower](https://bower.io)
 - [Jekyll](https://jekyllrb.com)
+- [Danger](http://danger.systems/)
 
 ## Installation
 
