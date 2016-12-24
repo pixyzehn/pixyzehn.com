@@ -1,5 +1,4 @@
-# Look for prose issues
-prose.lint_files "_posts/*.md"
+message("Hello, I'm working:)")
 
-# Runs a spell checker on all files in `_post`
-prose.check_spelling "_posts/*.md"
+prose.lint_files "_posts/*.md"
+prose.check_spelling

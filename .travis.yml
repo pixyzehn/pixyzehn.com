@@ -7,7 +7,9 @@ before_script:
 
 install: bundle install --jobs=3 --retry=3 --without development
 
-script: ./script/cibuild
+script:
+ - ./script/cibuild
+ - bundle exec danger
 
 branches:
   only:
