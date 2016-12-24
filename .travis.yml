@@ -9,7 +9,7 @@ install: bundle install --jobs=3 --retry=3 --without development
 
 script:
  - ./script/cibuild
- - bundle exec danger
+ - bundle exec danger --no-fail
 
 branches:
   only:
