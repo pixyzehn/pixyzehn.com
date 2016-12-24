@@ -16,6 +16,12 @@ comments: true
 
 ---
 
+### Slide
+
+<br>
+
+---
+
 ### Github
 
 <br>
@@ -28,6 +34,11 @@ comments: true
 
 ---
 
+### Podcast
+
+<br>
+
+---
 
 If you have any questions and feedbacks about a kind of new Swifty week, feel free to ask me :+1:
 You can catch me on [Twitter](https://twitter.com/pixyzehn){:target="_blank"} and [Github](https://github.com/pixyzehn){:target="_blank"}.
