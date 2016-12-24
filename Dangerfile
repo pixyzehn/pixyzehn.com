@@ -1,4 +1,4 @@
 message("Hello, I'm working:)")
 
-prose.lint_files "_posts/*.md"
+prose.lint_files
 prose.check_spelling
