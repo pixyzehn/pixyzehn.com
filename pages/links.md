@@ -27,3 +27,4 @@ To be added...
 - [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html){:target="_blank"}  
 - [Programming books you might want to consider reading (12 CS books)](http://danluu.com/programming-books/)
 - [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
+- [Things I Love by Khanlou](http://khanlou.com/love/)
