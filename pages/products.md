@@ -12,25 +12,25 @@ This is my portfolio.
 
 - [EsaKit](https://github.com/pixyzehn/EsaKit) - A Swift framework for the esa.io API [https://esa.io](https://esa.io).
 
-#### iOS App (Individual app)
+#### iOS App (Personal app including all designs)
 
-- Taskey - Task & Todo list
+- Taskey - Task & Todo list: [[iTunes link](https://itunes.apple.com/us/app/taskey-tasuku-guan-li-todorisuto/id1063089003?ls=1&mt=8){:target="_blank"}]
 
-> [Taskey](https://itunes.apple.com/us/app/taskey-tasuku-guan-li-todorisuto/id1063089003?ls=1&mt=8){:target="_blank"} is a quick, cool, simple and intuitive task management application that helps you get stuff done.
+> Tasky is a quick, cool, simple and intuitive task management application that helps you get stuff done.
 
 ![taskey01]({{ site.url }}/assets/taskey01.jpg){:width="40%"}
 ![taskey02]({{ site.url }}/assets/taskey02.jpg){:width="40%"}
 
-- Esafeed for esa.io
+- Esafeed for esa.io: [[iTunes link](https://itunes.apple.com/us/app/esafeed-for-esa.io/id1111901482?ls=1&mt=8){:target="_blank"}]
 
-> [Esafeed](https://itunes.apple.com/us/app/esafeed-for-esa.io/id1111901482?ls=1&mt=8){:target="_blank"} is a feed reader for [esa.io](https://esa.io/){:target="_blank"}.
+> Esafeed is a feed reader for [esa.io](https://esa.io/){:target="_blank"}.
 
 ![esafeed01]({{ site.url }}/assets/esafeed01.jpg){:width="40%"}
 ![esafeed02]({{ site.url }}/assets/esafeed02.jpg){:width="40%"}
 
-- Motivation from age
+- Motivation from age: [[iTunes link](https://itunes.apple.com/us/app/motivation-from-age/id1028896399?ls=1&mt=8){:target="_blank"}]
 
-> [Motivation from age](https://itunes.apple.com/us/app/motivation-from-age/id1028896399?ls=1&mt=8){:target="_blank"} terrifyingly shows your age.
+> Motivation from age terrifyingly shows your age.
 
 ![motivation01]({{ site.url }}/assets/motivation01.jpg){:width="40%"}
 ![motivation02]({{ site.url }}/assets/motivation02.jpg){:width="40%"}
