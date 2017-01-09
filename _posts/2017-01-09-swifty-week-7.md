@@ -13,6 +13,9 @@ If you interested in how to support SSL on Github Pages, See [the blog](https://
 
 [Moya](https://github.com/Moya/Moya){:target="_blank"} finally released v8.0.0 :tada:
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">age += 1</p>&mdash; Hiroki Nagasawa (@pixyzehn) <a href="https://twitter.com/pixyzehn/status/818243695107457024">January 8, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <br>
 
 ---
