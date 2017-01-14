@@ -7,7 +7,7 @@ comments: true
 ---
 
 This article is based on @JaviSoto's [gist](https://gist.github.com/JaviSoto/3bfb2c9e272a1363431fdad4d9b1d7e8).
-He did the way in the Twitter's official Fabric app to work around [this]((http://holko.pl/2016/12/14/storyboards-dependency-injection/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_281)) in UIKit. It looks reliable and useful, so I just write it up for a memo.
+He did the way in the Twitter's official Fabric app to work around [this](http://holko.pl/2016/12/14/storyboards-dependency-injection/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_281) in UIKit. It looks reliable and useful, so I just write it up for a memo.
 
 The trivial one problem is that I always use a bunch of Storyboards not only `Main.storyboard`. I customized like this.
 
