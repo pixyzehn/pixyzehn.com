@@ -247,7 +247,7 @@ I tried to create docs in [EsaKit](https://github.com/pixyzehn/EsaKit). Docs are
 
 ### Podcast
 
-In this week, there not updated Podcast:(  
+In this week, there was no updated Podcast:(  
 But, I like listening to the past episode from [fatalerror.fm](https://fatalerror.fm/).
 
 <br>
