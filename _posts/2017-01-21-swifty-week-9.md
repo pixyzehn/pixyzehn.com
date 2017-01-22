@@ -3,7 +3,7 @@ layout: post
 title: "Swifty Week 9"
 date: 2017-01-21 21:35:00 +0900
 tags: swift swiftyweek
-comments: true
+comments: false
 ---
 
 This is the **#9** article. I now work on a small private project with Realm. I wrote [ViewModel with Realm Notifications](https://pixyzehn.com/2017/01/21/viewmodel-with-realm-notifications.html). The result is so far so good. I could write tests easily.
@@ -13,7 +13,7 @@ This is the **#9** article. I now work on a small private project with Realm. I 
 
 Let's move on today's topic as usual!
 
-If you'd like to see markdown, you can look at [here](https://github.com/pixyzehn/pixyzehn.github.io/blob/master/_posts/2017-01-14-swifty-week-9.md).
+If you'd like to see markdown, you can look at [here](https://github.com/pixyzehn/pixyzehn.github.io/blob/master/_posts/2017-01-21-swifty-week-9.md).
 
 <br>
 
@@ -164,7 +164,7 @@ Actual site is here. [apple.github.io/swift-evolution](https://apple.github.io/s
 
 > Being a good developer and team member is about so much more than programming. With years you can gain much technical experience, but if you do not invest time and energy into improving your soft skills, you can create a bottleneck for your career, one that you might not even see.
 
-Thank you for good advice. It worths reading.
+Thank you for good advice. It's worth reading.
 
 <br>
 
@@ -210,7 +210,7 @@ I hope not...
 
 > Follow up: MacRumors talks with Lattner
 
-This epicode's guest is Chris Lattner!!
+This episode's guest is Chris Lattner!!
 
 <br>
 
