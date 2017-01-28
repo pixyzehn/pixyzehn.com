@@ -2,7 +2,7 @@
 layout: post
 title: "Swifty Week 7"
 date: 2017-01-09 13:18:00 +0900
-tags: swift swiftyweek
+tags: swiftyweek
 comments: true
 ---
 
