@@ -14,12 +14,12 @@ This is my portfolio.
 
 #### iOS App (Personal app including all designs)
 
-- Kigen: Todo List for reminder [[iTunes link](https://itunes.apple.com/jp/app/kigen-todo-list-for-reminder/id1198205732?l=en&mt=8){:target="_blank"}]
+- Kigen: Todo List for reminder [[iTunes link](https://itunes.apple.com/us/app/kigen-todo-list-for-reminder/id1198205732?l=en&mt=8){:target="_blank"}]
 
 > Kigen is a Todo list for reminder. It helps you remind of your important tasks.
 
-![kigen01]({{ site.url }}/assets/kigen01.png){:width="40%"}
-![kigen02]({{ site.url }}/assets/kigen02.png){:width="40%"}
+![kigen01]({{ site.url }}/assets/kigen01.jpg){:width="40%"}
+![kigen02]({{ site.url }}/assets/kigen02.jpg){:width="40%"}
 
 - Taskey - Task & Todo list: [[iTunes link](https://itunes.apple.com/us/app/taskey-tasuku-guan-li-todorisuto/id1063089003?ls=1&mt=8){:target="_blank"}]
 
