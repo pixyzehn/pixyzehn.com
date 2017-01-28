@@ -18,8 +18,8 @@ This is my portfolio.
 
 > Kigen is a Todo list for reminder. It helps you remind of your important tasks.
 
-![kigen01]({{ site.url }}/assets/kigen01.png){:width="40%"}
-![kigen02]({{ site.url }}/assets/kigen02.png){:width="40%"}
+![kigen01]({{ site.url }}/assets/kigen01.jpg){:width="40%"}
+![kigen02]({{ site.url }}/assets/kigen02.jpg){:width="40%"}
 
 - Taskey - Task & Todo list: [[iTunes link](https://itunes.apple.com/us/app/taskey-tasuku-guan-li-todorisuto/id1063089003?ls=1&mt=8){:target="_blank"}]
 
