@@ -14,6 +14,7 @@ group :jekyll_plugins do
   gem 'jekyll-mentions'
   gem 'jemoji'
   gem 'jekyll-gist'
+  gem 'jekyll-archives'
 end
 
 group :development do
