@@ -30,6 +30,5 @@ gems:
   - jekyll-mentions
   - jemoji
   - jekyll-gist
-  - jekyll-archives
 
 exclude: [vendor]
