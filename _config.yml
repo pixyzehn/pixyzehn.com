@@ -12,9 +12,13 @@ github_username: pixyzehn
 
 links:
   repo: 'https://github.com/pixyzehn/pixyzehn.github.io'
-  twitter: 'https://twitter.com/pixyzehn'
   github: 'https://github.com/pixyzehn'
+  twitter: 'https://twitter.com/pixyzehn'
+  facebook: 'https://www.facebook.com/pixyzehn'
   linkedin: 'https://www.linkedin.com/in/pixyzehn'
+  stackoverflow: 'http://stackoverflow.com/users/2461812/pixyzehn'
+  medium: 'https://medium.com/@pixyzehn'
+  rss: 'https://pixyzehn.com/feed.xml'
 
 # Build settings
 markdown: kramdown
