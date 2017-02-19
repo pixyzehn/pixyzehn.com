@@ -28,3 +28,4 @@ To be added...
 - [Programming books you might want to consider reading (12 CS books)](http://danluu.com/programming-books/)
 - [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Things I Love by Khanlou](http://khanlou.com/love/)
+- [English has been my pain for 15 years](http://antirez.com/news/61)
