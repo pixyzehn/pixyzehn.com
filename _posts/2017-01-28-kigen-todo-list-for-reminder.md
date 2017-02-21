@@ -24,7 +24,7 @@ Enjoy your life with Kigen:)
 ---
 
 I plan to update this app for learning because now it has a minimum feature:(  
-In this app, I introduced [ViewModel with Realm Notifications](http://localhost:4000/2017/01/21/viewmodel-with-realm-notifications.html). Thanks to this pattern, I could write tests easily.
+In this app, I introduced [ViewModel with Realm Notifications](https://pixyzehn.com/2017/01/21/viewmodel-with-realm-notifications.html). Thanks to this pattern, I could write tests easily.
 
 [Kigen[iTunes link]](https://itunes.apple.com/us/app/kigen-todo-list-for-reminder/id1198205732?l=en&mt=8)
 
