@@ -30,3 +30,4 @@ To be added...
 - [Things I Love by Khanlou](http://khanlou.com/love/)
 - [English has been my pain for 15 years](http://antirez.com/news/61)
 - [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+- [Dependency injection is not a virtue](http://david.heinemeierhansson.com/2012/dependency-injection-is-not-a-virtue.html)
