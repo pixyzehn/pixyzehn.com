@@ -13,7 +13,7 @@ If you have a question and a feedback, feel free to contact me. The origin of my
 
 <hr>
 
-I like taking photos with iPhone everywhere and use flickr as an image hosting. Here are [my photos](https://www.flickr.com/photos/pixyzehn/albums){:target="_blank"} and [Instgram](https://www.instagram.com/pixyzehn/){:target="_blank"}. Now I try to write what I experienced in somewhere as a travelogue. If you are interested, please visit [pixyzehn.info](http://pixyzehn.info/){:target="_blank"}. I have put my favorite [links](../links){:target="_blank"} just for myself.
+I like taking photos with iPhone everywhere and use flickr as an image hosting. Here are [my photos](https://www.flickr.com/photos/pixyzehn/albums){:target="_blank"} and [Instgram](https://www.instagram.com/pixyzehn/){:target="_blank"}. I have put my favorite [links](../links){:target="_blank"} just for myself.
 
 ### About This Site
 
