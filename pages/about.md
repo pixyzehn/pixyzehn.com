@@ -13,11 +13,11 @@ If you have a question and a feedback, feel free to contact me. The origin of my
 
 <hr>
 
-I like taking photos with iPhone everywhere and use flickr as an image hosting. Here are [my photos](https://www.flickr.com/photos/pixyzehn/albums){:target="_blank"} and [Instgram](https://www.instagram.com/pixyzehn/){:target="_blank"}. I have put my favorite [links](../links){:target="_blank"} just for myself.
+I like taking photos with iPhone everywhere and use flickr as an image hosting. Here are [my photos](https://www.flickr.com/photos/pixyzehn/albums) and [Instgram](https://www.instagram.com/pixyzehn/). I have put my favorite [links](../links) just for myself.
 
 ### About This Site
 
-I build this site by [jekyll](https://github.com/jekyll/jekyll){:target="_blank"}. So far It looks good for me. I write articles in Markdown and deploy this site using [Github](https://github.com/pixyzehn/pixyzehn.github.io){:target="_blank"}.
+I build this site by [jekyll](https://github.com/jekyll/jekyll). So far It looks good for me. I write articles in Markdown and deploy this site using [Github](https://github.com/pixyzehn/pixyzehn.github.io).
 
 Feel free to say hi :+1:
 
