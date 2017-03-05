@@ -23,6 +23,19 @@ This is what he did to avoid a collision.
 
 <script src="https://gist.github.com/pixyzehn/f36b2101d2640c27a6053e0a84cba797.js"></script>
 
+This way uses `FNV-1a hash` as a hash algorithm.
+
+> The FNV-1a hash differs from the FNV-1 hash by only the order in which the multiply and XOR is performed
+
+```
+hash = FNV_offset_basis
+for each byte_of_data to be hashed
+    hash = hash XOR byte_of_data
+    hash = hash × FNV_prime
+return hash
+```
+[FNV-1a hash in Wikipedia](https://en.wikipedia.org/wiki/Fowler%E2%80%93Noll%E2%80%93Vo_hash_function#FNV-1a_hash)
+
 ---
 
 The another interesting way to solve these problems is from [Sourcery's AutoHashable](https://github.com/krzysztofzablocki/Sourcery/blob/master/Templates/AutoHashable.stencil). But Sourcery create `AutoHashable` automatically. Awesome!!
