@@ -20,7 +20,7 @@ If I confirm to `AutoEquatable` or `AutoHashable` or both, `Sourcery` creates a 
 - AutoHashable 
 <script src="https://gist.github.com/pixyzehn/f9a73f1ccb1b589e1b77212c47aa2abc.js"></script>
 
-If I add a new property or a new API, it prevents a human error! Though it looks trivial, `Sourcery` uses a safe `Hashable` as I mentioned in [Safe Hashable in Swift](pixyzehn.com/2017/03/04/safe-hashable-in-swift.html). Isn't it cool?
+If I add a new property or a new API, it prevents a human error! Though it looks trivial, `Sourcery` uses a safe `Hashable` as I mentioned in [Safe Hashable in Swift](https://pixyzehn.com/2017/03/04/safe-hashable-in-swift.html). Isn't it cool?
 
 ---
 
