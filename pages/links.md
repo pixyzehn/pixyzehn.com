@@ -25,6 +25,7 @@ To be added...
 
 #### Life
 - [Sleep Smarter](http://radex.io/books/sleep-smarter/)
+- [GTD in 15 minutes](https://hamberg.no/gtd/)
 
 #### Misc
 - [180 websites in 180 days](https://jenniferdewalt.com/)
