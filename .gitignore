@@ -2,3 +2,6 @@ _site
 .sass-cache
 .jekyll-metadata
 _drafts
+
+vendor/
+.bundle/config
