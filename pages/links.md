@@ -27,13 +27,16 @@ To be added...
 - [Sleep Smarter](http://radex.io/books/sleep-smarter/)
 - [GTD in 15 minutes](https://hamberg.no/gtd/)
 
+#### Book
+- [The five programming books that meant most to me](https://signalvnoise.com/posts/3375-the-five-programming-books-that-meant-most-to-me)
+- [Programming books you might want to consider reading (12 CS books)](http://danluu.com/programming-books/)
+
 #### Misc
 - [180 websites in 180 days](https://jenniferdewalt.com/)
 - [Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 - [Copying](http://robnapier.net/copying)
 - [If you don’t have pet projects, I don’t think want you](https://ayende.com/blog/90113/if-you-dont-have-pet-projects-i-dont-think-i-want-you)
 - [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
-- [Programming books you might want to consider reading (12 CS books)](http://danluu.com/programming-books/)
 - [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Things I Love by Khanlou](http://khanlou.com/love/)
 - [English has been my pain for 15 years](http://antirez.com/news/61)
