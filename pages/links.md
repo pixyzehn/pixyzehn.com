@@ -41,3 +41,4 @@ To be added...
 - [Things I Love by Khanlou](http://khanlou.com/love/)
 - [English has been my pain for 15 years](http://antirez.com/news/61)
 - [Dependency injection is not a virtue](http://david.heinemeierhansson.com/2012/dependency-injection-is-not-a-virtue.html)
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
