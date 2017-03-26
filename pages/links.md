@@ -39,6 +39,7 @@ To be added...
 #### Programming
 - [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Dependency injection is not a virtue](http://david.heinemeierhansson.com/2012/dependency-injection-is-not-a-virtue.html)
+- [How I wrote a self-hosting C compiler in 40 days](http://www.sigbus.info/how-i-wrote-a-self-hosting-c-compiler-in-40-days.html)
 
 #### Misc
 - [Copying](http://robnapier.net/copying)
