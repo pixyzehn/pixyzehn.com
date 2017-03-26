@@ -41,6 +41,12 @@ To be added...
 - [Dependency injection is not a virtue](http://david.heinemeierhansson.com/2012/dependency-injection-is-not-a-virtue.html)
 - [How I wrote a self-hosting C compiler in 40 days](http://www.sigbus.info/how-i-wrote-a-self-hosting-c-compiler-in-40-days.html)
 
+#### Open Source
+- [Open Source Contribution Etiquette](http://tirania.org/blog/archive/2010/Dec-31.html)
+- ["Merge pull request" Considered Harmful](https://blog.spreedly.com/2014/06/24/merge-pull-request-considered-harmful/)
+- [Becoming Open Source by Default](http://code.dblock.org/2015/02/09/becoming-open-source-by-default.html)
+- [How to be an open source gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)
+
 #### Misc
 - [Copying](http://robnapier.net/copying)
 - [If you don’t have pet projects, I don’t think want you](https://ayende.com/blog/90113/if-you-dont-have-pet-projects-i-dont-think-i-want-you)
