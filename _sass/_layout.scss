@@ -5,6 +5,7 @@
     border-top: 5px solid $orange-color;
     // Positioning context for the mobile navigation icon
     position: relative;
+    background: $black-bg-color;
 }
 
 .site-title {
@@ -48,10 +49,10 @@
 
     @include media-query($on-palm) {
         position: absolute;
-        top: 12px;
+        top: 14px;
         right: $spacing-unit / 2;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
+        background-color: $black-bg-color;
+        border: 1px solid #424242;
         border-radius: 5px;
         text-align: right;
 
@@ -70,7 +71,7 @@
                 height: 15px;
 
                 path {
-                    fill: $grey-color-dark;
+                    fill: #aaa;
                 }
             }
         }
