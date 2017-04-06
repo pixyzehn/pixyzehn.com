@@ -24,7 +24,7 @@ links:
 markdown: kramdown
 highlighter: rouge
 paginate: 8
-paginate_path: "/blog/page/:num"
+paginate_path: "/blog/:num"
 
 gems:
   - jekyll-sitemap
