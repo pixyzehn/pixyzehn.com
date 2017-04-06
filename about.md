@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
 ---
 
 ![My profile]({{ site.url }}/assets/profile.png){:height="75px" width="75px" .profile-image}
