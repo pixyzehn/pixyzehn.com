@@ -27,6 +27,7 @@ To be added...
 - [As a software engineer, what's the best skill set to have for the next 5-10 years?](http://brianknapp.me/software-engineer-best-skill/)
 - [How to be an open source gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)
 - [180 websites in 180 days](https://jenniferdewalt.com/)
+- [self.made()](https://bugkrusha.com/2017/03/26/blogging-finally/)
 
 #### Life
 - [Sleep Smarter](http://radex.io/books/sleep-smarter/)
