@@ -37,6 +37,7 @@ To be added...
 #### Book
 - [The five programming books that meant most to me](https://signalvnoise.com/posts/3375-the-five-programming-books-that-meant-most-to-me)
 - [Programming books you might want to consider reading (12 CS books)](http://danluu.com/programming-books/)
+- [Books that Changed My Perspective](https://medium.com/the-year-of-the-looking-glass/books-that-changed-my-perspective-502c25baeeaa)
 
 #### Programming
 - [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
