@@ -10,6 +10,7 @@ To be added...
 
 #### Swift
 - [Swift Weak References by Mike Ash](https://www.mikeash.com/pyblog/friday-qa-2015-12-11-swift-weak-references.html)
+- [Method Dispatch in Swift](https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/)
 
 #### Git
 - [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
