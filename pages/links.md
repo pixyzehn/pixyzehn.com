@@ -12,6 +12,9 @@ To be added...
 - [Swift Weak References by Mike Ash](https://www.mikeash.com/pyblog/friday-qa-2015-12-11-swift-weak-references.html)
 - [Method Dispatch in Swift](https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/)
 
+#### iOS
+- [iOS demo project checklist ✅](http://codeplease.io/2017/04/15/tech-demo-checklist/)
+
 #### Git
 - [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
 
