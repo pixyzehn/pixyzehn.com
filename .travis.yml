@@ -3,6 +3,7 @@ rvm:
 - 2.2
 
 before_script:
+ - npm install -g bower
  - bower install
  - chmod +x ./script/cibuild
 
