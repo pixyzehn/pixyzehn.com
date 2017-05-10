@@ -59,3 +59,4 @@ To be added...
 - [If you don’t have pet projects, I don’t think want you](https://ayende.com/blog/90113/if-you-dont-have-pet-projects-i-dont-think-i-want-you)
 - [Things I Love by Khanlou](http://khanlou.com/love/)
 - [English has been my pain for 15 years](http://antirez.com/news/61)
+- [The Story of the Mexican Fisherman](https://bemorewithless.com/the-story-of-the-mexican-fisherman/)
