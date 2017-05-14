@@ -6,6 +6,8 @@ permalink: /mountain/
 
 <h4>2017</h4>
 
+- Mt. Jiro-gyu (1,930m), 2017/05/14
+- Mt. Tsurugi (1,955m), 2017/05/14
 - Mt. Buko (1,304m), 2017/05/07
 - Mt. Daimonji (466m), 2017/01/02
 
