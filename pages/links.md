@@ -12,6 +12,7 @@ To be added...
 - [Swift Weak References by Mike Ash](https://www.mikeash.com/pyblog/friday-qa-2015-12-11-swift-weak-references.html)
 - [Method Dispatch in Swift](https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/)
 - [All about Concurrency in Swift](https://www.uraimo.com/2017/05/07/all-about-concurrency-in-swift-1-the-present/)
+- [The GCD Handbook](http://khanlou.com/2016/04/the-GCD-handbook/)
 
 #### iOS
 - [iOS demo project checklist ✅](http://codeplease.io/2017/04/15/tech-demo-checklist/)
