@@ -8,7 +8,7 @@ comments: true
 
 Recently I created [PackageBuilder](https://github.com/pixyzehn/PackageBuilder) to build a simple command-line structure easily by SwiftPM. It's very simple, but it saves a lot your development time if you'd like to create a command line tool like [Marathon](https://github.com/JohnSundell/Marathon) created by @JohnSundell. This automatic tool is based on [his great article](https://www.swiftbysundell.com/posts/building-a-command-line-tool-using-the-swift-package-manager). Also, This tool inspired by [JohnSundell/SwiftPlate](https://github.com/JohnSundell/SwiftPlate). If you agree with them, I'm sure you'll like it:)
 
-In its usege, what you have to do is just like this,
+In its usage, what you have to do is just like this,
 
 ```console
 $ packagebuilder {PACKAGE_NAME}
