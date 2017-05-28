@@ -8,6 +8,8 @@ This is my portfolio.
 
 #### Tool
 
+- [Linter](https://github.com/pixyzehn/Linter) - A simple tool to make it easy to introduce SwiftLint from zero especially for a new project.
+
 - [PackageBuilder](https://github.com/pixyzehn/PackageBuilder) - PackageBuilder builds a simple command-line structure by SwiftPM.
 
 - [stodo](https://github.com/pixyzehn/stodo) - Swifty command-line tool for todo list.
