@@ -49,6 +49,7 @@ To be added...
 - [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Dependency injection is not a virtue](http://david.heinemeierhansson.com/2012/dependency-injection-is-not-a-virtue.html)
 - [How I wrote a self-hosting C compiler in 40 days](http://www.sigbus.info/how-i-wrote-a-self-hosting-c-compiler-in-40-days.html)
+- [Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html), [Japanese](http://www.yamdas.org/column/technique/21-daysj.html)
 
 #### Open Source
 - [Open Source Contribution Etiquette](http://tirania.org/blog/archive/2010/Dec-31.html)
