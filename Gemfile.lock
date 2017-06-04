@@ -47,7 +47,7 @@ GEM
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
     git (1.3.0)
-    github-pages (138)
+    github-pages (139)
       activesupport (= 4.2.8)
       github-pages-health-check (= 1.3.3)
       jekyll (= 3.4.3)
@@ -76,7 +76,7 @@ GEM
       jekyll-theme-midnight (= 0.0.4)
       jekyll-theme-minimal (= 0.0.4)
       jekyll-theme-modernist (= 0.0.4)
-      jekyll-theme-primer (= 0.1.8)
+      jekyll-theme-primer (= 0.2.1)
       jekyll-theme-slate (= 0.0.4)
       jekyll-theme-tactile (= 0.0.4)
       jekyll-theme-time-machine (= 0.0.4)
@@ -95,7 +95,7 @@ GEM
       octokit (~> 4.0)
       public_suffix (~> 2.0)
       typhoeus (~> 0.7)
-    html-pipeline (2.5.0)
+    html-pipeline (2.6.0)
       activesupport (>= 2)
       nokogiri (>= 1.4)
     html-proofer (3.7.2)
@@ -107,7 +107,7 @@ GEM
       parallel (~> 1.3)
       typhoeus (~> 0.7)
       yell (~> 2.0)
-    i18n (0.8.1)
+    i18n (0.8.4)
     jekyll (3.4.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -119,7 +119,7 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
-    jekyll-admin (0.5.0)
+    jekyll-admin (0.5.1)
       addressable (~> 2.4)
       jekyll (~> 3.3)
       sinatra (~> 1.4)
@@ -175,7 +175,7 @@ GEM
       jekyll (~> 3.3)
     jekyll-theme-modernist (0.0.4)
       jekyll (~> 3.3)
-    jekyll-theme-primer (0.1.8)
+    jekyll-theme-primer (0.2.1)
       jekyll (~> 3.3)
     jekyll-theme-slate (0.0.4)
       jekyll (~> 3.3)
@@ -270,4 +270,4 @@ DEPENDENCIES
   jemoji
 
 BUNDLED WITH
-   1.14.6
+   1.15.0
