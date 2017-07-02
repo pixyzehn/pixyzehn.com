@@ -8,7 +8,7 @@ permalink: /
 
 {% include contact_follow.html %}
 
-I'm Hiroki Nagasawa and I live in Chiba, Japan, which is next to Tokyo. Thank you for visiting this site. I mostly develop iOS apps, libraries, and tools. My motto is to create something that fills people all over the world with great :Delight. I'll share some pratical tips in my blog.
+I'm Hiroki Nagasawa and I currently live in Porto, Portugal. Thank you for visiting this site. I mostly develop iOS apps, libraries, and tools. My motto is to create something that fills people all over the world with great :Delight. I'll share some pratical tips in my blog.
 If you have any questions or feedback, please feel free to contact me. On a more personal note, my account name "pixyzehn" comes from my childhood football hero [Dragan Stojkovic](https://en.wikipedia.org/wiki/Dragan_Stojkovi%C4%87). He was my superstar in football when I was a child.
 
 <hr>
