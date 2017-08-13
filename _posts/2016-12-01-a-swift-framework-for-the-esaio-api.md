@@ -3,6 +3,7 @@ layout: post
 title: "A Swift framework for the esa.io API"
 date: 2016-12-1 7:39:00 +0900
 tags: swift
+category: blog
 comments: true
 ---
 

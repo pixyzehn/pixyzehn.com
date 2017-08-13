@@ -3,6 +3,7 @@ layout: post
 title: "Using Forestry.io as a CMS"
 date: 2016-07-07 10:00:00 +0900
 tags: jekyll
+category: blog
 comments: true
 ---
 

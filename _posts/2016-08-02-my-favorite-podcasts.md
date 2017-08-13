@@ -3,6 +3,7 @@ layout: post
 title: "My favorite podcasts"
 date: 2016-08-02 08:37:00 +0900
 tags: blog
+category: blog
 comments: true
 ---
 I'd like to introduce you to my favorite podcasts in this article. They are almost all related to iOS development. If you're interested in that field, you may find a new podcast. And I intend to update this article regularly. <5/5> means a five star rating in my opinion.

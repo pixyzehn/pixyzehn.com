@@ -3,6 +3,7 @@ layout: post
 title: "Adding Jekyll plugins to my Github page"
 date: 2016-08-03 07:40:00 +0900
 tags: jekyll
+category: blog
 comments: false
 ---
 

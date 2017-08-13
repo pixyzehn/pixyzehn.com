@@ -3,6 +3,7 @@ layout: post
 title: "Init based Storyboard ViewController"
 date: 2017-01-14 19:14:00 +0900
 tags: swift
+category: blog
 comments: true
 ---
 

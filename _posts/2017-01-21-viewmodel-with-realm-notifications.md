@@ -3,6 +3,7 @@ layout: post
 title: "ViewModel with Realm Notifications"
 date: 2017-01-21 17:31:00 +0900
 tags: swift realm
+category: blog
 comments: true
 ---
 

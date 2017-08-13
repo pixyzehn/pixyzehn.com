@@ -3,6 +3,7 @@ layout: post
 title: "Migration memo from Swift2 to Swift3.0 in a real app"
 date: 2016-09-25 19:11:00 +0900
 tags: swift
+category: blog
 comments: true
 ---
 

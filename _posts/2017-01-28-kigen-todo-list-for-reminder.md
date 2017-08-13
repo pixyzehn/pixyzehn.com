@@ -3,6 +3,7 @@ layout: post
 title: "Kigen: Todo List for reminder"
 date: 2017-01-28 20:24:00 +0900
 tags: app
+category: blog
 comments: true
 ---
 

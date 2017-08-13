@@ -3,6 +3,7 @@ title: Setup Fastlane with CircleCI
 layout: post
 date: '2016-08-24 08:25:00 +0900'
 tags: fastlane
+category: blog
 comments: true
 ---
 
