@@ -3,7 +3,6 @@ layout: post
 title: Safe Hashable in Swift
 date: 2017-03-04
 tags: swift
-category: blog
 comments: true
 ---
 

@@ -3,7 +3,6 @@ layout: post
 title: "Selector with Default Parameter Value"
 date: 2016-08-11 15:23:00 +0900
 tags: swift
-category: blog
 comments: true
 ---
 

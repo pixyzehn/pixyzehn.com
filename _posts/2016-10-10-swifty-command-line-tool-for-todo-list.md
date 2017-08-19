@@ -3,7 +3,6 @@ layout: post
 title: "Swifty command-line tool for todo list"
 date: 2016-10-10 09:28:00 +0900
 tags: swift
-category: blog
 comments: true
 ---
 

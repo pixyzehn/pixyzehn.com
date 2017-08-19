@@ -3,7 +3,6 @@ layout: post
 title: AutoEquatable and AutoHashable by Sourcery
 date: 2017-03-09
 tags: swift
-category: blog
 comments: true
 ---
 

@@ -3,7 +3,6 @@ layout: post
 title: "try!Swift NYC"
 date: 2016-09-16 08:52:00 +0900
 tags: swift
-category: blog
 comments: true
 ---
 
