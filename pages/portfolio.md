@@ -8,6 +8,8 @@ This is my portfolio.
 
 #### Tool
 
+- [Snippet](https://github.com/pixyzehn/Snippet) - Quickly extract your specific Github PRs with links last week (or earlier than last week) to markdown formats.
+
 - [Linter](https://github.com/pixyzehn/Linter) - A simple tool to make it easy to introduce SwiftLint from zero especially for a new project.
 
 - [PackageBuilder](https://github.com/pixyzehn/PackageBuilder) - PackageBuilder builds a simple command-line structure by SwiftPM.
