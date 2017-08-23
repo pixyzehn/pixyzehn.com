@@ -54,43 +54,35 @@ tags: swiftyweek
 comments: false
 ---
 
-This is the **#$NUMBER** article. 
-
-<br>
+This is the **#$NUMBER** article.
 
 ---
 
 ### Article
 
-<br>
 
 ---
 
 ### Slide
 
-<br>
 
 ---
 
 ### Github
 
-<br>
 
 ---
 
 ### Random
 
-<br>
 
 ---
 
 ### Podcast
 
-<br>
 
 ---
 
-If you have any questions and feedbacks about a kind of new Swifty week, feel free to ask me :+1:
 You can catch me on [Twitter](https://twitter.com/pixyzehn) and [Github](https://github.com/pixyzehn).
 
 Have a lovely week <3
