@@ -49,7 +49,7 @@ touch $POST
 echo "---
 layout: post
 title: "Swifty Week $NUMBER"
-date: $YEAR $TIME:00 +0900
+date: $YEAR $TIME:00 +0100
 tags: swiftyweek
 comments: false
 ---
