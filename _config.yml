@@ -23,16 +23,12 @@ links:
 # Build settings
 markdown: kramdown
 highlighter: rouge
-
-pagination:
-  enabled: true
-  per_page: 8
-  sort_field: 'date'
-  sort_reverse: true
+paginate: 8
+paginate_path: "/blog/:num"
 
 plugins:
   - jekyll-sitemap
-  - jekyll-paginate-v2
+  - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-mentions
