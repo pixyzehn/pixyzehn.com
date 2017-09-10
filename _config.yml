@@ -23,6 +23,8 @@ links:
 # Build settings
 markdown: kramdown
 highlighter: rouge
+paginate: 8
+paginate_path: "/blog/:num"
 
 plugins:
   - jekyll-sitemap
@@ -32,6 +34,5 @@ plugins:
   - jekyll-mentions
   - jemoji
   - jekyll-gist
-  - octopress-paginate
 
 exclude: [vendor]

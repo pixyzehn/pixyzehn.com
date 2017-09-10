@@ -14,7 +14,6 @@ group :jekyll_plugins do
   gem 'jekyll-mentions'
   gem 'jemoji'
   gem 'jekyll-gist'
-  gem 'octopress-paginate'
 end
 
 group :development do
