@@ -35,6 +35,7 @@ To be added...
 - [How to be an open source gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)
 - [180 websites in 180 days](https://jenniferdewalt.com/)
 - [self.made()](https://bugkrusha.com/2017/03/26/blogging-finally/)
+- [How I Choose Projects](https://www.scotthyoung.com/blog/2016/02/18/choosing-projects/)
 
 #### Life
 - [Sleep Smarter](http://radex.io/books/sleep-smarter/)
