@@ -1,6 +1,11 @@
 ---
 layout: default
 title: Blog
+pagination:
+  enabled: true
+  per_page: 8
+  sort_field: 'date'
+  sort_reverse: true
 ---
 
 <div class="home">
@@ -17,4 +22,3 @@ title: Blog
 </div>
 
 {% include pagination.html %}
-
