@@ -8,15 +8,20 @@ This is my portfolio.
 
 #### Tool
 
-- [Snippet](https://github.com/pixyzehn/Snippet) - Quickly extract your specific Github PRs with links last week (or earlier than last week) to markdown formats.
+- [Snippet](https://github.com/pixyzehn/Snippet)  
+Quickly extract your specific Github PRs with links last week (or earlier than last week) to markdown formats.
 
-- [Linter](https://github.com/pixyzehn/Linter) - A simple tool to make it easy to introduce SwiftLint from zero especially for a new project.
+- [Linter](https://github.com/pixyzehn/Linter)  
+A simple tool to make it easy to introduce SwiftLint from zero especially for a new project.
 
-- [PackageBuilder](https://github.com/pixyzehn/PackageBuilder) - PackageBuilder builds a simple command-line structure by SwiftPM.
+- [PackageBuilder](https://github.com/pixyzehn/PackageBuilder)  
+PackageBuilder builds a simple command-line structure by SwiftPM.
 
-- [stodo](https://github.com/pixyzehn/stodo) - Swifty command-line tool for todo list.
+- [stodo](https://github.com/pixyzehn/stodo)  
+Swifty command-line tool for todo list.
 
-- [EsaKit](https://github.com/pixyzehn/EsaKit) - A Swift framework for the esa.io API [https://esa.io](https://esa.io).
+- [EsaKit](https://github.com/pixyzehn/EsaKit)  
+A Swift framework for the esa.io API [https://esa.io](https://esa.io).
 
 #### iOS App (Personal app including all designs)
 
@@ -53,6 +58,6 @@ This is my portfolio.
 Note: The following apps are only Japanese available and not under maintenance for now. (> <)
 
 - India Note (Removed from sale)
-- [Fastzaim](https://itunes.apple.com/us/app/fastzaim-su-zaokuzaimni-tou/id883247555?ls=1&mt=8){:target="_blank"}
-- [Shinreizu (心霊図)](https://itunes.apple.com/us/app/xin-ling-tu/id574730808?ls=1&mt=8){:target="_blank"}
+- Fastzaim (Removed from sale)
+- Shinreizu (心霊図) [[iTunes link](https://itunes.apple.com/us/app/xin-ling-tu/id574730808?ls=1&mt=8){:target="_blank"}]
 - inagex (Removed from sale)
