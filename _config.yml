@@ -20,12 +20,15 @@ links:
   medium: 'https://medium.com/@pixyzehn'
   rss: 'https://pixyzehn.com/feed.xml'
 
-pagination:
-  enabled: true
-
 # Build settings
 markdown: kramdown
 highlighter: rouge
+
+pagination:
+  enabled: true
+  per_page: 8
+  sort_field: 'date'
+  sort_reverse: true
 
 plugins:
   - jekyll-sitemap
