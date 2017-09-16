@@ -35,10 +35,6 @@
         display: none;
     }
 
-    .nav-trigger {
-        display: none;
-    }
-
     .page-link {
         font-size: 14px;
         color: #777;
@@ -60,15 +56,6 @@
         border-radius: 5px;
         text-align: right;
 
-        label[for="nav-trigger"] {
-            display: block;
-            float: right;
-            width: 36px;
-            height: 26px;
-            z-index: 2;
-            cursor: pointer;
-        }
-
         .menu-icon {
             display: block;
             float: right;
@@ -89,12 +76,12 @@
             }
         }
 
-        input ~ .trigger {
+        .trigger {
             clear: both;
             display: none;
         }
 
-        input:checked ~ .trigger {
+        &:hover .trigger {
             display: block;
             padding-bottom: 5px;
         }

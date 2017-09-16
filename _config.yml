@@ -26,8 +26,6 @@ highlighter: rouge
 paginate: 8
 paginate_path: "/blog/:num"
 
-theme: minima
-
 plugins:
   - jekyll-sitemap
   - jekyll-paginate

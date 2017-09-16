@@ -3,7 +3,6 @@ source "https://rubygems.org"
 gem 'html-proofer'
 gem 'github-pages'
 gem 'jekyll', group: :jekyll_plugins
-gem "minima", "~> 2.0"
 gem 'danger'
 gem 'danger-prose'
 
