@@ -289,6 +289,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   jemoji
+  minima (~> 2.0)
 
 BUNDLED WITH
-   1.15.1
+   1.15.4
