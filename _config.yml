@@ -1,12 +1,10 @@
-# Site settings
 title: pixyzehn
 email: pixyzehn@icloud.com
 author: pixyzehn
-description: "Just another jekyll blog"
-baseurl: ""
-keywords: "Swift, pixyzehn, iOS, Objective-C, cocoa, Apple, Xcode, app store, programming"
-url: "https://pixyzehn.com"
-timezone: "Asia/Tokyo"
+description: 'Just another jekyll blog'
+keywords: 'Swift, pixyzehn, iOS, Objective-C, cocoa, Apple, Xcode, app store, programming'
+url: https://pixyzehn.com
+timezone: Asia/Tokyo
 twitter_username: pixyzehn
 github_username: pixyzehn
 
@@ -24,10 +22,10 @@ links:
 markdown: kramdown
 highlighter: rouge
 paginate: 8
-paginate_path: "/blog/:num"
+paginate_path: /blog/:num
 
 plugins:
-  - jekyll-sitemap
+   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-feed
@@ -35,4 +33,12 @@ plugins:
   - jemoji
   - jekyll-gist
 
-exclude: [vendor]
+exclude: 
+  - vendor
+  - Dangerfile
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - script/
+
