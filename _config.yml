@@ -25,7 +25,7 @@ paginate: 8
 paginate_path: /blog/:num
 
 plugins:
-   - jekyll-sitemap
+  - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-feed
@@ -35,10 +35,6 @@ plugins:
 
 exclude: 
   - vendor
-  - Dangerfile
-  - Gemfile
-  - Gemfile.lock
   - LICENSE.md
   - README.md
-  - script/
 
