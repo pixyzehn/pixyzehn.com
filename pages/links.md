@@ -4,7 +4,7 @@ title: Links
 permalink: /links/
 ---
 
-Here are some my favorite links, I sometimes back to them to refer them again. There may be worth reading them for sure if you never read them. I inspired by this [Favourite links](http://szulctomasz.com/favourite-links.html).
+Here are some my favorite links, I sometimes back to them to refer them again. There may be worth reading them for sure if you never read them.
 
 To be added...
 
