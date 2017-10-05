@@ -4,6 +4,7 @@ title: "Swifty Week 4"
 date: 2016-12-18 8:55:00 +0900
 tags: swiftyweek
 comments: true
+published: false
 ---
 
 This is the **#4** article. From this article, I added a **Podcast** tag in the bottom because I often listen to iOS Podcasts. I'll pick up some of them. Also, I added a **Talk** tag.

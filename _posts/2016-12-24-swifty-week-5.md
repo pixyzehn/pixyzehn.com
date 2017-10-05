@@ -4,6 +4,7 @@ title: "Swifty Week 5"
 date: 2016-12-24 16:46:00 +0900
 tags: swiftyweek
 comments: true
+published: false
 ---
 
 Hello, there. this is the **#5** article. The next article might be delayed for holidays. I have many `Random` articles more than usual in this article. If you miss the news about [Supporting App Transport Security](https://developer.apple.com/news/?id=12212016b) from Apple, you should see. If I ship an article every week in next year, the number of articles will be **#57** (52 + 5). This is my goal in next year!  

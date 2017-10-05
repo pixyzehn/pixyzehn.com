@@ -4,6 +4,7 @@ title: "Swifty Week 3"
 date: 2016-12-10 18:35:00 +0900
 tags: swiftyweek
 comments: true
+published: false
 ---
 
 Hi! This is the 3rd swifty week. Time flies so fast! The App Store's Holidays will be December 23 to 27 (Pacific Time).

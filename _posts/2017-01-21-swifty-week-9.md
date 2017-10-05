@@ -4,6 +4,7 @@ title: "Swifty Week 9"
 date: 2017-01-21 21:35:00 +0900
 tags: swiftyweek
 comments: false
+published: false
 ---
 
 This is the **#9** article. I now work on a small private project with Realm. I wrote [ViewModel with Realm Notifications](https://pixyzehn.com/2017/01/21/viewmodel-with-realm-notifications.html). The result is so far so good. I could write tests easily.

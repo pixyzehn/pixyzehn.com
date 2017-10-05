@@ -4,6 +4,7 @@ title: "Swifty Week 7"
 date: 2017-01-09 13:18:00 +0900
 tags: swiftyweek
 comments: true
+published: false
 ---
 
 This is the **#7** article. I now work on a simple iOS application from scratch. I always like this kind of starting phase.

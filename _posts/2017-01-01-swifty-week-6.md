@@ -4,6 +4,7 @@ title: "Swifty Week 6"
 date: 2017-01-01 20:50:00 +0900
 tags: swiftyweek
 comments: true
+published: false
 ---
 
 Happy new year :confetti_ball: This is the **#6** article and the first article in 2017. Don't forget to look back on your goal in 2017. Some people say that to put your goal on desktop wallpaper works well. I'll do like this :+1:

@@ -4,6 +4,7 @@ title: "Swifty Week 8"
 date: 2017-01-14 19:52:00 +0900
 tags: swiftyweek
 comments: true
+published: false
 ---
 
 This is the **#8** article. If you interested in Initializer in Storyboards for DI, see [this my article](https://pixyzehn.com/2017/01/14/init-based-storyboard-viewcontroller.html). I just changed a little bit of code. Also, great thanks @JaviSoto!

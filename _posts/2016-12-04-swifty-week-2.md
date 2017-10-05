@@ -4,6 +4,7 @@ title: "Swifty Week 2"
 date: 2016-12-04 10:08:00 +0900
 tags: swiftyweek
 comments: true
+published: false
 ---
 
 Hi, there! This is the second Swifty Week post. So far I don't know how many people are looking forward to seeing the article in the `#swiftyweek`, but I'll continue to wrap up an interesting topic. After finishing the first article in `#swiftyweek`, I came to feel like learning something more than usual.
