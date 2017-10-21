@@ -12,7 +12,7 @@ permalink: /
 
 Hi! My name is Hiroki Nagasawa. I'm an iOS Software Engineer at [Doist](https://doist.com). My motto is to create something that fills people all over the world with great :Delight.
 
-I like taking photos especially in the mountains. You can take a look at my photos in [Instagram](https://www.instagram.com/pixyzehn/). I have put my favorite [links](../links) just for myself. I like trekking or hiking in my free time. This is the [mountain lists](../mountain) that I climbed.
+Interested in `#hike` in [the mountains](https://pixyzehn.com/mountain/), `#productivity`, `#Swift` and `#Portuguese`.
 
 Feel free to say `Hi!` :+1:
 
