@@ -36,6 +36,7 @@ To be added...
 - [180 websites in 180 days](https://jenniferdewalt.com/)
 - [self.made()](https://bugkrusha.com/2017/03/26/blogging-finally/)
 - [How I Choose Projects](https://www.scotthyoung.com/blog/2016/02/18/choosing-projects/)
+- [Twenty-One Things](http://mlgrto.com/blog/2017/twenty-one/)
 
 #### Life
 - [Sleep Smarter](http://radex.io/books/sleep-smarter/)
