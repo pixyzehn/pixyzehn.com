@@ -20,6 +20,7 @@ To be added...
 #### Git
 - [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
 - [10 tips for better Pull Requests](http://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/)
+- [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 
 #### Algorithms/Data structures
 - [Big-O Cheat Sheet](http://bigocheatsheet.com/)
@@ -31,16 +32,15 @@ To be added...
 - [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
 - [Write Code Every Day](http://ejohn.org/blog/write-code-every-day/)
 - [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
-- [As a software engineer, what's the best skill set to have for the next 5-10 years?](http://brianknapp.me/software-engineer-best-skill/)
 - [How to be an open source gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)
 - [180 websites in 180 days](https://jenniferdewalt.com/)
 - [self.made()](https://bugkrusha.com/2017/03/26/blogging-finally/)
-- [How I Choose Projects](https://www.scotthyoung.com/blog/2016/02/18/choosing-projects/)
-- [Twenty-One Things](http://mlgrto.com/blog/2017/twenty-one/)
 
 #### Life
 - [Sleep Smarter](http://radex.io/books/sleep-smarter/)
 - [GTD in 15 minutes](https://hamberg.no/gtd/)
+- [How I Choose Projects](https://www.scotthyoung.com/blog/2016/02/18/choosing-projects/)
+- [Twenty-One Things](http://mlgrto.com/blog/2017/twenty-one/)
 
 #### Book
 - [The five programming books that meant most to me](https://signalvnoise.com/posts/3375-the-five-programming-books-that-meant-most-to-me)
@@ -52,7 +52,6 @@ To be added...
 - [Dependency injection is not a virtue](http://david.heinemeierhansson.com/2012/dependency-injection-is-not-a-virtue.html)
 - [How I wrote a self-hosting C compiler in 40 days](http://www.sigbus.info/how-i-wrote-a-self-hosting-c-compiler-in-40-days.html)
 - [Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html), [Japanese](http://www.yamdas.org/column/technique/21-daysj.html)
-
 #### Open Source
 - [Open Source Contribution Etiquette](http://tirania.org/blog/archive/2010/Dec-31.html)
 - ["Merge pull request" Considered Harmful](https://blog.spreedly.com/2014/06/24/merge-pull-request-considered-harmful/)
