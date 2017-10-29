@@ -52,6 +52,7 @@ To be added...
 - [Dependency injection is not a virtue](http://david.heinemeierhansson.com/2012/dependency-injection-is-not-a-virtue.html)
 - [How I wrote a self-hosting C compiler in 40 days](http://www.sigbus.info/how-i-wrote-a-self-hosting-c-compiler-in-40-days.html)
 - [Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html), [Japanese](http://www.yamdas.org/column/technique/21-daysj.html)
+
 #### Open Source
 - [Open Source Contribution Etiquette](http://tirania.org/blog/archive/2010/Dec-31.html)
 - ["Merge pull request" Considered Harmful](https://blog.spreedly.com/2014/06/24/merge-pull-request-considered-harmful/)
