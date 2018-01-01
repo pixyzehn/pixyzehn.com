@@ -66,3 +66,4 @@ To be added...
 - [Things I Love by Khanlou](http://khanlou.com/love/)
 - [English has been my pain for 15 years](http://antirez.com/news/61)
 - [The Story of the Mexican Fisherman](https://bemorewithless.com/the-story-of-the-mexican-fisherman/)
+- [Right versus pragmatic – Marco.org](https://marco.org/2012/02/25/right-vs-pragmatic)
