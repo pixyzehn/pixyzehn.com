@@ -67,3 +67,4 @@ To be added...
 - [English has been my pain for 15 years](http://antirez.com/news/61)
 - [The Story of the Mexican Fisherman](https://bemorewithless.com/the-story-of-the-mexican-fisherman/)
 - [Right versus pragmatic – Marco.org](https://marco.org/2012/02/25/right-vs-pragmatic)
+- [2010 Baccalaureate Remarks](https://www.princeton.edu/news/2010/05/30/2010-baccalaureate-remarks)
