@@ -4,9 +4,11 @@ title: Mountain
 permalink: /mountain/
 ---
 
-Just memo for the high points.
+Just memo for the moutains and the high altitudes I visited.
 
 <h4>2018</h4>
+
+To be added...
 
 <h4>2017</h4>
 
@@ -17,8 +19,6 @@ Just memo for the high points.
 - Mt. Tsurugi (1,955m), 2017/05/14
 - Mt. Buko (1,304m), 2017/05/07
 - Mt. Daimonji (466m), 2017/01/02
-
-To be added...
 
 <h4>~ 2016</h4>
 
