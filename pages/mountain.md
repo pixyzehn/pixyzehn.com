@@ -4,16 +4,20 @@ title: Mountain
 permalink: /mountain/
 ---
 
-Just memo for the moutains and the high altitudes I visited.
+Just memo for moutains (or areas around mountains) and the high altitudes I visited.
 
 <h4>2018</h4>
 
-- Cerro El Plomo(5,424m) in the Andes, but couldn't reach the top (reached around 4,800m) due to an altitude sickness:(
+- Torres del Paine National Park (O Circuit Trek, approximately 110 kilometers)
+- Cerro El Plomo(5,424m), 2018/02/10 ~ 2018/02/13
+  In the Andes, but couldn't reach the top (reached around 4,800m) due to an altitude sickness:(
 
 <h4>2017</h4>
 
-- Jungfraujoch(3,454m), top of Europe in Switzerland, 2017/09/25
-- Near Hörunlihutte(2,583m), Base Camp Matterhorn in Switzerland, 2017/09/24
+- Jungfraujoch(3,454m), 2017/09/25
+  Top of Europe in Switzerland.
+- Near Hörunlihutte(2,583m), 2017/09/24
+  Base Camp Matterhorn in Switzerland.
 - Mt. Nantai (2,486m), 2017/05/19
 - Mt. Jiro-gyu (1,930m), 2017/05/14
 - Mt. Tsurugi (1,955m), 2017/05/14
