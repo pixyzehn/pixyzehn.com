@@ -8,7 +8,7 @@ Just memo for the moutains and the high altitudes I visited.
 
 <h4>2018</h4>
 
-To be added...
+- Cerro El Plomo(5,424m) in the Andes, but couldn't reach the top (reached around 4,800m) due to an altitude sickness:(
 
 <h4>2017</h4>
 
