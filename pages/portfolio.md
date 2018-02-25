@@ -59,5 +59,5 @@ Note: The following apps are only Japanese available and not under maintenance f
 
 - India Note (Removed from sale)
 - Fastzaim (Removed from sale)
-- Shinreizu (心霊図) [[iTunes link](https://itunes.apple.com/us/app/xin-ling-tu/id574730808?ls=1&mt=8){:target="_blank"}]
+- Shinreizu, 心霊図 (Removed from sale)
 - inagex (Removed from sale)
