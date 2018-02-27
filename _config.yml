@@ -4,7 +4,7 @@ author: pixyzehn
 description: 'Just another jekyll blog'
 keywords: 'Swift, pixyzehn, iOS, Objective-C, cocoa, Apple, Xcode, app store, programming'
 url: https://pixyzehn.com
-timezone: Asia/Tokyo
+timezone: Europe/Lisbon
 twitter_username: pixyzehn
 github_username: pixyzehn
 
@@ -14,8 +14,6 @@ links:
   twitter: 'https://twitter.com/pixyzehn'
   facebook: 'https://www.facebook.com/pixyzehn'
   linkedin: 'https://www.linkedin.com/in/pixyzehn'
-  stackoverflow: 'http://stackoverflow.com/users/2461812/pixyzehn'
-  medium: 'https://medium.com/@pixyzehn'
   rss: 'https://pixyzehn.com/feed.xml'
 
 # Build settings
