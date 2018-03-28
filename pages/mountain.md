@@ -8,7 +8,7 @@ Just memo for moutains (or areas around mountains) and the high altitudes I visi
 
 <h4>2018</h4>
 
-- Torres del Paine National Park (O Circuit Trek, approximately 110 kilometers)
+- Torres del Paine National Park (O Circuit Trek, approximately 110 kilometers), 2018/03/09 ~ 2018/03/16
 - Cerro El Plomo(5,424m), 2018/02/10 ~ 2018/02/13
   In the Andes, but couldn't reach the top (reached around 4,800m) due to an altitude sickness:(
 
