@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-![My profile]({{ site.url }}/assets/profile.png){:height="75px" width="75px" .profile-image}
+![My profile]({{ site.url }}/assets/profile.jpg){:height="100px" width="100px" .profile-image}
 
 {% include contact_follow.html %}
 
