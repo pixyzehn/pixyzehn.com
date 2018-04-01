@@ -30,3 +30,13 @@ Just memo for moutains (or areas around mountains) and the high altitudes I visi
 - Mt. Kawanori (1,363m), 2016/08/13
 - Mt. Nokogiri (330m), 2016/07/17
 - Mt. Takao (599m)
+
+<h4>Wishlist</h4>
+- John Muir Trail, California(340km)
+- Mont Blanc
+- Mount Fuji not in summer
+- Matterhorn
+- Pyrenees, Spain and France
+- Montanha do Pico, Pico Island, Portuguese Azores
+- Fitz Roy, Patagonia
+
