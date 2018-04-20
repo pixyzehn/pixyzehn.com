@@ -39,4 +39,6 @@ Just memo for moutains (or areas around mountains) and the high altitudes I visi
 - Pyrenees, Spain and France
 - Montanha do Pico, Pico Island, Portuguese Azores
 - Fitz Roy, Patagonia
+- Namche Bazaar in Nepal
+- Parque Natural da Peneda Geres
 
