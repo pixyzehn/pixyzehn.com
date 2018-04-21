@@ -59,3 +59,4 @@ To be added...
 #### Misc
 - [Things I Love by Khanlou](http://khanlou.com/love/)
 - [The Story of the Mexican Fisherman](https://bemorewithless.com/the-story-of-the-mexican-fisherman/)
+- [Tompkins Conservation Reading List](http://www.tompkinsconservation.org/reading_list.htm)

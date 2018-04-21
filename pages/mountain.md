@@ -41,4 +41,4 @@ Just memo for moutains (or areas around mountains) and the high altitudes I visi
 - Fitz Roy, Patagonia
 - Namche Bazaar in Nepal
 - Parque Natural da Peneda Geres
-
+- Pumalin National Park and Patagonia National Park
