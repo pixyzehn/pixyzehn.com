@@ -38,6 +38,7 @@ To be added...
 - [Rubber Duck Debugging](https://rubberduckdebugging.com)
 - [Copying](http://robnapier.net/copying)
 - [If you don’t have pet projects, I don’t think want you](https://ayende.com/blog/90113/if-you-dont-have-pet-projects-i-dont-think-i-want-you)
+- [STACK OVERFLOW QUESTION CHECKLIST](http://tinyurl.com/stack-checklist)
 
 #### Life
 - [GTD in 15 minutes](https://hamberg.no/gtd/)
