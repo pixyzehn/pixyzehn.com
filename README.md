@@ -1,4 +1,4 @@
-# [pixyzehn.github.io](http://pixyzehn.com)
+# [pixyzehn.com](http://pixyzehn.com)
 
 [![Build Status](https://travis-ci.org/pixyzehn/pixyzehn.github.io.svg?branch=master)](https://travis-ci.org/pixyzehn/pixyzehn.github.io)
 [![Gihub Issue](https://img.shields.io/github/issues/pixyzehn/pixyzehn.github.io.svg)](https://github.com/pixyzehn/pixyzehn.github.io/issues)
