@@ -9,7 +9,7 @@ Subscribe via [RSS](https://pixyzehn.github.io/feed.xml).
 ## Requirements
 
 - [Bundler](https://bundler.io)
-- [Bower](https://bower.io)
+- [Yarn](https://yarnpkg.com)
 - [Jekyll](https://jekyllrb.com)
 - [Danger](http://danger.systems/)
 
@@ -19,7 +19,7 @@ Subscribe via [RSS](https://pixyzehn.github.io/feed.xml).
 $ git clone https://github.com/pixyzehn/pixyzehn.github.io.git
 $ cd pixyzehn.github.io/
 $ bundle install
-$ bower install
+$ yarn install
 ```
 
 ## Build
