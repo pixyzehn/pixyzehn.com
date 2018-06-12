@@ -5,8 +5,7 @@ description: 'Just another jekyll blog'
 keywords: 'Swift, pixyzehn, iOS, Objective-C, cocoa, Apple, Xcode, app store, programming'
 url: https://pixyzehn.com
 timezone: Europe/Lisbon
-twitter_username: pixyzehn
-github_username: pixyzehn
+username: pixyzehn
 
 links:
   repo: 'https://github.com/pixyzehn/pixyzehn.com'
