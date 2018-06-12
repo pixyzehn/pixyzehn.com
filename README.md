@@ -1,10 +1,10 @@
 # [pixyzehn.com](http://pixyzehn.com)
 
-[![Build Status](https://travis-ci.org/pixyzehn/pixyzehn.github.io.svg?branch=master)](https://travis-ci.org/pixyzehn/pixyzehn.github.io)
-[![Gihub Issue](https://img.shields.io/github/issues/pixyzehn/pixyzehn.github.io.svg)](https://github.com/pixyzehn/pixyzehn.github.io/issues)
+[![Build Status](https://travis-ci.org/pixyzehn/pixyzehn.com.svg?branch=master)](https://travis-ci.org/pixyzehn/pixyzehn.com)
+[![Gihub Issue](https://img.shields.io/github/issues/pixyzehn/pixyzehn.com.svg)](https://github.com/pixyzehn/pixyzehn.com/issues)
 [![Web Site](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://pixyzehn.com/)
 
-Subscribe via [RSS](https://pixyzehn.github.io/feed.xml).
+Subscribe via [RSS](https://pixyzehn.com/feed.xml).
 
 ## Requirements
 
@@ -16,8 +16,8 @@ Subscribe via [RSS](https://pixyzehn.github.io/feed.xml).
 ## Installation
 
 ```bash
-$ git clone https://github.com/pixyzehn/pixyzehn.github.io.git
-$ cd pixyzehn.github.io/
+$ git clone https://github.com/pixyzehn/pixyzehn.com.git
+$ cd pixyzehn.com/
 $ bundle install
 $ yarn install
 ```
