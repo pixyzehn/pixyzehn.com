@@ -44,3 +44,4 @@ Just memo for moutains (or areas around mountains) and the high altitudes I visi
 - Parque Natural da Peneda Geres
 - Pumalin National Park and Patagonia National Park
 - Tongiriro Alpine Crossing in New Zealand
+- Aoraki / Mount Cook in New Zealand
