@@ -46,7 +46,7 @@ A Swift framework for the esa.io API [https://esa.io](https://esa.io).
 ![esafeed01]({{ site.url }}/assets/esafeed01.jpg){:width="40%"}
 ![esafeed02]({{ site.url }}/assets/esafeed02.jpg){:width="40%"}
 
-- Motivation from age: [[iTunes link](https://itunes.apple.com/us/app/motivation-from-age/id1028896399?ls=1&mt=8){:target="_blank"}]
+- Motivation from age (Removed from sale)
 
 > Motivation from age terrifyingly shows your age.
 
