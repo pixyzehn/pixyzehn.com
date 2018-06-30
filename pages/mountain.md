@@ -33,13 +33,19 @@ Just memo for moutains (or areas around mountains) and the high altitudes I visi
 - Mt. Nokogiri (330m), 2016/07/17
 - Mt. Takao (599m)
 
+---
+
 <h4>Wishlist</h4>
-- John Muir Trail, California(340km)
+
+#### Mountaineering
 - Mont Blanc
-- Mount Fuji not in summer
 - Matterhorn
-- Pyrenees, Spain and France
+- Mount Fuji not in summer
 - Montanha do Pico, Pico Island, Portuguese Azores
+
+#### Hiking Trails
+- John Muir Trail, California(340km)
+- Pyrenees, Spain and France
 - Fitz Roy, Patagonia
 - Namche Bazaar in Nepal
 - Parque Natural da Peneda Geres
