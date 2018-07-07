@@ -38,10 +38,19 @@ Just memo for moutains (or areas around mountains) and the high altitudes I visi
 <h4>Wishlist</h4>
 
 #### Mountaineering
-- Mont Blanc
-- Matterhorn
-- Mount Fuji not in summer
-- Montanha do Pico, Pico Island, Portuguese Azores
+- Mont Blanc (4,810m)
+- Matterhorn (4,478m)
+- Mount Fuji not in summer (3,776m)
+- Montanha do Pico (2,351m), Pico Island, Portuguese Azores
+- Island Peak (6,189m), in Sagarmatha National Park of the Himalayas of eastern Nepal
+- Pikes Peak (4,302m), in North America
+- Tofana di Dentro (3,225m), Italy
+- Mount Hood (3,429m), in Oregon
+- Kilimanjaro (5,895m), in Tanzania
+- Pico de Orizaba (5,636m), in Mexico
+- Pico del Teide (3,718m), in the Canary Islands, Spain
+- Ben Nevis (1,345m), in the British Isles
+- Mount Korab (2,751m), in Albania
 
 #### Hiking Trails
 - John Muir Trail, California(340km)
