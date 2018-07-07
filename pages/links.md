@@ -5,6 +5,7 @@ permalink: /links/
 ---
 
 Here are some my favorite links, I sometimes back to them to refer them again. There may be worth reading them for sure if you never read them.
+The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/) written by @khanlou.
 
 To be added...
 
@@ -36,12 +37,10 @@ To be added...
 - [180 websites in 180 days](https://jenniferdewalt.com/)
 - [self.made()](https://bugkrusha.com/2017/03/26/blogging-finally/)
 - [Rubber Duck Debugging](https://rubberduckdebugging.com)
-- [Copying](http://robnapier.net/copying)
 - [If you don’t have pet projects, I don’t think want you](https://ayende.com/blog/90113/if-you-dont-have-pet-projects-i-dont-think-i-want-you)
-- [STACK OVERFLOW QUESTION CHECKLIST](http://tinyurl.com/stack-checklist)
+- [Stack Overflow Question Checklist](http://tinyurl.com/stack-checklist)
 
 #### Life
-- [GTD in 15 minutes](https://hamberg.no/gtd/)
 - [How I Choose Projects](https://www.scotthyoung.com/blog/2016/02/18/choosing-projects/)
 - [English has been my pain for 15 years](http://antirez.com/news/61)
 - [2010 Baccalaureate Remarks](https://www.princeton.edu/news/2010/05/30/2010-baccalaureate-remarks)
@@ -52,12 +51,6 @@ To be added...
 - [How I wrote a self-hosting C compiler in 40 days](http://www.sigbus.info/how-i-wrote-a-self-hosting-c-compiler-in-40-days.html)
 - [Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)
 
-#### Open Source
-- [Open Source Contribution Etiquette](http://tirania.org/blog/archive/2010/Dec-31.html)
-- [Becoming Open Source by Default](http://code.dblock.org/2015/02/09/becoming-open-source-by-default.html)
-- [How to be an open source gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)
-
 #### Misc
-- [Things I Love by Khanlou](http://khanlou.com/love/)
 - [The Story of the Mexican Fisherman](https://bemorewithless.com/the-story-of-the-mexican-fisherman/)
 - [Tompkins Conservation Reading List](http://www.tompkinsconservation.org/reading_list.htm)
