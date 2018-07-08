@@ -9,22 +9,15 @@ The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/) written
 
 To be added...
 
-#### Swift
-- [Method Dispatch in Swift](https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/)
-- [All about Concurrency in Swift](https://www.uraimo.com/2017/05/07/all-about-concurrency-in-swift-1-the-present/)
-- [The GCD Handbook](http://khanlou.com/2016/04/the-GCD-handbook/)
-
-#### iOS
-- [iOS demo project checklist ✅](http://codeplease.io/2017/04/15/tech-demo-checklist/)
-
 #### Git
 - [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
 - [10 tips for better Pull Requests](http://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/)
 - [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 
-#### Algorithms/Data structures
+#### Algorithms/Data structures etc
 - [Big-O Cheat Sheet](http://bigocheatsheet.com/)
 - [Which algorithms/data structures should I “recognize” and know by name?](http://programmers.stackexchange.com/a/155649/225558)
+- [How I wrote a self-hosting C compiler in 40 days](http://www.sigbus.info/how-i-wrote-a-self-hosting-c-compiler-in-40-days.html)
 
 #### Guide
 - [Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
@@ -39,17 +32,13 @@ To be added...
 - [Rubber Duck Debugging](https://rubberduckdebugging.com)
 - [If you don’t have pet projects, I don’t think want you](https://ayende.com/blog/90113/if-you-dont-have-pet-projects-i-dont-think-i-want-you)
 - [Stack Overflow Question Checklist](http://tinyurl.com/stack-checklist)
+- [Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)
 
 #### Life
 - [How I Choose Projects](https://www.scotthyoung.com/blog/2016/02/18/choosing-projects/)
 - [English has been my pain for 15 years](http://antirez.com/news/61)
 - [2010 Baccalaureate Remarks](https://www.princeton.edu/news/2010/05/30/2010-baccalaureate-remarks)
 - [Right versus pragmatic – Marco.org](https://marco.org/2012/02/25/right-vs-pragmatic)
-
-#### Programming
-- [Dependency injection is not a virtue](http://david.heinemeierhansson.com/2012/dependency-injection-is-not-a-virtue.html)
-- [How I wrote a self-hosting C compiler in 40 days](http://www.sigbus.info/how-i-wrote-a-self-hosting-c-compiler-in-40-days.html)
-- [Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)
 
 #### Misc
 - [The Story of the Mexican Fisherman](https://bemorewithless.com/the-story-of-the-mexican-fisherman/)
