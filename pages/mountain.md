@@ -8,8 +8,8 @@ Just memo for moutains (or areas around mountains) and the high altitudes I visi
 
 <h4>2018</h4>
 
-- Mont Blanc (4,810m), 2018/09/09
-- Gran Paradiso (4,061m) in Italy, 2018/09/06
+- Mont Blanc (4,810m), via the Gouter Route, 2018/09/09
+- Gran Paradiso (4,061m) in Italy, via the Rifugio Vittorio Emanuele II, 2018/09/06
 - Drachenberg & Teufelberg in Berlin (99m, 120.1m), 2018/06/09
 - Mt. Hyonosen (1,510m), 2018/05/26
 - Torres del Paine National Park (O Circuit Trek, approximately 110 kilometers), 2018/03/09 ~ 2018/03/16
