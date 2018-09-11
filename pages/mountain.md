@@ -8,6 +8,8 @@ Just memo for moutains (or areas around mountains) and the high altitudes I visi
 
 <h4>2018</h4>
 
+- Mont Blanc (4,810m), 2018/09/09
+- Gran Paradiso (4,061m) in Italy, 2018/09/06
 - Drachenberg & Teufelberg in Berlin (99m, 120.1m), 2018/06/09
 - Mt. Hyonosen (1,510m), 2018/05/26
 - Torres del Paine National Park (O Circuit Trek, approximately 110 kilometers), 2018/03/09 ~ 2018/03/16
@@ -38,9 +40,8 @@ Just memo for moutains (or areas around mountains) and the high altitudes I visi
 <h4>Wishlist</h4>
 
 #### Mountaineering
-- Mont Blanc (4,810m)
 - Matterhorn (4,478m)
-- Mount Fuji not in summer (3,776m)
+- Mount Fuji in winter (3,776m)
 - Montanha do Pico (2,351m), Pico Island, Portuguese Azores
 - Island Peak (6,189m), in Sagarmatha National Park of the Himalayas of eastern Nepal
 - Pikes Peak (4,302m), in North America
