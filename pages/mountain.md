@@ -8,6 +8,7 @@ Just memo for moutains (or areas around mountains) and the high altitudes I visi
 
 <h4>2018</h4>
 
+- Montanha do Pico (2,351m) 🇵🇹, 29/09/2018
 - Mont Blanc (4,810m) 🇫🇷/🇮🇹, via the Gouter Route, 09/09/2018
 - Gran Paradiso (4,061m) 🇮🇹, via the Rifugio Vittorio Emanuele II, 06/09/2018
 - Drachenberg & Teufelberg (99m, 120.1m) 🇩🇪, 09/06/2018
@@ -39,7 +40,6 @@ Just memo for moutains (or areas around mountains) and the high altitudes I visi
 #### Mountaineering
 - Matterhorn (4,478m) 🇨🇭/🇮🇹
 - Mount Fuji in winter (3,776m) 🇯🇵
-- Montanha do Pico (2,351m) 🇵🇹
 - Island Peak (6,189m) 🇳🇵
 - Pikes Peak (4,302m) 🇺🇸
 - Mount Hood (3,429m) 🇺🇸
