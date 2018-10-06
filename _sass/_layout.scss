@@ -202,21 +202,15 @@
 /**
  * Pagination
  */
-.pagination {
-    display: block;
-    margin-bottom: 0rem;
-}
-
-.center {
-    float: none;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    text-align: center;
-}
-
-.pager li {
+.pagination li {
     margin: 6px;
+
+    > a {
+        border-radius: 15px!important;
+        padding: 5px 14px;
+        border: 1px solid;
+        font-size: 14px;
+    }
 }
 
 
