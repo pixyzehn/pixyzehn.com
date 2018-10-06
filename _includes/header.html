@@ -1,19 +1,20 @@
-<header class="site-header">
+<header class="nav-header">
     <div class="wrapper">
-        <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-        <nav class="site-nav">
-            <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-            <label for="nav-trigger">
-                {% include menu_icon.html %}
-            </label>
-            <div class="trigger">
-                <a class="page-link" href="/">About</a>
-                <a class="page-link" href="/portfolio">Portfolio</a>
-                <a class="page-link" href="/blog">Blog</a>
-                <a class="page-link" href="/archives">Archives</a>
-                <a class="page-link" href="/tags">Tags</a>
-                <a class="page-link" href="/links">Things I like</a>
-                <a class="page-link" href="/mountain">Montanha</a>
+        <nav class="navbar navbar-expand-lg navbar-light">
+            <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse mr-auto" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+                <a class="nav-link" href="/">About</a>
+                <a class="nav-link" href="/portfolio">Portfolio</a>
+                <a class="nav-link" href="/blog">Blog</a>
+                <a class="nav-link" href="/archives">Archives</a>
+                <a class="nav-link" href="/tags">Tags</a>
+                <a class="nav-link" href="/links">Things I like</a>
+                <a class="nav-link" href="/mountain">Montanha</a>
+            </div>
             </div>
         </nav>
     </div>
