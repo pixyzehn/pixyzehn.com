@@ -4,7 +4,9 @@ title: Mountain
 permalink: /mountain/
 ---
 
-Just memo for moutains (or areas around mountains) and the high altitudes I visited.
+Just memo for moutains (or areas around mountains) and countries I visited.
+
+{% include map.html %}
 
 <h4>2018</h4>
 
