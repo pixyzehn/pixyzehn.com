@@ -6,7 +6,7 @@ permalink: /mountain/
 
 Just memo for moutains (or areas around mountains) and countries I visited.
 
-{% include map.html %}
+{% include visited_countries.html %}
 
 <h4>2018</h4>
 
