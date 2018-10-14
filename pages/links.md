@@ -43,3 +43,4 @@ To be added...
 #### Misc
 - [The Story of the Mexican Fisherman](https://bemorewithless.com/the-story-of-the-mexican-fisherman/)
 - [Tompkins Conservation Reading List](http://www.tompkinsconservation.org/reading_list.htm)
+- [Douglas Tompkins: A Force for Nature](http://www.tompkinsconservation.org/news/2015/12/09/douglas-tompkins-a-force-for-nature/)
