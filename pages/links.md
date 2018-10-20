@@ -41,7 +41,7 @@ To be added...
 - [Right versus pragmatic – Marco.org](https://marco.org/2012/02/25/right-vs-pragmatic)
 
 #### Mountain
-- [Tomorrow is another day | THE NORTH FACE](https://www.goldwin.co.jp/tnf/special/tomorrow_is_another_day/)
+- [Tomorrow is another day, THE NORTH FACE](https://www.goldwin.co.jp/tnf/special/tomorrow_is_another_day/)
 - [Trailers / Climber’s Stories – Flatlander Films](https://flatlanderfilms.com/category/trailers-climbers-stories/)
 
 #### Misc
