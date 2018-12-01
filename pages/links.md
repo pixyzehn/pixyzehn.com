@@ -44,6 +44,7 @@ To be added...
 - [Tomorrow is another day, THE NORTH FACE](https://www.goldwin.co.jp/tnf/special/tomorrow_is_another_day/)
 - [Trailers / Climber’s Stories – Flatlander Films](https://flatlanderfilms.com/category/trailers-climbers-stories/)
 - [Janhukot / Pertex](https://www.pertex.com/janhukot/)
+- [登山技術・装備](http://www.kadoya-guide.com/gizyutu.html)
 
 #### Misc
 - [The Story of the Mexican Fisherman](https://bemorewithless.com/the-story-of-the-mexican-fisherman/)
