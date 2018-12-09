@@ -18,28 +18,33 @@ A simple tool to make it easy to introduce SwiftLint from zero especially for a 
 PackageBuilder builds a simple command-line structure by SwiftPM.
 
 - [stodo](https://github.com/pixyzehn/stodo)  
-Swifty command-line tool for todo list.
+Swifty command-line tool for todo list.  
+**No longer being maintained/updated.**
 
 - [EsaKit](https://github.com/pixyzehn/EsaKit)  
-A Swift framework for the esa.io API [https://esa.io](https://esa.io).
+A Swift framework for the esa.io API [https://esa.io](https://esa.io).  
+**No longer being maintained/updated.**
 
 #### iOS App (Personal app including all designs)
 
-- Kigen: Todo List for reminder [[iTunes link](https://itunes.apple.com/us/app/kigen-todo-list-for-reminder/id1198205732?l=en&mt=8){:target="_blank"}]
+- Kigen: Todo List for reminder [[iTunes link](https://itunes.apple.com/us/app/kigen-todo-list-for-reminder/id1198205732?l=en&mt=8){:target="_blank"}]  
+**No longer being maintained/updated.**
 
 > Kigen is a Todo list for reminder. It helps you remind of your important tasks.
 
 ![kigen01]({{ site.url }}/assets/kigen01.jpg){:width="40%"}
 ![kigen02]({{ site.url }}/assets/kigen02.jpg){:width="40%"}
 
-- Taskey - Task & Todo list: [[iTunes link](https://itunes.apple.com/us/app/taskey-tasuku-guan-li-todorisuto/id1063089003?ls=1&mt=8){:target="_blank"}]
+- Taskey - Task & Todo list: [[iTunes link](https://itunes.apple.com/us/app/taskey-tasuku-guan-li-todorisuto/id1063089003?ls=1&mt=8){:target="_blank"}]  
+**No longer being maintained/updated.**
 
 > Tasky is a quick, cool, simple and intuitive task management application that helps you get stuff done.
 
 ![taskey01]({{ site.url }}/assets/taskey01.jpg){:width="40%"}
 ![taskey02]({{ site.url }}/assets/taskey02.jpg){:width="40%"}
 
-- Esafeed for esa.io: [[iTunes link](https://itunes.apple.com/us/app/esafeed-for-esa.io/id1111901482?ls=1&mt=8){:target="_blank"}]
+- Esafeed for esa.io: [[iTunes link](https://itunes.apple.com/us/app/esafeed-for-esa.io/id1111901482?ls=1&mt=8){:target="_blank"}]  
+**No longer being maintained/updated.**
 
 > Esafeed is a feed reader for [esa.io](https://esa.io/){:target="_blank"}.
 
