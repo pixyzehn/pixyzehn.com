@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Links
-permalink: /links/
+title: Things I like
+permalink: /things_i_like/
 ---
 
 Here are some my favorite links, I sometimes back to them to refer them again. There may be worth reading them for sure if you never read them.
