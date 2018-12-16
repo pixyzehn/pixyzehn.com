@@ -4,7 +4,7 @@ title: Tools I like
 permalink: /tools_i_like/
 ---
 
-Here are tools/gears I like for each category. Hope you can find something new here. Please feel free to tell me about your tools you like:)
+Here are tools/gears I like for each category. Hope you can find something new here. Please feel free to tell me about tools you like:)
 
 To be added...
 
