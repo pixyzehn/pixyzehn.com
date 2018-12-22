@@ -10,7 +10,7 @@ permalink: /
 
 <hr>
 
-Hi! My name is Hiroki Nagasawa. I'm an iOS Software Engineer at [Doist](https://doist.com). My motto is to create something that fills people all over the world with great :Delight.
+Hi, I'm Hiroki Nagasawa. I'm an iOS Software Engineer at [Doist](https://doist.com).
 
-Interested in `#Hike`, `#Mountain`, `#Productivity`, `#Swift` and `#Portuguese`.
+Apart from the iOS development, I'm interested in `#Hike`, `#Mountain`, `#Productivity`, `#Swift` and `#Portuguese`.
 
