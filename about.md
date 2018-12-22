@@ -12,5 +12,5 @@ permalink: /
 
 Hi, I'm Hiroki Nagasawa. I'm an iOS Software Engineer at [Doist](https://doist.com).
 
-Apart from the iOS development, I'm interested in `#Hike`, `#Mountain`, `#Productivity`, `#Swift` and `#Portuguese`.
+Apart from the iOS development, I'm interested in long-distance `#Hiking` and `#Camping` on mountains, `#Climbing`, `#Productivity`, `#Swift` and `#Portuguese`.
 
