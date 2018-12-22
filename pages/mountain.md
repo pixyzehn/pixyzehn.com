@@ -8,8 +8,11 @@ Just memo for moutains (or areas around mountains) and countries I visited.
 
 {% include visited_countries.html %}
 
+<h4>2019</h4>
+
 <h4>2018</h4>
 
+- Serra da Estrela 🇵🇹, 15/12/2018
 - Montanha do Pico (2,351m) 🇵🇹, 29/09/2018
 - Mont Blanc (4,810m) 🇫🇷/🇮🇹, via the Gouter Route, 09/09/2018
 - Gran Paradiso (4,061m) 🇮🇹, via the Rifugio Vittorio Emanuele II, 06/09/2018
