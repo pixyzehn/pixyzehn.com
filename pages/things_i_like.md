@@ -39,6 +39,7 @@ To be added...
 - [English has been my pain for 15 years](http://antirez.com/news/61)
 - [2010 Baccalaureate Remarks](https://www.princeton.edu/news/2010/05/30/2010-baccalaureate-remarks)
 - [Right versus pragmatic – Marco.org](https://marco.org/2012/02/25/right-vs-pragmatic)
+- [Less stuff, more happiness](https://www.ted.com/talks/graham_hill_less_stuff_more_happiness)
 
 #### Mountain
 - [Tomorrow is another day, THE NORTH FACE](https://www.goldwin.co.jp/tnf/special/tomorrow_is_another_day/)
