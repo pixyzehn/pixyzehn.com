@@ -4,10 +4,8 @@ title: Things I like
 permalink: /things_i_like/
 ---
 
-Here are some my favorite links, I sometimes back to them to refer them again. There may be worth reading them for sure if you never read them.
+Here are my favorite links, I sometimes back to them to refer them again. There may be worth reading articles if you never read them.
 The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/) written by @khanlou.
-
-To be added...
 
 #### Git
 - [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)

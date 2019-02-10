@@ -25,6 +25,8 @@ Swifty command-line tool for todo list.
 A Swift framework for the esa.io API [https://esa.io](https://esa.io).  
 **No longer being maintained/updated.**
 
+---
+
 #### iOS App (Personal app including all designs)
 
 - Kigen: Todo List for reminder [[iTunes link](https://itunes.apple.com/us/app/kigen-todo-list-for-reminder/id1198205732?l=en&mt=8){:target="_blank"}]  
@@ -51,7 +53,7 @@ A Swift framework for the esa.io API [https://esa.io](https://esa.io).
 ![esafeed01]({{ site.url }}/assets/esafeed01.jpg){:width="40%"}
 ![esafeed02]({{ site.url }}/assets/esafeed02.jpg){:width="40%"}
 
-- Motivation from age (Removed from sale)
+- Motivation from age (**Removed from sale**)
 
 > Motivation from age terrifyingly shows your age.
 
@@ -60,9 +62,9 @@ A Swift framework for the esa.io API [https://esa.io](https://esa.io).
 
 ---
 
-Note: The following apps are only Japanese available and not under maintenance for now. (> <)
+**The following apps are only Japanese available and not in App Store.**
 
-- India Note (Removed from sale)
-- Fastzaim (Removed from sale)
-- Shinreizu, 心霊図 (Removed from sale)
-- inagex (Removed from sale)
+- India Note
+- Fastzaim
+- Shinreizu, 心霊図
+- inagex
