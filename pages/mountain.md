@@ -9,6 +9,7 @@ Just a memo for moutains (or areas around mountains) and countries I visited.
 {% include visited_countries.html %}
 
 <h4>2019</h4>
+- Peneda-Gerês National Park (To 7 Lagoas do Gerês), 17/01/2019
 
 <h4>2018</h4>
 
@@ -39,27 +40,3 @@ Just a memo for moutains (or areas around mountains) and countries I visited.
 - Mt. Nokogiri (330m) 🇯🇵, 17/07/2016
 - Mt. Takao (599m) 🇯🇵, No date
 
----
-
-<h4>Wishlist</h4>
-
-#### Mountaineering
-- Matterhorn (4,478m) 🇨🇭/🇮🇹
-- Mount Fuji in winter (3,776m) 🇯🇵
-- Island Peak (6,189m) 🇳🇵
-- Pikes Peak (4,302m) 🇺🇸
-- Mount Hood (3,429m) 🇺🇸
-- Kilimanjaro (5,895m) 🇹🇿
-- Pico de Orizaba (5,636m) 🇲🇽
-- Pico del Teide (3,718m) 🇪🇸
-- Ben Nevis (1,345m) 🇬🇧
-- Mount Korab (2,751m) 🇦🇱
-
-#### Hiking Trails
-- John Muir Trail 🇺🇸
-- Pyrenees 🇪🇸/🇫🇷
-- Fitz Roy, Patagonia 🇨🇱
-- Namche Bazaar 🇳🇵
-- Pumalin National Park and Patagonia National Park 🇨🇱
-- Tongiriro Alpine Crossing 🇳🇿
-- Aoraki / Mount Cook 🇳🇿
