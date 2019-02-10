@@ -40,6 +40,7 @@ To be added...
 - [2010 Baccalaureate Remarks](https://www.princeton.edu/news/2010/05/30/2010-baccalaureate-remarks)
 - [Right versus pragmatic – Marco.org](https://marco.org/2012/02/25/right-vs-pragmatic)
 - [Less stuff, more happiness](https://www.ted.com/talks/graham_hill_less_stuff_more_happiness)
+- [Try something new for 30 days](https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days)
 
 #### Mountain
 - [Tomorrow is another day, THE NORTH FACE](https://www.goldwin.co.jp/tnf/special/tomorrow_is_another_day/)
