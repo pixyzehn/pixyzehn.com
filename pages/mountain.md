@@ -10,6 +10,7 @@ Just a memo for moutains (or areas around mountains) and countries I visited.
 
 <h4>2019</h4>
 - Peneda-Gerês National Park (To 7 Lagoas do Gerês), 17/01/2019
+- Grande Rota Santa Maria (Azores, Santa Maria island), 22/03/2019 ~ 26/03/2019
 
 <h4>2018</h4>
 
