@@ -52,3 +52,4 @@ The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/) written
 - [Tompkins Conservation Reading List](http://www.tompkinsconservation.org/reading_list.htm)
 - [Douglas Tompkins: A Force for Nature](http://www.tompkinsconservation.org/news/2015/12/09/douglas-tompkins-a-force-for-nature/)
 - [Why Software Is Eating the World](https://a16z.com/2016/08/20/why-software-is-eating-the-world/)
+- [シリコンの谷は、いま。](https://www.1101.com/siliconvalley/index.html)
