@@ -31,6 +31,7 @@ The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/) written
 - [If you don’t have pet projects, I don’t think want you](https://ayende.com/blog/90113/if-you-dont-have-pet-projects-i-dont-think-i-want-you)
 - [Stack Overflow Question Checklist](http://tinyurl.com/stack-checklist)
 - [Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)
+- [The mythical 10x programmer](http://antirez.com/news/112)
 
 #### Life
 - [How I Choose Projects](https://www.scotthyoung.com/blog/2016/02/18/choosing-projects/)
