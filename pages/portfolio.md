@@ -37,16 +37,14 @@ A Swift framework for the esa.io API [https://esa.io](https://esa.io).
 ![kigen01]({{ site.url }}/assets/kigen01.jpg){:width="40%"}
 ![kigen02]({{ site.url }}/assets/kigen02.jpg){:width="40%"}
 
-- Taskey - Task & Todo list: [[iTunes link](https://itunes.apple.com/us/app/taskey-tasuku-guan-li-todorisuto/id1063089003?ls=1&mt=8){:target="_blank"}]  
-**No longer being maintained/updated.**
+- Taskey - Task & Todo list (**Removed from sale**)
 
 > Tasky is a quick, cool, simple and intuitive task management application that helps you get stuff done.
 
 ![taskey01]({{ site.url }}/assets/taskey01.jpg){:width="40%"}
 ![taskey02]({{ site.url }}/assets/taskey02.jpg){:width="40%"}
 
-- Esafeed for esa.io: [[iTunes link](https://itunes.apple.com/us/app/esafeed-for-esa.io/id1111901482?ls=1&mt=8){:target="_blank"}]  
-**No longer being maintained/updated.**
+- Esafeed for esa.io (**Removed from sale**)
 
 > Esafeed is a feed reader for [esa.io](https://esa.io/){:target="_blank"}.
 
@@ -60,11 +58,3 @@ A Swift framework for the esa.io API [https://esa.io](https://esa.io).
 ![motivation01]({{ site.url }}/assets/motivation01.jpg){:width="40%"}
 ![motivation02]({{ site.url }}/assets/motivation02.jpg){:width="40%"}
 
----
-
-**The following apps are only Japanese available and not in App Store.**
-
-- India Note
-- Fastzaim
-- Shinreizu, 心霊図
-- inagex
