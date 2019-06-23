@@ -310,7 +310,6 @@ DEPENDENCIES
   danger-prose
   github-pages
   html-proofer
-  jekyll
   jekyll-admin
   jekyll-feed
   jekyll-gist
