@@ -4,8 +4,6 @@
 [![Gihub Issue](https://img.shields.io/github/issues/pixyzehn/pixyzehn.com.svg)](https://github.com/pixyzehn/pixyzehn.com/issues)
 [![Web Site](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://pixyzehn.com/)
 
-Subscribe via [RSS](https://pixyzehn.com/feed.xml).
-
 ## Requirements
 
 - [Bundler](https://bundler.io)
