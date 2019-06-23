@@ -4,8 +4,6 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-This is my portfolio.
-
 #### Tool
 
 - [Snippet](https://github.com/pixyzehn/Snippet)  
