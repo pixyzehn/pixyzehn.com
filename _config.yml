@@ -28,8 +28,4 @@ plugins:
   - jemoji
   - jekyll-gist
 
-exclude: 
-  - vendor
-  - LICENSE.md
-  - README.md
-
+exclude: [vendor, LICENSE.md, README.md, Dangerfile, Gemfile, Gemfile.lock, assets/, package.json, yarn.lock, script]
