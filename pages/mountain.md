@@ -4,9 +4,7 @@ title: Mountain
 permalink: /mountain/
 ---
 
-Just a memo for moutains (or areas around mountains) and countries I visited.
-
-{% include visited_countries.html %}
+{% include map.html %}
 
 <h4>2019</h4>
 - Peneda-Gerês National Park (To 7 Lagoas do Gerês) 🇵🇹, 17/01/2019
