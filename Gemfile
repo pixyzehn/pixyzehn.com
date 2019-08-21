@@ -1,17 +1,17 @@
 source "https://rubygems.org"
 
-gem 'html-proofer'
+gem "html-proofer"
 gem "jekyll", "~> 4.0", group: :jekyll_plugins
-gem 'danger'
-gem 'danger-prose'
+gem "danger"
+gem "danger-prose"
 
 group :jekyll_plugins do
-  gem 'jekyll-sitemap'
-  gem 'jekyll-paginate'
-  gem 'jekyll-seo-tag'
-  gem 'jekyll-feed'
-  gem 'jekyll-mentions'
-  gem 'jemoji'
-  gem 'jekyll-gist'
+  gem "jekyll-sitemap"
+  gem "jekyll-paginate"
+  gem "jekyll-seo-tag"
+  gem "jekyll-feed"
+  gem "jekyll-mentions"
+  gem "jemoji"
+  gem "jekyll-gist"
 end
 
