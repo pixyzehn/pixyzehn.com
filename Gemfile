@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem 'html-proofer'
-gem 'jekyll', group: :jekyll_plugins
+gem "jekyll", "~> 4.0", group: :jekyll_plugins
 gem 'danger'
 gem 'danger-prose'
 
