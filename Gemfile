@@ -15,6 +15,3 @@ group :jekyll_plugins do
   gem 'jekyll-gist'
 end
 
-group :development do
-  gem 'jekyll-admin'
-end
