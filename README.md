@@ -7,7 +7,6 @@
 - [Bundler](https://bundler.io)
 - [Yarn](https://yarnpkg.com)
 - [Jekyll](https://jekyllrb.com)
-- [Danger](http://danger.systems/)
 
 ## Installation
 

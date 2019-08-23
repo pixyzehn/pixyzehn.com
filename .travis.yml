@@ -15,7 +15,6 @@ before_script:
 
 script:
  - ./script/cibuild
- - bundle exec danger
 
 branches:
   only:
