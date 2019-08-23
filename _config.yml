@@ -28,4 +28,6 @@ plugins:
   - jemoji
   - jekyll-gist
 
-exclude: [vendor, LICENSE.md, README.md, Dangerfile, Gemfile, Gemfile.lock, package.json, yarn.lock, script]
+include:
+  - .htaccess
+  - node_modules
