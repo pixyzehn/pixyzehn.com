@@ -41,6 +41,7 @@ The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/) written
 - [Less stuff, more happiness](https://www.ted.com/talks/graham_hill_less_stuff_more_happiness)
 - [Try something new for 30 days](https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days)
 - [100 Blocks a Day](https://waitbutwhy.com/2016/10/100-blocks-day.html)
+- [Life is short](http://www.paulgraham.com/vb.html)
 
 #### Mountain
 - [Tomorrow is another day, THE NORTH FACE](https://www.goldwin.co.jp/tnf/special/tomorrow_is_another_day/)
