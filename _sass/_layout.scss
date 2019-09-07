@@ -2,10 +2,10 @@
  * Nav header
  */
 .nav-header {
-  border-top: 5px solid $orange-color;
+  border-top: 5px solid $primary-content-color;
   // Positioning context for the mobile navigation icon
   position: relative;
-  background: $bg-color;
+  background: $background-color;
 }
 
 .navbar-brand {
@@ -16,10 +16,12 @@
   margin-bottom: 0;
   float: left;
   text-transform: uppercase;
+  color: $text-color;
 
   &,
-  &:visited {
-    color: #777;
+  &:visited,
+  &:active {
+    color: $text-color;
   }
 
   &:hover {
@@ -32,9 +34,13 @@
 
   .nav-link {
     font-size: 14px;
-    color: #777;
+    color: $primary-content-color !important;
     line-height: $base-line-height;
-    text-decoration: none;
+
+    &:hover {
+      color: $primary-content-color !important;
+      text-decoration: underline;
+    }
   }
 }
 
@@ -42,57 +48,11 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  border-top: 1px solid $primary-content-color;
   padding: $spacing-unit 0;
-  background: $bg-color;
+  background: $background-color;
   a {
-    color: #64c1f8;
-  }
-}
-
-.footer-heading {
-  font-size: 18px;
-  margin-bottom: $spacing-unit / 2;
-}
-
-.footer-col-wrapper {
-  font-size: 15px;
-  color: $grey-color;
-  margin-left: -$spacing-unit / 2;
-  @extend %clearfix;
-}
-
-.footer-col {
-  float: left;
-  margin-bottom: $spacing-unit / 2;
-  padding-left: $spacing-unit / 2;
-}
-
-.footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-  width: calc(35% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-2 {
-  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-  width: calc(20% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-3 {
-  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-  width: calc(45% - (#{$spacing-unit} / 2));
-}
-
-@include media-query($on-laptop) {
-  .footer-col-1,
-  .footer-col-2 {
-    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-    width: calc(50% - (#{$spacing-unit} / 2));
-  }
-
-  .footer-col-3 {
-    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-    width: calc(100% - (#{$spacing-unit} / 2));
+    color: $primary-content-color;
   }
 }
 
@@ -125,15 +85,14 @@
 
   .post-link {
     &:hover {
-      text-decoration: none;
-      color: #ef5138;
+      text-decoration: underline;
     }
   }
 }
 
 .post-meta {
   font-size: $small-font-size;
-  color: $grey-color;
+  color: $secondary-content-color;
 }
 
 .post-link {
@@ -216,7 +175,7 @@
   display: block;
   margin-top: -0.3rem;
   margin-bottom: 1rem;
-  color: #9a9a9a;
+  color: $secondary-content-color;
   time {
     margin-right: 0.5rem;
   }
@@ -254,7 +213,7 @@
  */
 #archive {
   .this {
-    background-color: #ffffcc;
+    background-color: $secondary-background-color;
     border-radius: 5px;
     padding: 10px;
   }
@@ -270,4 +229,11 @@
       }
     }
   }
+}
+
+/**
+ * Horizontal Rule
+ */
+hr {
+  background-color: $border-color;
 }

@@ -4,38 +4,28 @@
 
 @charset "utf-8";
 
-// Our variables
+// Font
 $base-font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
 $base-font-size: 16px;
 $base-font-weight: 400;
 $small-font-size: $base-font-size * 0.875;
+
+// Color
+$text-color: #f8f8f2;
+$background-color: #2c2a28;
+$secondary-background-color: #1c1c1eff;
+$syntax-background-color: #2c2c2eff;
+$primary-content-color: #FF453A;
+$secondary-content-color: #ebebf54c;
+$border-color: #54545899;
+
+// Others
 $base-line-height: 1.5;
-
 $spacing-unit: 30px;
-
-$text-color: #42464c;
-$background-color: #fdfdfd;
-$brand-color: #2a7ae2;
-
-$grey-color: #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark: darken($grey-color, 25%);
-$orange-color: #ef5138;
-$bg-color: #fdfdfd;
-
-// Width of the content area
 $content-width: 800px;
-
 $on-palm: 600px;
 $on-laptop: 800px;
 
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
     @content;

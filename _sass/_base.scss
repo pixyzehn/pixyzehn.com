@@ -105,15 +105,11 @@ h6 {
  * Links
  */
 a {
-  color: $brand-color;
-  text-decoration: none;
-
-  &:visited {
-    color: darken($brand-color, 15%);
-  }
+  color: $primary-content-color;
 
   &:hover {
-    color: $text-color;
+    color: $primary-content-color;
+    text-decoration: underline;
   }
 }
 
@@ -121,8 +117,8 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $grey-color;
-  border-left: 4px solid $grey-color-light;
+  color: #828282;
+  border-left: 4px solid lighten(#828282, 40%);
   padding-left: $spacing-unit / 2;
   font-size: 14px;
   font-style: italic;
@@ -137,11 +133,12 @@ blockquote {
  */
 pre,
 code {
-  font-family: monospace, monospace;
+  font-family: monospace;
   font-size: 14px;
-  border: 1px solid $grey-color-light;
+  color: $secondary-content-color;
+  border: 1px solid $border-color;
   border-radius: 3px;
-  background-color: #fdf6e3;
+  background-color: $syntax-background-color;
   line-height: 18px;
 }
 
