@@ -32,7 +32,6 @@ exclude:
   - README.md
   - package.json
   - yarn.lock
-  - script/
 
 include:
   - node_modules/jquery/dist/jquery.min.js
