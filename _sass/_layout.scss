@@ -53,7 +53,7 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $primary-content-color;
+  border-top: .1px solid $border-color;
   padding: $spacing-unit 0;
   background: $background-color;
   a {
@@ -239,6 +239,6 @@
 /**
  * Horizontal Rule
  */
-hr {
-  background-color: $border-color;
+hr { 
+  border-top: .1px solid $border-color;
 }
