@@ -4,12 +4,12 @@ title: Things I like
 permalink: /things_i_like/
 ---
 
-Here are my favorite links, I sometimes back to them to refer them again. There may be worth reading articles if you never read them.
-The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/) written by @khanlou.
+Here are things I like which I occasionally refer to. There may be worth reading if you have never read.
+The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/).
 
 <hr>
 
-### Software Engineering
+## Software Engineering
 - [Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
@@ -19,7 +19,7 @@ The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/) written
 - [Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)
 - [The mythical 10x programmer](http://antirez.com/news/112)
 
-### Life
+## Life
 - [How I Choose Projects](https://www.scotthyoung.com/blog/2016/02/18/choosing-projects/)
 - [English has been my pain for 15 years](http://antirez.com/news/61)
 - [2010 Baccalaureate Remarks](https://www.princeton.edu/news/2010/05/30/2010-baccalaureate-remarks)
@@ -29,12 +29,12 @@ The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/) written
 - [100 Blocks a Day](https://waitbutwhy.com/2016/10/100-blocks-day.html)
 - [Life is short](http://www.paulgraham.com/vb.html)
 
-### Mountain
+## Mountain
 - [Tomorrow is another day, THE NORTH FACE](https://www.goldwin.co.jp/tnf/special/tomorrow_is_another_day/)
 - [Trailers / Climber’s Stories – Flatlander Films](https://flatlanderfilms.com/category/trailers-climbers-stories/)
 - [Janhukot / Pertex](https://www.pertex.com/janhukot/)
 
-### Misc
+## Misc
 - [The Story of the Mexican Fisherman](https://bemorewithless.com/the-story-of-the-mexican-fisherman/)
 - [Tompkins Conservation Reading List](http://www.tompkinsconservation.org/reading_list.htm)
 - [Douglas Tompkins: A Force for Nature](http://www.tompkinsconservation.org/news/2015/12/09/douglas-tompkins-a-force-for-nature/)
