@@ -30,7 +30,6 @@ $ bundle exec jekyll serve
 ```
 
 You can see the site locally. [http://localhost:4000](http://localhost:4000)  
-And the admin is here. [http://localhost:4000/admin](http://localhost:4000/admin)
 
 ## License
 
