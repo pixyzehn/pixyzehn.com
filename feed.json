@@ -17,25 +17,42 @@ layout: null
         "avatar": "{{ site.url }}{{ site.author.avatar }}"
     },
     "items": [
-        {% for post in site.posts %}
+        {% for post in site.posts %
+        }
         {
             "id": "{{ post.url | absolute_url | sha1 }}",
             "url": "{{ site.url }}{{ post.url }}",
-            "title": {{ post.title | jsonify }},
+            "title": {
+                { post.title | jsonify
+                }
+            },
             "date_published": "{{ post.date | date_to_xmlschema }}",
-            {% if post.date-updated %}
+            {% if post.date-updated %
+            }
             "date_modified": "{{ post.date-updated | date_to_xmlschema }}",
-            {% else %}
+            {% else %
+            }
             "date_modified": "{{ post.date | date_to_xmlschema }}",
-            {% endif %}
+            {% endif %
+            }
             "author": {
                 "name": "{{ site.author.name }}",
                 "url": "{{ site.url }}",
                 "avatar": "{{ site.url }}{{ site.author.avatar }}"
             },
-            "summary": {{ post.excerpt | jsonify }},
-            "content_html": {{ post.content | jsonify }}
-        }{% if forloop.last == false %},{% endif %}
-        {% endfor %}
+            "summary": {
+                { post.excerpt | jsonify
+                }
+            },
+            "content_html": {
+                { post.content | jsonify
+                }
+            }
+        }{% if forloop.last == false %
+        },
+        {% endif %
+        }
+        {% endfor %
+        }
     ]
 }
