@@ -30,7 +30,7 @@ permalink: /portfolio/
 
 <hr>
 
-## iOS App (Personal app including all designs)
+## iOS App
 
 #### Kigen: Todo List for reminder ([iTunes link](https://itunes.apple.com/us/app/kigen-todo-list-for-reminder/id1198205732?l=en&mt=8){:target="_blank"})
 
