@@ -6,7 +6,7 @@ permalink: /tags/
 
 {% assign tag_names = "" | split: "|"  %}
 {% for posts_by_tag in site.tags %}
-    {% assign tag_names = tag_names | push: posts_by_tag.first %}
+{% assign tag_names = tag_names | push: posts_by_tag.first %}
 {% endfor %}
 {% assign tag_names = tag_names | sort %}
 
@@ -21,8 +21,8 @@ permalink: /tags/
             #{{ tag_name }}
         </h4>
         {% for post in site.tags[tag_name] %}
-            <a href="{{ post.url | prepend: baseurl }}">{{ post.title }}</a>
-            <br>
+        <a href="{{ post.url | prepend: baseurl }}">{{ post.title }}</a>
+        <br>
         {% endfor %}
         <br>
     </div>
