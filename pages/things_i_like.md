@@ -7,6 +7,8 @@ permalink: /things_i_like/
 Here are my favorite links, I sometimes back to them to refer them again. There may be worth reading articles if you never read them.
 The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/) written by @khanlou.
 
+<hr>
+
 #### Software Engineering
 - [Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
