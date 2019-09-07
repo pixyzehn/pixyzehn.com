@@ -32,14 +32,6 @@ $ bundle exec jekyll serve
 You can see the site locally. [http://localhost:4000](http://localhost:4000)  
 And the admin is here. [http://localhost:4000/admin](http://localhost:4000/admin)
 
-## Draft
-
-Create a new post in `_drafts` locally. (NOTE: Added `_drafts` in `.gitginore`.)
-
-```bash
-$ bundle exec jekyll build --future --drafts --watch
-```
-
 ## License
 
 Code is open sourced under the [MIT license](LICENSE.md).
