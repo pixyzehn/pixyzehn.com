@@ -8,7 +8,6 @@ permalink: /
 
 <hr>
 
-Hi, I'm Hiroki Nagasawa and an iOS Software Engineer at [Doist](https://doist.com).
+Hi, I'm Hiroki Nagasawa @pixyzehn, and an iOS Software Engineer at [Doist](https://doist.com).
 
-Apart from an iOS development, I'm interested in a long-distance `#Hike` and `#Camping` on mountains, practicing `#Climbing`, improving my `#Productivity`, building something useful mostly with `#Swift`, and learning `#Portuguese`.
-
+Apart from an iOS development and programming, I'm interested in a long-distance `#Hiking` and `#Camping` especially on mountains, practicing `#Climbing`, improving my `#Productivity`, building something useful mostly with `#Swift`, learning `#Portuguese`, and reading [books](https://www.goodreads.com/pixyzehn).

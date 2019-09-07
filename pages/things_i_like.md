@@ -4,7 +4,7 @@ title: Things I like
 permalink: /things_i_like/
 ---
 
-Here are things I like which I occasionally refer to. There may be worth reading if you have never read.
+Here are things I like and I occasionally revisit. There may be worth reading or checking if you don't know.
 The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/).
 
 <hr>
@@ -28,6 +28,12 @@ The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/).
 - [Try something new for 30 days](https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days)
 - [100 Blocks a Day](https://waitbutwhy.com/2016/10/100-blocks-day.html)
 - [Life is short](http://www.paulgraham.com/vb.html)
+
+## iOS App
+- [Outlook for iOS](https://products.office.com/en-us/outlook-mobile-for-android-and-ios)
+- [Overcast](https://overcast.fm)
+- [Sky Guide](https://www.fifthstarlabs.com/#sky-guide)
+- [Todoist](https://todoist.com/downloads/ios)
 
 ## Mountain
 - [Tomorrow is another day, THE NORTH FACE](https://www.goldwin.co.jp/tnf/special/tomorrow_is_another_day/)
