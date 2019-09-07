@@ -7,3 +7,19 @@ _drafts
 vendor/
 .bundle/config
 
+# bootstrap
+node_modules/bootstrap/*
+!node_modules/bootstrap/dist/
+node_modules/bootstrap/dist/*
+!node_modules/bootstrap/dist/css
+!node_modules/bootstrap/dist/js
+node_modules/bootstrap/dist/css/*
+!node_modules/bootstrap/dist/css/bootstrap.min.css
+node_modules/bootstrap/dist/js/*
+!node_modules/bootstrap/dist/js/bootstrap.min.js
+
+# jquery
+node_modules/jquery/*
+!node_modules/jquery/dist
+node_modules/jquery/dist/*
+!node_modules/jquery/dist/jquery.min.js
