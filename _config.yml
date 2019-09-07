@@ -27,11 +27,12 @@ plugins:
   - jekyll-gist
 
 exclude:
+  - .travis.yml
   - LICENSE.md
   - README.md
   - package.json
   - yarn.lock
-  - script
+  - script/
 
 include:
   - node_modules/jquery/dist/jquery.min.js
