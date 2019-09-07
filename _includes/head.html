@@ -7,9 +7,7 @@
     <meta name="format-detection" content="telephone=no,address=no">
     <meta name="author" content="{{ site.author.name }}">
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-
     <title>{{ site.title }}</title>
-
     <link rel="stylesheet" href="/node_modules/bootstrap/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">
