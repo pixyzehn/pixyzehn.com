@@ -2,311 +2,300 @@
  * Nav header
  */
 .nav-header {
-    border-top: 5px solid $orange-color;
-    // Positioning context for the mobile navigation icon
-    position: relative;
-    background: $bg-color;
+  border-top: 5px solid $orange-color;
+  // Positioning context for the mobile navigation icon
+  position: relative;
+  background: $bg-color;
 }
 
 .navbar-brand {
-    font-size: 1.4em;
-    font-weight: bold;
-    line-height: 56px;
-    letter-spacing: -1px;
-    margin-bottom: 0;
-    float: left;
-    text-transform: uppercase;
+  font-size: 1.4em;
+  font-weight: bold;
+  line-height: 56px;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left;
+  text-transform: uppercase;
 
-    &,
-    &:visited {
-        color: #777;
-    }
+  &,
+  &:visited {
+    color: #777;
+  }
 
-    &:hover {
-        text-decoration: none;
-    }
+  &:hover {
+    text-decoration: none;
+  }
 }
 
 .navbar {
-    line-height: 56px;
+  line-height: 56px;
 
-    .nav-link {
-        font-size: 14px;
-        color: #777;
-        line-height: $base-line-height;
-        text-decoration: none;
-    }
+  .nav-link {
+    font-size: 14px;
+    color: #777;
+    line-height: $base-line-height;
+    text-decoration: none;
+  }
 }
-
-
 
 /**
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
-    background: $bg-color;
-    a {
-        color: #64c1f8;
-    }
+  border-top: 1px solid $grey-color-light;
+  padding: $spacing-unit 0;
+  background: $bg-color;
+  a {
+    color: #64c1f8;
+  }
 }
 
 .footer-heading {
-    font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
+  font-size: 18px;
+  margin-bottom: $spacing-unit / 2;
 }
 
 .contact-list,
 .social-media-list {
-    list-style: none;
-    margin-left: 0;
+  list-style: none;
+  margin-left: 0;
 }
 
 .footer-col-wrapper {
-    font-size: 15px;
-    color: $grey-color;
-    margin-left: -$spacing-unit / 2;
-    @extend %clearfix;
+  font-size: 15px;
+  color: $grey-color;
+  margin-left: -$spacing-unit / 2;
+  @extend %clearfix;
 }
 
 .footer-col {
-    float: left;
-    margin-bottom: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
+  float: left;
+  margin-bottom: $spacing-unit / 2;
+  padding-left: $spacing-unit / 2;
 }
 
 .footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+  width: calc(35% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
+  width: calc(20% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
+  width: calc(45% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
-    .footer-col-1,
-    .footer-col-2 {
-        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-        width:         calc(50% - (#{$spacing-unit} / 2));
-    }
+  .footer-col-1,
+  .footer-col-2 {
+    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+    width: calc(50% - (#{$spacing-unit} / 2));
+  }
 
-    .footer-col-3 {
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
+  .footer-col-3 {
+    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+    width: calc(100% - (#{$spacing-unit} / 2));
+  }
 }
 
 @include media-query($on-palm) {
-    .footer-col {
-        float: none;
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
+  .footer-col {
+    float: none;
+    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+    width: calc(100% - (#{$spacing-unit} / 2));
+  }
 }
-
-
 
 /**
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+  padding: $spacing-unit 0;
 }
 
 .page-heading {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 .post-list {
-    margin-left: 0;
-    list-style: none;
+  margin-left: 0;
+  list-style: none;
 
-    > li {
-        margin-bottom: $spacing-unit;
-    }
+  > li {
+    margin-bottom: $spacing-unit;
+  }
 
-    .post-link {
-        &:hover {
-            text-decoration: none;
-            color: #EF5138;
-        }
+  .post-link {
+    &:hover {
+      text-decoration: none;
+      color: #ef5138;
     }
+  }
 }
 
 .post-meta {
-    font-size: $small-font-size;
-    color: $grey-color;
+  font-size: $small-font-size;
+  color: $grey-color;
 }
 
 .post-link {
-    font-size: 24px;
+  font-size: 24px;
 }
 
 .post-internal-links {
-    margin-left: 0;
-    list-style: none;
+  margin-left: 0;
+  list-style: none;
 }
 
 .post-internal-link {
-    margin-left: 10px;
-    font-size: 16px;
+  margin-left: 10px;
+  font-size: 16px;
 }
-
 
 /**
  * Posts
  */
 .post-header {
-    margin-bottom: $spacing-unit;
+  margin-bottom: $spacing-unit;
 }
 
 .post-title {
-    font-size: 26px;
-    letter-spacing: -1px;
-    line-height: 1;
+  font-size: 26px;
+  letter-spacing: -1px;
+  line-height: 1;
 
-    @include media-query($on-laptop) {
-        font-size: 26px;
-    }
+  @include media-query($on-laptop) {
+    font-size: 26px;
+  }
 }
 
 .post-content {
-    margin-bottom: $spacing-unit;
+  margin-bottom: $spacing-unit;
 
-    h2 {
-        font-size: 28px;
+  h2 {
+    font-size: 28px;
 
-        @include media-query($on-laptop) {
-            font-size: 28px;
-        }
+    @include media-query($on-laptop) {
+      font-size: 28px;
     }
+  }
 
-    h3 {
-        font-size: 26px;
+  h3 {
+    font-size: 26px;
 
-        @include media-query($on-laptop) {
-            font-size: 22px;
-        }
+    @include media-query($on-laptop) {
+      font-size: 22px;
     }
+  }
 
-    h4 {
-        font-size: 20px;
+  h4 {
+    font-size: 20px;
 
-        @include media-query($on-laptop) {
-            font-size: 18px;
-        }
+    @include media-query($on-laptop) {
+      font-size: 18px;
     }
+  }
 }
-
-
 
 /**
  * Pagination
  */
 .pagination li {
-    margin: 6px;
+  margin: 6px;
 
-    > a {
-        border-radius: 15px!important;
-        padding: 5px 14px;
-        border: 1px solid;
-        font-size: 14px;
-    }
+  > a {
+    border-radius: 15px !important;
+    padding: 5px 14px;
+    border: 1px solid;
+    font-size: 14px;
+  }
 }
-
-
 
 /**
  *  Meta data line below post title
  */
 .post-meta {
-    display: block;
-    margin-top: -.3rem;
-    margin-bottom: 1rem;
-    color: #9a9a9a;
-    time {
-        margin-right: .5rem;
+  display: block;
+  margin-top: -0.3rem;
+  margin-bottom: 1rem;
+  color: #9a9a9a;
+  time {
+    margin-right: 0.5rem;
+  }
+  .post-tags {
+    display: inline-block;
+    a {
+      font-size: 0.8rem;
     }
-    .post-tags {
-        display: inline-block;
-        a {
-            font-size: .8rem;
-        }
-    }
+  }
 }
-
-
 
 /**
  * Styles for _pages/tags.html
  */
 .tag-cloud {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    li {
-        display: inline-block;
-    }
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  li {
+    display: inline-block;
+  }
 }
 
 /**
  * Profile image
  */
 .profile-image {
-    margin: 0 auto;
-    display: block;
-    border-radius: 6px!important;
+  margin: 0 auto;
+  display: block;
+  border-radius: 6px !important;
 }
 
 /**
  * Achives
  */
 #archive {
-    .this {
-        background-color: #ffffcc;
-        border-radius: 5px;
-        padding: 10px;
+  .this {
+    background-color: #ffffcc;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  ul {
+    list-style: none;
+    li {
+      margin-bottom: 10px;
+      time {
+        display: inline-block;
+        font-family: "Monaco", "Courier", monospace;
+        font-size: 12px;
+        padding-right: 10px;
+      }
     }
-    ul {
-        list-style: none;
-        li {
-            margin-bottom: 10px;
-            time {
-                display: inline-block;
-                font-family: "Monaco", "Courier", monospace;
-                font-size: 12px;
-                padding-right: 10px;
-            }
-        }
-    }
+  }
 }
 
 /**
  * Contact follow
  */
 .contact {
-    ul {
-        li {
-            display: inline-block;
-            margin-left: 0.5rem;
-            margin-right: 0.5rem;
-        }
+  ul {
+    li {
+      display: inline-block;
+      margin-left: 0.5rem;
+      margin-right: 0.5rem;
     }
+  }
 }
 
 .row .contact {
-    margin-right: -15px;
-    margin-left: -15px;
+  margin-right: -15px;
+  margin-left: -15px;
 }
 
 .social-icons {
-    position: inherit;
+  position: inherit;
 }
