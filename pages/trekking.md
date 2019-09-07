@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mountain
-permalink: /mountain/
+title: Trekking
+permalink: /trekking/
 ---
 
 {% include map.html %}

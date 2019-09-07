@@ -1,7 +1,7 @@
 title: pixyzehn
 email: pixyzehn@icloud.com
 author: Hiroki Nagasawa
-description: "Just another jekyll blog"
+description: "Just another jekyll website"
 keywords: "Swift, pixyzehn, iOS, Objective-C, cocoa, Apple, Xcode, app store, programming"
 url: https://pixyzehn.com
 timezone: Europe/Lisbon
@@ -15,7 +15,7 @@ links:
 markdown: kramdown
 highlighter: rouge
 paginate: 8
-paginate_path: /blog/:num
+paginate_path: /articles/:num
 
 plugins:
   - jekyll-sitemap
