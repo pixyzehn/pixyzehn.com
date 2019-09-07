@@ -34,11 +34,11 @@
 
   .nav-link {
     font-size: 14px;
-    color: $primary-content-color !important;
+    color: $secondary-content-color !important;
     line-height: $base-line-height;
 
     &:hover {
-      color: $primary-content-color !important;
+      color: $secondary-content-color !important;
       text-decoration: underline;
     }
   }
