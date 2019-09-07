@@ -6,30 +6,35 @@ permalink: /portfolio/
 
 #### Tool
 
-- [Snippet](https://github.com/pixyzehn/Snippet)  
-Quickly extract your specific Github PRs with links last week (or earlier than last week) to markdown formats.
+- [Snippet](https://github.com/pixyzehn/Snippet)
 
-- [Linter](https://github.com/pixyzehn/Linter)  
-A simple tool to make it easy to introduce SwiftLint from zero especially for a new project.
+> Quickly extract your specific Github PRs with links last week (or earlier than last week) to markdown formats.
 
-- [PackageBuilder](https://github.com/pixyzehn/PackageBuilder)  
-PackageBuilder builds a simple command-line structure by SwiftPM.
+- [Linter](https://github.com/pixyzehn/Linter)
 
-- [stodo](https://github.com/pixyzehn/stodo)  
-Swifty command-line tool for todo list.  
-**No longer being maintained/updated.**
+> A simple tool to make it easy to introduce SwiftLint from zero especially for a new project.
 
-- [EsaKit](https://github.com/pixyzehn/EsaKit)  
-A Swift framework for the esa.io API [https://esa.io](https://esa.io).  
-**No longer being maintained/updated.**
+- [PackageBuilder](https://github.com/pixyzehn/PackageBuilder)
 
----
+> PackageBuilder builds a simple command-line structure by SwiftPM.
+
+- [stodo](https://github.com/pixyzehn/stodo)
+
+> **No longer being maintained/updated.**
+> Swifty command-line tool for todo list.
+
+- [EsaKit](https://github.com/pixyzehn/EsaKit)
+
+> **No longer being maintained/updated.**
+> A Swift framework for the esa.io API [https://esa.io](https://esa.io).
+
+<hr>
 
 #### iOS App (Personal app including all designs)
 
-- Kigen: Todo List for reminder [[iTunes link](https://itunes.apple.com/us/app/kigen-todo-list-for-reminder/id1198205732?l=en&mt=8){:target="_blank"}]  
-**No longer being maintained/updated.**
+- Kigen: Todo List for reminder ([iTunes link](https://itunes.apple.com/us/app/kigen-todo-list-for-reminder/id1198205732?l=en&mt=8){:target="_blank"})
 
+> **No longer being maintained/updated.**
 > Kigen is a Todo list for reminder. It helps you remind of your important tasks.
 
 ![kigen01]({{ site.url }}/assets/kigen01.jpg){:width="40%"}
