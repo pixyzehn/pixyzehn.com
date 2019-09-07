@@ -28,4 +28,16 @@ plugins:
   - jemoji
   - jekyll-gist
 
-exclude: [vendor, LICENSE.md, README.md, Dangerfile, Gemfile, Gemfile.lock, package.json, yarn.lock, script]
+exclude:
+  - LICENSE.md
+  - README.md
+  - package.json
+  - yarn.lock
+  - script
+
+include:
+  - node_modules/jquery/dist/jquery.min.js
+  - node_modules/bootstrap/dist/js/bootstrap.min.js
+  - node_modules/bootstrap/dist/js/bootstrap.min.js.map
+  - node_modules/bootstrap/dist/css/bootstrap.min.css
+  - node_modules/bootstrap/dist/css/bootstrap.min.css.map
