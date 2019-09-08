@@ -10,7 +10,10 @@ username: pixyzehn
 links:
   repo: "https://github.com/pixyzehn/pixyzehn.com"
   github: "https://github.com/pixyzehn"
+  goodreads: "https://www.goodreads.com/pixyzehn"
   rss: "https://pixyzehn.com/feed.xml"
+  company: "https://doist.com"
+  jekylly: "https://jekyllrb.com"
 
 markdown: kramdown
 highlighter: rouge
