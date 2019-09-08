@@ -32,9 +32,8 @@ permalink: /portfolio/
 
 ## iOS App
 
-#### Kigen: Todo List for reminder ([iTunes link](https://itunes.apple.com/us/app/kigen-todo-list-for-reminder/id1198205732?l=en&mt=8){:target="_blank"})
+#### Kigen: Todo List for reminder (**Removed from sale**)
 
-> **No longer being maintained/updated.**
 > Kigen is a Todo list for reminder. It helps you remind of your important tasks.
 
 ![kigen01]({{ site.url }}/assets/kigen01.jpg){:width="40%"}
