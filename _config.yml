@@ -25,6 +25,7 @@ plugins:
   - jekyll-mentions
   - jemoji
   - jekyll-gist
+  - jekyll-avatar
 
 exclude:
   - .travis.yml
