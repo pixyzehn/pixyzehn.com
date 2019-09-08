@@ -4,31 +4,6 @@ title: Archives
 permalink: /archives/
 ---
 
-<section id="archive">
-    {%for post in site.posts %}
-    {% unless post.next %}
-    <h4>{{ post.date | date: '%Y' }}</h4>
-    <ul class="this">
-        {% else %}
-        {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-        {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-        {% if year != nyear %}
-    </ul>
-    <h4>{{ post.date | date: '%Y' }}</h4>
-    <ul class="past">
-        {% endif %}
-        {% endunless %}
-        <li>
-            <time>{{ post.date | date:"%d %b" }}</time>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-        {% endfor %}
-    </ul>
-</section>
+{% include archives.html %}
 
-<div class="post-internal-links">
-  <li>
-    <a class="post-internal-link" href="/articles">Articles</a>
-    <a class="post-internal-link" href="/tags">Tags</a>
-  </li>
-</div>
+{% include post_internal_links.html %}

@@ -6,7 +6,7 @@ permalink: /
 
 ![My profile]({{ site.url }}/assets/profile.jpg){:height="100px" width="100px" .profile-image}
 
-<hr>
+---
 
 Hi, I'm Hiroki Nagasawa @pixyzehn, and an iOS Software Engineer at [Doist](https://doist.com).
 

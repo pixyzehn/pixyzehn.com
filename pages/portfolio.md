@@ -28,7 +28,7 @@ permalink: /portfolio/
 > **No longer being maintained/updated.**
 > A Swift framework for the esa.io API [https://esa.io](https://esa.io).
 
-<hr>
+---
 
 ## iOS App
 
@@ -60,4 +60,3 @@ permalink: /portfolio/
 
 ![motivation01]({{ site.url }}/assets/motivation01.jpg){:width="40%"}
 ![motivation02]({{ site.url }}/assets/motivation02.jpg){:width="40%"}
-

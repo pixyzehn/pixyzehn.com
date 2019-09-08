@@ -6,7 +6,7 @@ permalink: /trekking/
 
 {% include map.html %}
 
-<hr>
+---
 
 ## 2019
 - Peneda-Gerês National Park (To 7 Lagoas do Gerês) 🇵🇹, 17/01/2019
@@ -43,4 +43,3 @@ permalink: /trekking/
 - Mt. Kawanori (1,363m) 🇯🇵, 13/08/2016
 - Mt. Nokogiri (330m) 🇯🇵, 17/07/2016
 - Mt. Takao (599m) 🇯🇵, No date
-

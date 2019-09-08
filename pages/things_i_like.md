@@ -7,7 +7,7 @@ permalink: /things_i_like/
 Here are things I like and I occasionally revisit. There may be worth reading or checking if you don't know.
 The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/).
 
-<hr>
+---
 
 ## Software Engineering
 - [Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)

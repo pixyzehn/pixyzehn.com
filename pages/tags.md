@@ -12,26 +12,8 @@ permalink: /tags/
 
 {% include tags_cloud.html tag_names=tag_names %}
 
-<hr>
+---
 
-<section class="posts-by-tags">
-    {% for tag_name in tag_names %}
-    <div>
-        <h4 id="{{ tag_name }}">
-            #{{ tag_name }}
-        </h4>
-        {% for post in site.tags[tag_name] %}
-        <a href="{{ post.url | prepend: baseurl }}">{{ post.title }}</a>
-        <br>
-        {% endfor %}
-        <br>
-    </div>
-    {% endfor %}
-</section>
+{% include posts_by_tags.html %}
 
-<div class="post-internal-links">
-  <li>
-    <a class="post-internal-link" href="/articles">Articles</a>
-    <a class="post-internal-link" href="/archives">Archives</a>
-  </li>
-</div>
+{% include post_internal_links.html %}
