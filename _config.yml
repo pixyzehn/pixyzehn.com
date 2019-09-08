@@ -13,7 +13,7 @@ links:
   goodreads: "https://www.goodreads.com/pixyzehn"
   rss: "https://pixyzehn.com/feed.xml"
   company: "https://doist.com"
-  jekylly: "https://jekyllrb.com"
+  jekyll: "https://jekyllrb.com"
 
 markdown: kramdown
 highlighter: rouge
