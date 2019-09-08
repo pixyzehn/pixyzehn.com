@@ -30,7 +30,7 @@ permalink: /portfolio/
 
 ---
 
-## iOS App
+## iOS
 
 #### Kigen: Todo List for reminder (**Removed from sale**)
 

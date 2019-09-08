@@ -29,11 +29,18 @@ The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/).
 - [100 Blocks a Day](https://waitbutwhy.com/2016/10/100-blocks-day.html)
 - [Life is short](http://www.paulgraham.com/vb.html)
 
-## iOS App
+## iOS apps
 - [Outlook for iOS](https://products.office.com/en-us/outlook-mobile-for-android-and-ios)
 - [Overcast](https://overcast.fm)
 - [Sky Guide](https://www.fifthstarlabs.com/#sky-guide)
 - [Todoist](https://todoist.com/downloads/ios)
+
+## macOS apps
+- [Fork](https://git-fork.com)
+- [iTerm2](https://www.iterm2.com)
+- [Kaleidoscope](https://www.kaleidoscopeapp.com)
+- [Karabiner](https://pqrs.org/osx/karabiner/)
+- [Soulver](https://soulver.app)
 
 ## Mountain
 - [Tomorrow is another day, THE NORTH FACE](https://www.goldwin.co.jp/tnf/special/tomorrow_is_another_day/)
