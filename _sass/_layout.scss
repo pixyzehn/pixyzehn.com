@@ -237,6 +237,8 @@
 /**
  * Horizontal Rule
  */
-hr { 
+hr {
   border-top: 1px solid $border-color;
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit;
 }
