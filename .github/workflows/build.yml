@@ -10,8 +10,8 @@ jobs:
     runs-on: macOS-latest
     steps:
     - uses: actions/checkout@v1
-    - name: Run a one-line script
-      run: gem install
+    - name: gem install
+      run: |
         gem --version
         gem update --system
         gem install bundler
