@@ -1,0 +1,20 @@
+name: jekyll build
+
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  build:
+    runs-on: macOS-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Run a one-line script
+      run: gem install
+        gem --version
+        gem update --system
+        gem install bundler
+    - name: jekyll build
+      run: |
+        bundle exec jekyll build
