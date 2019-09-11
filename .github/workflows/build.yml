@@ -10,12 +10,14 @@ jobs:
     runs-on: macOS-latest
     steps:
     - uses: actions/checkout@v1
-    - name: gem install
+    - name: gem install bundler
       run: |
         gem --version
         gem update --system
         gem install bundler
-    - name: jekyll build
+    - name: bundle install
       run: |
         bundle install
+    - name: jekyll build
+      run: |
         bundle exec jekyll build
