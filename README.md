@@ -1,7 +1,5 @@
 # [pixyzehn.com](http://pixyzehn.com)
 
-[![Build Status](https://travis-ci.org/pixyzehn/pixyzehn.com.svg?branch=master)](https://travis-ci.org/pixyzehn/pixyzehn.com)
-
 ## Requirements
 
 - [Bundler](https://bundler.io)
