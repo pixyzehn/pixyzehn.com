@@ -13,7 +13,10 @@ permalink: /trekking/
 - Grande Rota Santa Maria (Azores, Santa Maria island) 🇵🇹, 22/03/2019 ~ 26/03/2019
 - Reserva Natural das Dunas de São Jacinto (Aveiro) 🇵🇹, 11/05/2019
 - Pinhão in the heart of the Douro Valley 🇵🇹, 18/05/2019 ~ 19/05/2019
+- Trælanípa – Bøsdalafossur in Vagar island 🇫🇴, 29/07/2019
 - Kristínartindar in Skaftafell National Park 🇮🇸, 6/8/2019
+- Ponta da Piedade in Lagos 🇵🇹, 14/09/2019 ~ 15/09/2019
+- Ria Formosa Natural Park 🇵🇹, 17/09/2019 ~ 19/09/2019
 
 ## 2018
 
