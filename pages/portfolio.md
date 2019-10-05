@@ -8,7 +8,7 @@ permalink: /portfolio/
 
 #### [Snippet](https://github.com/pixyzehn/Snippet)
 
-> Quickly extract your specific Github PRs with links last week (or earlier than last week) to markdown formats.
+> Quickly extract your specific Github PRs with links last week (or earlier than last week) and convert them into markdown formats.
 
 #### [Linter](https://github.com/pixyzehn/Linter)
 
