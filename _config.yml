@@ -1,11 +1,10 @@
 title: pixyzehn
-email: pixyzehn@icloud.com
 author: Hiroki Nagasawa
+username: pixyzehn
 description: Just another jekyll website
 keywords: Swift, pixyzehn, iOS, Objective-C, cocoa, Apple, Xcode, app store, programming
 url: https://pixyzehn.com
 timezone: Europe/Lisbon
-username: pixyzehn
 
 links:
   repo: https://github.com/pixyzehn/pixyzehn.com
