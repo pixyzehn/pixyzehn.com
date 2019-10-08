@@ -1,4 +1,5 @@
 # [pixyzehn.com](http://pixyzehn.com)
+![Jekyll site CI](https://github.com/pixyzehn/pixyzehn.com/workflows/jekyll/badge.svg)
 
 ## Requirements
 
