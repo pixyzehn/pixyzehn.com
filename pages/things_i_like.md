@@ -32,6 +32,7 @@ The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/).
 ## iOS apps
 - [Outlook for iOS](https://products.office.com/en-us/outlook-mobile-for-android-and-ios)
 - [Overcast](https://overcast.fm)
+- [PeakFinder](https://www.peakfinder.org)
 - [Sky Guide](https://www.fifthstarlabs.com/#sky-guide)
 - [Todoist](https://todoist.com/downloads/ios)
 
