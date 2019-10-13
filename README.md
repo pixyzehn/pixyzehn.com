@@ -28,8 +28,6 @@ $ bundle exec jekyll build
 $ bundle exec jekyll serve
 ```
 
-You can see the site locally. [http://localhost:4000](http://localhost:4000)  
-
 ## License
 
 Code is open sourced under the [MIT license](LICENSE.md).
