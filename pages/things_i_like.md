@@ -28,6 +28,7 @@ The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/).
 - [Try something new for 30 days](https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days)
 - [100 Blocks a Day](https://waitbutwhy.com/2016/10/100-blocks-day.html)
 - [Life is short](http://www.paulgraham.com/vb.html)
+- [The Complete Guide to Self-Control](https://www.scotthyoung.com/blog/2019/09/30/self-control/)
 
 ## iOS apps
 - [Outlook for iOS](https://products.office.com/en-us/outlook-mobile-for-android-and-ios)
