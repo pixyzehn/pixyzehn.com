@@ -3,13 +3,13 @@ source "https://rubygems.org"
 gem "jekyll", group: :jekyll_plugins
 
 group :jekyll_plugins do
-  gem "jekyll-sitemap"
+  gem 'jekyll-avatar'
+  gem "jekyll-feed"
+  gem "jekyll-gist"
   gem "jekyll-paginate"
   gem "jekyll-seo-tag"
-  gem "jekyll-feed"
+  gem "jekyll-sitemap"
   gem "jekyll-mentions"
   gem "jemoji"
-  gem "jekyll-gist"
-  gem 'jekyll-avatar'
 end
 

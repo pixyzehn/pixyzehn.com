@@ -7,11 +7,11 @@ url: https://pixyzehn.com
 timezone: Europe/Lisbon
 
 links:
-  repo: https://github.com/pixyzehn/pixyzehn.com
+  company: https://doist.com
   github: https://github.com/pixyzehn
   goodreads: https://www.goodreads.com/pixyzehn
+  repo: https://github.com/pixyzehn/pixyzehn.com
   rss: https://pixyzehn.com/feed.xml
-  company: https://doist.com
   jekyll: https://jekyllrb.com
 
 markdown: kramdown
@@ -20,19 +20,19 @@ paginate: 8
 paginate_path: /articles/:num
 
 plugins:
-- jekyll-sitemap
+- jekyll-avatar
+- jekyll-feed
+- jekyll-gist
 - jekyll-paginate
 - jekyll-seo-tag
-- jekyll-feed
+- jekyll-sitemap
 - jekyll-mentions
 - jemoji
-- jekyll-gist
-- jekyll-avatar
 
 exclude:
 - ".gitignore"
-- ".jekyll-cache"
 - ".travis.yml"
+- ".jekyll-cache"
 - LICENSE.md
 - README.md
 - package.json
