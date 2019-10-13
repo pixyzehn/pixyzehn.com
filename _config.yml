@@ -16,6 +16,9 @@ links:
 
 paginate: 8
 paginate_path: /articles/:num
+
+sass:
+  style: compressed
 strict_front_matter: true
 
 plugins:
