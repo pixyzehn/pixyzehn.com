@@ -40,7 +40,7 @@ The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/).
 - [Fork](https://git-fork.com)
 - [iTerm2](https://www.iterm2.com)
 - [Kaleidoscope](https://www.kaleidoscopeapp.com)
-- [Karabiner](https://pqrs.org/osx/karabiner/)
+- [Karabiner-Elements](https://pqrs.org/osx/karabiner/)
 - [Soulver](https://soulver.app)
 
 ## Mountain
