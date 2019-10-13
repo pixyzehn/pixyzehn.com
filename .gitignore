@@ -1,11 +1,18 @@
+# Jekyll
 _site
-.sass-cache
+*-cache/
 .jekyll-metadata
-.jekyll-cache
-_drafts
 
-vendor/
-.bundle/config
+# Ruby
+.bundle/
+
+# Files
+.DS_Store
+*.swp
+*~
+
+# Folders
+/vendor
 
 # bootstrap
 node_modules/bootstrap/*
