@@ -14,8 +14,6 @@ links:
   rss: https://pixyzehn.com/feed.xml
   jekyll: https://jekyllrb.com
 
-markdown: kramdown
-highlighter: rouge
 paginate: 8
 paginate_path: /articles/:num
 
