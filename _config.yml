@@ -16,6 +16,7 @@ links:
 
 paginate: 8
 paginate_path: /articles/:num
+strict_front_matter: true
 
 plugins:
 - jekyll-avatar
