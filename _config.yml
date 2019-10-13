@@ -20,25 +20,27 @@ paginate: 8
 paginate_path: /articles/:num
 
 plugins:
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-mentions
-  - jemoji
-  - jekyll-gist
-  - jekyll-avatar
+- jekyll-sitemap
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-feed
+- jekyll-mentions
+- jemoji
+- jekyll-gist
+- jekyll-avatar
 
 exclude:
-  - .travis.yml
-  - LICENSE.md
-  - README.md
-  - package.json
-  - yarn.lock
+- ".gitignore"
+- ".jekyll-cache"
+- ".travis.yml"
+- LICENSE.md
+- README.md
+- package.json
+- yarn.lock
 
 include:
-  - node_modules/jquery/dist/jquery.min.js
-  - node_modules/bootstrap/dist/js/bootstrap.min.js
-  - node_modules/bootstrap/dist/js/bootstrap.min.js.map
-  - node_modules/bootstrap/dist/css/bootstrap.min.css
-  - node_modules/bootstrap/dist/css/bootstrap.min.css.map
+- node_modules/jquery/dist/jquery.min.js
+- node_modules/bootstrap/dist/js/bootstrap.min.js
+- node_modules/bootstrap/dist/js/bootstrap.min.js.map
+- node_modules/bootstrap/dist/css/bootstrap.min.css
+- node_modules/bootstrap/dist/css/bootstrap.min.css.map
