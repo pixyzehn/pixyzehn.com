@@ -1,16 +1,14 @@
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Cache-control" content="public">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="keywords" content="{{ site.keywords }}">
-    <meta name="format-detection" content="telephone=no,address=no">
     <meta name="author" content="{{ site.author.name }}">
-    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="description" content="{{ site.description }}">
     <title>{{ site.title }}</title>
+    <link rel="canonical" href="{{  site.url }}{{ page.url }}">
     <link rel="stylesheet" href="/node_modules/bootstrap/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-    <link rel="canonical" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="stylesheet" href="/css/main.css">
     {%- feed_meta -%}
     {%- seo -%}
     <link rel="shortcut icon" href="/ico/favicon.ico">
