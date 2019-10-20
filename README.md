@@ -30,6 +30,6 @@ $ bundle exec jekyll serve
 
 ## License
 
-Code is open sourced under the [MIT license](LICENSE.md).
+Code is open sourced under the [MIT license](LICENSE).
 
 Content is released under a [Creative Commons BY-NC License](http://creativecommons.org/licenses/by-nc/4.0/).
