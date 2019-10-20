@@ -1,6 +1,6 @@
 {
     "name": "pixyzehn.com",
-    "description": "Just another jekyll blog",
+    "description": "Just another jekyll static website",
     "private": true,
     "dependencies": {
         "bootstrap": "^4.3.1",
