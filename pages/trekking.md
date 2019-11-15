@@ -18,6 +18,7 @@ permalink: /trekking/
 - 🇮🇸 Kristínartindar in Skaftafell National Park, 6/8/2019
 - 🇵🇹 Ponta da Piedade in Lagos, 14/09/2019 ~ 15/09/2019
 - 🇵🇹 Ria Formosa Natural Park, 17/09/2019 ~ 19/09/2019
+- 🇪🇸 Tibidabo, Barcelona, 24/09/2019
 - 🇵🇹 Rota da Penha, Guimarães, 27/10/2019
 - 🇪🇸 Monte Urgell and Monte Igueldo, San Sebastian, 13/11/2019
 
