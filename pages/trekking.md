@@ -8,6 +8,10 @@ permalink: /trekking/
 
 ---
 
+## 2020
+
+- 🇬🇪 Gergeti Trinity Church in Kazbegi, 06/03/2020 ~ 07/03/2020
+
 ## 2019
 
 - 🇵🇹 Peneda-Gerês National Park (To 7 Lagoas do Gerês), 17/01/2019
