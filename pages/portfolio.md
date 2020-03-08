@@ -6,30 +6,4 @@ permalink: /portfolio/
 
 ## iOS
 
-#### Kigen: Todo List for reminder (**Removed from sale**)
-
-> Kigen is a Todo list for reminder. It helps you remind of your important tasks.
-
-![kigen01]({{ site.url }}/assets/kigen01.jpg){:width="40%"}
-![kigen02]({{ site.url }}/assets/kigen02.jpg){:width="40%"}
-
-#### Taskey - Task & Todo list (**Removed from sale**)
-
-> Tasky is a quick, cool, simple and intuitive task management application that helps you get stuff done.
-
-![taskey01]({{ site.url }}/assets/taskey01.jpg){:width="40%"}
-![taskey02]({{ site.url }}/assets/taskey02.jpg){:width="40%"}
-
-#### Esafeed for esa.io (**Removed from sale**)
-
-> Esafeed is a feed reader for [esa.io](https://esa.io/){:target="_blank"}.
-
-![esafeed01]({{ site.url }}/assets/esafeed01.jpg){:width="40%"}
-![esafeed02]({{ site.url }}/assets/esafeed02.jpg){:width="40%"}
-
-#### Motivation from age (**Removed from sale**)
-
-> Motivation from age terrifyingly shows your age.
-
-![motivation01]({{ site.url }}/assets/motivation01.jpg){:width="40%"}
-![motivation02]({{ site.url }}/assets/motivation02.jpg){:width="40%"}
+This page is currently being updated.
