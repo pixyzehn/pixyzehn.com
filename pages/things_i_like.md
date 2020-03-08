@@ -31,7 +31,6 @@ The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/).
 - [The Complete Guide to Self-Control](https://www.scotthyoung.com/blog/2019/09/30/self-control/)
 
 ## iOS apps
-- [Outlook for iOS](https://products.office.com/en-us/outlook-mobile-for-android-and-ios)
 - [Overcast](https://overcast.fm)
 - [PeakFinder](https://www.peakfinder.org)
 - [Sky Guide](https://www.fifthstarlabs.com/#sky-guide)
