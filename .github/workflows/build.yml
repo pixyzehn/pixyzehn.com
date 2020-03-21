@@ -1,6 +1,6 @@
 name: jekyll build
 
-on: [push]
+on: pull_request
 
 jobs:
   build_on_macOS:
