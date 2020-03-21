@@ -58,7 +58,7 @@ permalink: /expenses
         <div class="col">
             <h2>Others</h2>
             <li>Dark mode</li>
-            <li>Support Split view
+            <li>Support Split view</li>
             <li>Multiple windows on iPad</li>
             <li>Option to use iCloud Sync</li>
             <li>Works offline</li>
