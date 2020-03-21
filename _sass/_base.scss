@@ -36,7 +36,7 @@ body {
 }
 
 /**
- * Set `margin-bottom` to maintain vertical rhythm
+ * Set `margin-top` and `margin-bottom` to maintain vertical rhythm
  */
 h1,
 h2,
@@ -52,6 +52,7 @@ ol,
 dl,
 figure,
 %vertical-rhythm {
+  margin-top: $spacing-unit / 2;
   margin-bottom: $spacing-unit / 2;
 }
 
