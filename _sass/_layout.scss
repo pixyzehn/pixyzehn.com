@@ -242,3 +242,26 @@ hr {
   margin-top: $spacing-unit;
   margin-bottom: $spacing-unit;
 }
+
+/**
+ * Expenses main
+ */
+.expenses-main {
+  p {
+    color: #ebebf599;
+    b {
+      color: #5E5CE6;
+    }
+  }
+}
+
+/**
+ * Expenses features
+ */
+.expenses-features {
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit;
+  p {
+    color: #ebebf599;
+  }
+}
