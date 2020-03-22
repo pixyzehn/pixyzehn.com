@@ -4,6 +4,6 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-## iOS
+[![Expenses](../assets/expenses/expenses-image.png)]({{ site.url }}/expenses){:target="_blank"}
 
-This page is currently being updated.
+## [Exepenses]({{ site.url }}/expenses){:target="_blank"}
