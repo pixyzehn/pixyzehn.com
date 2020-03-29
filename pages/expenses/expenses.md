@@ -1,7 +1,7 @@
 ---
 layout: expenses
 title: Expenses
-permalink: /expenses
+permalink: /expenses/
 ---
 
 {% include expenses/expenses.html %}
