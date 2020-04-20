@@ -30,19 +30,6 @@ The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/).
 - [Life is short](http://www.paulgraham.com/vb.html)
 - [The Complete Guide to Self-Control](https://www.scotthyoung.com/blog/2019/09/30/self-control/)
 
-## iOS apps
-- [Overcast](https://overcast.fm)
-- [PeakFinder](https://www.peakfinder.org)
-- [Sky Guide](https://www.fifthstarlabs.com/#sky-guide)
-- [Todoist](https://todoist.com/downloads/ios)
-
-## macOS apps
-- [Fork](https://git-fork.com)
-- [iTerm2](https://www.iterm2.com)
-- [Kaleidoscope](https://www.kaleidoscopeapp.com)
-- [Karabiner-Elements](https://pqrs.org/osx/karabiner/)
-- [Soulver](https://soulver.app)
-
 ## Mountain
 - [Tomorrow is another day, THE NORTH FACE](https://www.goldwin.co.jp/tnf/special/tomorrow_is_another_day/)
 - [Trailers / Climber’s Stories – Flatlander Films](https://flatlanderfilms.com/category/trailers-climbers-stories/)
