@@ -30,26 +30,26 @@ permalink: /trekking/
 
 - 🇵🇹 Peneda-Gerês National Park (Trail PR3, PR6, and Pitões das Júnias), 29/12/2018 ~ 31/12/2018
 - 🇵🇹 Serra da Estrela, 15/12/2018
-- 🇵🇹 Montanha do Pico (2,351m), 29/09/2018
-- 🇫🇷/🇮🇹 Mont Blanc (4,810m), via the Gouter Route, 09/09/2018
-- 🇮🇹 Gran Paradiso (4,061m), via the Rifugio Vittorio Emanuele II, 06/09/2018
-- 🇩🇪 Drachenberg & Teufelberg (99m, 120.1m), 09/06/2018
-- 🇯🇵 Mt. Hyonosen (1,510m), 2018/05/26
+- 🇵🇹 Montanha do Pico, 2351m, 29/09/2018
+- 🇫🇷/🇮🇹 Mont Blanc, 4810m, via the Gouter Route, 09/09/2018
+- 🇮🇹 Gran Paradiso, 4061m, via the Rifugio Vittorio Emanuele II, 06/09/2018
+- 🇩🇪 Drachenberg & Teufelberg, 99m & 120.1m, 09/06/2018
+- 🇯🇵 Mt. Hyonosen(氷ノ山), 1510m, 2018/05/26
 - 🇨🇱 Torres del Paine National Park (O Circuit Trek), 09/03/2018 ~ 16/03/2018
-- 🇨🇱 Cerro El Plomo (5,424m), 10/02/2018 ~ 13/02/2018 (Stopped around 4,800m due to altitude sickness)
+- 🇨🇱 Cerro El Plomo, 5424m, 10/02/2018 ~ 13/02/2018 (Stopped around 4800m due to altitude sickness)
 
 ## 2017
 
-- 🇨🇭 Near Hörunlihutte (2,583m), Base Camp Matterhorn, 24/09/2017
-- 🇯🇵 Mt. Nantai (2,486m), 19/05/2017
-- 🇯🇵 Mt. Jiro-gyu (1,930m), 14/05/2017
-- 🇯🇵 Mt. Tsurugi (1,955m), 14/05/2017
-- 🇯🇵 Mt. Buko (1,304m), 07/05/2017
-- 🇯🇵 Mt. Daimonji (466m), 02/01/2017
+- 🇨🇭 Near Hörunlihutte, 2583m, Base Camp Matterhorn, 24/09/2017
+- 🇯🇵 Mt. Nantai(男体山), 2486m, 19/05/2017
+- 🇯🇵 Mt. Jiro-gyu(次郎笈), 1930m, 14/05/2017
+- 🇯🇵 Mt. Tsurugi(剣山), 1955m, 14/05/2017
+- 🇯🇵 Mt. Buko(武甲山), 1304m, 07/05/2017
+- 🇯🇵 Mt. Daimonji(大文字山), 466m, 02/01/2017
 
 ## ~ 2016
 
-- 🇯🇵 Karasawa Hutte (2,309m), 18/09/2016
-- 🇯🇵 Mt. Kawanori (1,363m), 13/08/2016
-- 🇯🇵 Mt. Nokogiri (330m), 17/07/2016
-- 🇯🇵 Mt. Takao (599m), No date
+- 🇯🇵 Karasawa Hutte(涸沢ヒュッテ), 2309m, 18/09/2016
+- 🇯🇵 Mt. Kawanori(川苔山), 1363m, 13/08/2016
+- 🇯🇵 Mt. Nokogiri(鋸山), 330m, 17/07/2016
+- 🇯🇵 Mt. Takao(高尾山), 599m, No date
