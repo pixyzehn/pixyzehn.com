@@ -4,7 +4,7 @@ username: pixyzehn
 description: Just another jekyll website
 keywords: Swift, pixyzehn, iOS, Objective-C, cocoa, Apple, Xcode, app store, programming
 url: https://pixyzehn.com
-timezone: Europe/Lisbon
+timezone: Asia/Tokyo
 
 links:
   company: https://doist.com
@@ -32,9 +32,8 @@ plugins:
 - jemoji
 
 exclude:
-- ".gitignore"
-- ".travis.yml"
-- ".jekyll-cache"
+- '.gitignore'
+- '.jekyll-cache'
 - LICENSE
 - README.md
 - package.json
