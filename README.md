@@ -4,7 +4,6 @@
 ## Requirements
 
 - [Bundler](https://bundler.io)
-- [Yarn](https://yarnpkg.com)
 - [Jekyll](https://jekyllrb.com)
 
 ## Installation
@@ -13,7 +12,6 @@
 $ git clone https://github.com/pixyzehn/pixyzehn.com.git
 $ cd pixyzehn.com/
 $ bundle install
-$ yarn install
 ```
 
 ## Build
