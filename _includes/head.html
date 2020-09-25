@@ -7,7 +7,7 @@
     <meta name="description" content="{{ site.description }}">
     <title>{{ site.title }}</title>
     <link rel="canonical" href="{{  site.url }}{{ page.url }}">
-    <link rel="stylesheet" href="/node_modules/bootstrap/dist/css/bootstrap.min.css">
+    {% include ext_css.html css=css %}
     <link rel="stylesheet" href="/css/main.css">
     {%- feed_meta -%}
     {%- seo -%}
