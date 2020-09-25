@@ -1,5 +1,5 @@
 ---
-layout: expenses
+layout: expenses/default
 title: Expenses
 permalink: /expenses/
 ---

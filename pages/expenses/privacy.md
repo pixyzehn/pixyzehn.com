@@ -1,5 +1,5 @@
 ---
-layout: expenses
+layout: expenses/default
 title: Expenses Privacy Policy
 permalink: /expenses/privacy/
 ---

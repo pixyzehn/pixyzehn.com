@@ -1,5 +1,5 @@
 ---
-layout: expenses
+layout: expenses/default
 title: Expenses Terms and Conditions
 permalink: /expenses/terms/
 ---
