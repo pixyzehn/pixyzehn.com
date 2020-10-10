@@ -25,14 +25,15 @@ plugins:
 - jekyll-avatar
 - jekyll-feed
 - jekyll-gist
+- jekyll-mentions
 - jekyll-paginate
 - jekyll-seo-tag
 - jekyll-sitemap
-- jekyll-mentions
 - jemoji
 
 exclude:
 - '.gitignore'
 - '.jekyll-cache'
+- CNAME
 - LICENSE
 - README.md
