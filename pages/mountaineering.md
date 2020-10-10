@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Trekking
-permalink: /trekking/
+title: Mountaineering
+permalink: /mountaineering/
 ---
 
 {% include map.html %}
+
+This page is used to track my outdoor activity logs in mountain/climbing places, such as trekking, rock climbing, and mountain climbing.
 
 ---
 
