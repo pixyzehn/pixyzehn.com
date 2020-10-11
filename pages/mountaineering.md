@@ -20,6 +20,7 @@ This page is used to track my outdoor activity logs in mountain/climbing places,
 - 🇯🇵 烏帽子岩・駒形岩 (Climbing), _, 2020/09/13
 - 🇯🇵 蓬莱峡 (Climbing), _, 2020/09/27
 - 🇯🇵 百丈岩 (Climbing), _, 2020/10/04
+- 🇯🇵 不動岩 (Climbing), _, 2020/10/11
 
 ## 2019
 
