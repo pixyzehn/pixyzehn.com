@@ -18,6 +18,7 @@ The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/).
 - [Rubber Duck Debugging](https://rubberduckdebugging.com)
 - [Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)
 - [The mythical 10x programmer](http://antirez.com/news/112)
+- [Workflows of Refactoring](https://martinfowler.com/articles/workflowsOfRefactoring/)
 
 ## Life
 - [How I Choose Projects](https://www.scotthyoung.com/blog/2016/02/18/choosing-projects/)
