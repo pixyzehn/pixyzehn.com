@@ -21,6 +21,8 @@ This page is used to track my outdoor activity logs in mountain/climbing places,
 - 🇯🇵 蓬莱峡 (Climbing), _, 2020/09/27
 - 🇯🇵 百丈岩 (Climbing), _, 2020/10/04
 - 🇯🇵 不動岩 (Climbing), _, 2020/10/11
+- 🇯🇵 六甲山 (キャッスルウォール, 荒地山) (Climbing), _, 2020/10/18
+> 逆く, 二本クラック etc
 
 ## 2019
 
