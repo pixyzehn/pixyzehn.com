@@ -23,6 +23,8 @@ This page is used to track my outdoor activity logs in mountain/climbing places,
 - 🇯🇵 不動岩 (Climbing), _, 2020/10/11
 - 🇯🇵 六甲山 (キャッスルウォール, 荒地山) (Climbing), _, 2020/10/18
 > 逆く, 二本クラック etc
+- 🇯🇵 烏帽子岩 (Climbing), _, 2020/10/25
+> まいるどセブン, エイトマン, パッシブ, 竹取物語, 太陽がいっぱい, タイムトンネル etc
 
 ## 2019
 
