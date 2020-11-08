@@ -25,6 +25,7 @@ This page is used to track my outdoor activity logs, such as trekking, rock clim
 > 逆く, 二本クラック etc
 - 🇯🇵 烏帽子岩 (Climbing), _, 2020/10/25
 > まいるどセブン, エイトマン, パッシブ, 竹取物語, 太陽がいっぱい, タイムトンネル etc
+- 🇯🇵 百丈岩 (セルフレスキュー), _, 2020/11/08
 
 ## 2019
 
