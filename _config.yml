@@ -30,9 +30,12 @@ plugins:
 - jekyll-sitemap
 - jemoji
 
+# https://jekyllrb.com/docs/configuration/default/
 exclude:
-- '.gitignore'
-- '.jekyll-cache'
+- .github
+- .gitignore
+- .jekyll-cache
+- .sass-cache
 - CNAME
 - LICENSE
 - README.md
