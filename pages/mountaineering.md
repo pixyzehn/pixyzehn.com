@@ -31,7 +31,7 @@ This page is used to track my outdoor activity logs, such as trekking, rock clim
 - 🇯🇵 雪彦山 (地蔵岳東陵ノーマルルート, セカンド), _, 2020/11/23
 - 🇯🇵 六甲山 (Pillar rock, 荒地山) (Crampons), _, 2020/11/28
 - 🇯🇵 摩耶山 (上野道~掬星台~青谷道), 702m, 2020/12/04
-- 🇯🇵 高御位山・桶居山 (鹿嶋神社~高御位山~桶居山~鹿嶋神社) (Crampons), 304m・247m, 2020/12/06
+- 🇯🇵 高御位山・桶居山 (鹿嶋神社~高御位山~桶居山~鹿嶋神社) (Crampons, 歩荷27kg), 304m・247m, 2020/12/06
 
 ## 2019
 
