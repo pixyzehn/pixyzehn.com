@@ -1,0 +1,291 @@
+- year: 2020
+  activities:
+    - flag: 🇯🇵
+      name: 高御位山・桶居山
+      category: Crampons, 歩荷27kg
+      altitude: '304m・247m'
+      date: 2020/12/06
+      note: '鹿嶋神社~高御位山~桶居山~鹿嶋神社'
+    - flag: 🇯🇵
+      name: 摩耶山
+      category: Trekking
+      altitude: '702m'
+      date: 2020/12/04
+      note: '上野道~掬星台~青谷道'
+    - flag: 🇯🇵
+      name: Mt. Rokko (六甲山・荒地山・Pillar rock)
+      category: Crampons, Trekking
+      altitude: '-'
+      date: 2020/11/28
+      note: ''
+    - flag: 🇯🇵
+      name: 雪彦山
+      category: Multi-pitch climbing
+      altitude: '-'
+      date: 2020/11/23
+      note: '地蔵岳東陵ノーマルルート, セカンド'
+    - flag: 🇯🇵
+      name: 不動岩
+      category: Multi-pitch climbing
+      altitude: '-'
+      date: 2020/11/22
+      note: ''
+    - flag: 🇯🇵
+      name: 百丈岩
+      category: Other
+      altitude: '-'
+      date: 2020/11/15
+      note: '岩搬出訓練'
+    - flag: 🇯🇵
+      name: 烏帽子岩
+      category: Other
+      altitude: '-'
+      date: 2020/11/08
+      note: 'セルフレスキュー'
+    - flag: 🇯🇵
+      name: 烏帽子岩
+      category: Climbing
+      altitude: '-'
+      date: 2020/10/25
+      note: 'まいるどセブン, エイトマン, パッシブ, 竹取物語, 太陽がいっぱい, タイムトンネル etc'
+    - flag: 🇯🇵
+      name: Mt. Rokko (六甲山・荒地山)
+      category: Climbing
+      altitude: '-'
+      date: 2020/10/18
+      note: 'キャッスルウォール, 逆く, 二本クラック etc'
+    - flag: 🇯🇵
+      name: 不動岩
+      category: Multi-pitch climbing
+      altitude: '-'
+      date: 2020/10/11
+      note: ''
+    - flag: 🇯🇵
+      name: 百丈岩
+      category: Multi-pitch climbing
+      altitude: '-'
+      date: 2020/10/04
+      note: ''
+    - flag: 🇯🇵
+      name: 蓬莱峡
+      category: Climbing
+      altitude: '-'
+      date: 2020/09/27
+      note: ''
+    - flag: 🇯🇵
+      name: 烏帽子岩・駒形岩
+      category: Climbing
+      altitude: '-'
+      date: 2020/09/13
+      note: ''
+    - flag: 🇯🇵
+      name: 北アルプス・後立山連峰縦走
+      category: Trekking
+      altitude: '-'
+      date: 2020/08/17 ~ 2020/08/20
+      note: 扇沢~種池山荘~爺ヶ岳~冷池山荘~鹿島槍ヶ岳~キレット小屋~五竜岳~五竜山荘~唐松岳頂上山荘~唐松岳~不帰キレット~天狗山荘~白馬鑓ヶ岳~杓子岳~白馬岳頂上宿舎~白馬山荘~白馬岳~白馬大雪渓~白馬尻小屋~猿倉荘
+    - flag: 🇯🇵
+      name: Mt. Rokko (六甲山)
+      category: Trekking
+      altitude: '932m'
+      date: 2020/08/14
+      note: 芦屋川駅~六甲山最高峰~有馬温泉
+    - flag: 🇬🇪
+      name: Gergeti Trinity Church in Kazbegi
+      category: Trekking
+      altitude: '-'
+      date: 2020/03/06 ~ 2020/03/07
+      note: ''
+
+- year: 2019
+  activities:
+    - flag: 🇪🇸
+      name: Monte Urgell and Monte Igueldo (San Sebastian)
+      category: Trekking
+      altitude: '-'
+      date: 2019/11/13
+      note: ''
+    - flag: 🇵🇹
+      name: Rota da Penha (Guimarães)
+      category: Trekking
+      altitude: '-'
+      date: 2019/10/27
+      note: ''
+    - flag: 🇪🇸
+      name: Tibidabo (Barcelona)
+      category: Trekking
+      altitude: '-'
+      date: 2019/09/24
+      note: ''
+    - flag: 🇵🇹
+      name: Ria Formosa Natural Park
+      category: Trekking
+      altitude: '-'
+      date: 2019/09/17 ~ 2019/09/19
+      note: ''
+    - flag: 🇵🇹
+      name: Ponta da Piedade in Lagos
+      category: Trekking
+      altitude: '-'
+      date: 2019/09/14 ~ 2019/09/15
+      note: ''
+    - flag: 🇮🇸
+      name: Kristínartindar in Skaftafell National Park
+      category: Trekking
+      altitude: '1126m'
+      date: 2019/08/06
+      note: ''
+    - flag: 🇫🇴
+      name: Trælanípa (Bøsdalafossur in Vagar island)
+      category: Trekking
+      altitude: '-'
+      date: 2019/07/29
+      note: ''
+    - flag: 🇵🇹
+      name: Pinhão in the heart of the Douro Valley
+      category: Trekking
+      altitude: '-'
+      date: 2019/05/18 ~ 2019/05/19
+      note: ''
+    - flag: 🇵🇹
+      name: Reserva Natural das Dunas de São Jacinto (Aveiro)
+      category: Trekking
+      altitude: '-'
+      date: 2019/05/11
+      note: ''
+    - flag: 🇵🇹
+      name: Grande Rota Santa Maria (Azores, Santa Maria island)
+      category: Trekking
+      altitude: '-'
+      date: 2019/03/22 ~ 2019/03/26
+      note: ''
+    - flag: 🇵🇹
+      name: Peneda-Gerês National Park (To 7 Lagoas do Gerês)
+      category: Trekking
+      altitude: '-'
+      date: 2019/01/17
+      note: ''
+
+- year: 2018
+  activities:
+    - flag: 🇵🇹
+      name: Peneda-Gerês National Park (Trail PR3, PR6, and Pitões das Júnias)
+      category: Trekking
+      altitude: '-'
+      date: 2018/12/29 ~ 2018/12/31
+      note: ''
+    - flag: 🇵🇹
+      name: Serra da Estrela
+      category: Trekking
+      altitude: '-'
+      date: 2018/12/15
+      note: ''
+    - flag: 🇵🇹
+      name: Montanha do Pico
+      category: Trekking
+      altitude: '2351m'
+      date: 2018/09/29
+      note: ''
+    - flag: 🇫🇷/🇮🇹
+      name: Mont Blanc (via the Gouter Route)
+      category: Trekking
+      altitude: '4810m'
+      date: 2018/09/09
+      note: ''
+    - flag: 🇮🇹
+      name: Gran Paradiso (via the Rifugio Vittorio Emanuele II)
+      category: Trekking
+      altitude: '4061m'
+      date: 2018/09/06
+      note: ''
+    - flag: 🇩🇪
+      name: Teufelberg・Drachenberg
+      category: Trekking
+      altitude: '120m・99m'
+      date: 2018/06/09
+      note: ''
+    - flag: 🇯🇵
+      name: Mt. Hyonosen (氷ノ山)
+      category: Trekking
+      altitude: '1510m'
+      date: 2018/05/26
+      note: ''
+    - flag: 🇨🇱
+      name: Torres del Paine National Park (O Circuit Trek)
+      category: Trekking
+      altitude: '-'
+      date: 2018/03/09 ~ 2018/03/16
+      note: ''
+    - flag: 🇨🇱
+      name: Cerro El Plomo (Stopped around 4800m due to altitude sickness)
+      category: Trekking
+      altitude: '5424m'
+      date: 2018/02/10 ~ 2018/02/13
+      note: ''
+
+- year: 2017
+  activities:
+    - flag: 🇨🇭
+      name: Near Hörunlihutte (Base Camp Matterhorn)
+      category: Trekking
+      altitude: '2583m'
+      date: 2017/09/24
+      note: ''
+    - flag: 🇯🇵
+      name: Mt. Nantai (男体山)
+      category: Trekking
+      altitude: '2486m'
+      date: 2017/05/19
+      note: ''
+    - flag: 🇯🇵
+      name: Mt. Jiro-gyu (次郎笈)
+      category: Trekking
+      altitude: '1930m'
+      date: 2017/05/14
+      note: ''
+    - flag: 🇯🇵
+      name: Mt. Tsurugi (剣山)
+      category: Trekking
+      altitude: '1955m'
+      date: 2017/05/14
+      note: ''
+    - flag: 🇯🇵
+      name: Mt. Buko (武甲山)
+      category: Trekking
+      altitude: '1304m'
+      date: 2017/05/07
+      note: ''
+    - flag: 🇯🇵
+      name: Mt. Daimonji (大文字山)
+      category: Trekking
+      altitude: '466m'
+      date: 2017/01/02
+      note: ''
+
+
+- year: 2016
+  activities:
+    - flag: 🇯🇵
+      name: Karasawa Hutte (涸沢ヒュッテ)
+      category: Trekking
+      altitude: '2309m'
+      date: 2016/09/18
+      note: ''
+    - flag: 🇯🇵
+      name: Mt. Kawanori (川苔山)
+      category: Trekking
+      altitude: '1363m'
+      date: 2016/08/13
+      note: ''
+    - flag: 🇯🇵
+      name: Mt. Nokogiri (鋸山)
+      category: Trekking
+      altitude: '330m'
+      date: 2016/07/17
+      note: ''
+    - flag: 🇯🇵
+      name: Mt. Takao (高尾山)
+      category: Trekking
+      altitude: '599m'
+      date: '-'
+      note: ''
