@@ -1,0 +1,62 @@
+- category: Software Engineering
+  links:
+    - title: Technical Development Guide
+      url: https://www.google.com/about/careers/students/guide-to-technical-development.html
+    - title: Teach Yourself Computer Science
+      url: https://teachyourselfcs.com/
+    - title: How To Become A Hacker
+      url: http://www.catb.org/~esr/faqs/hacker-howto.html
+    - title: Write Code Every Day
+      url: http://ejohn.org/blog/write-code-every-day/
+    - title: Things You Should Never Do, Part I
+      url: https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/
+    - title: Rubber Duck Debugging
+      url: https://rubberduckdebugging.com
+    - title: Teach Yourself Programming in Ten Years
+      url: http://www.norvig.com/21-days.html
+    - title: The mythical 10x programmer
+      url: http://antirez.com/news/112
+    - title: Workflows of Refactoring
+      url: https://martinfowler.com/articles/workflowsOfRefactoring/
+
+- category: Life
+  links:
+    - title: How I Choose Projects
+      url: https://www.scotthyoung.com/blog/2016/02/18/choosing-projects/
+    - title: English has been my pain for 15 years
+      url: http://antirez.com/news/61
+    - title: 2010 Baccalaureate Remarks
+      url: https://www.princeton.edu/news/2010/05/30/2010-baccalaureate-remarks
+    - title: Right versus pragmatic – Marco.org
+      url: https://marco.org/2012/02/25/right-vs-pragmatic
+    - title: Less stuff, more happiness
+      url: https://www.ted.com/talks/graham_hill_less_stuff_more_happiness
+    - title: Try something new for 30 days
+      url: https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days
+    - title: 100 Blocks a Day
+      url: https://waitbutwhy.com/2016/10/100-blocks-day.html
+    - title: Life is short
+      url: http://www.paulgraham.com/vb.html
+    - title: The Complete Guide to Self-Control
+      url: https://www.scotthyoung.com/blog/2019/09/30/self-control/
+  
+- category: Mountain
+  links:
+    - title: Tomorrow is another day, THE NORTH FACE
+      url: https://www.goldwin.co.jp/tnf/special/tomorrow_is_another_day/
+    - title: Trailers / Climber’s Stories – Flatlander Films
+      url: https://flatlanderfilms.com/category/trailers-climbers-stories/
+    - title: Janhukot / Pertex
+      url: https://www.pertex.com/janhukot/
+
+- category: Misc
+  links:
+    - title: The Story of the Mexican Fisherman
+      url: https://bemorewithless.com/the-story-of-the-mexican-fisherman/
+    - title: 'Douglas Tompkins: A Force for Nature'
+      url: http://www.tompkinsconservation.org/news/2015/12/09/douglas-tompkins-a-force-for-nature/
+    - title: Why Software Is Eating the World
+      url: https://a16z.com/2016/08/20/why-software-is-eating-the-world/
+    - title: 普通の人が資産運用で99点をとる方法とその考え方
+      url: https://hayatoito.github.io/2020/investing/
+    
