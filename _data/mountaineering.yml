@@ -1,6 +1,12 @@
 - year: 2020
   activities:
     - flag: 🇯🇵
+      name: 蓬莱峡
+      category: Crampons
+      altitude: '-'
+      date: 2020/12/13
+      note: ''
+    - flag: 🇯🇵
       name: 高御位山・桶居山
       category: Crampons, 歩荷27kg
       altitude: '304m・247m'
