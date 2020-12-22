@@ -11,7 +11,7 @@
         itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
     <div class="post-tags">
         {% for tag in tags %}
-        <a href="{{ site.url }}/tags/#{{ tag | slugize }}">
+        <a href="/tags/#{{ tag | slugize }}">
             #{{ tag }}
         </a>
         {% endfor %}

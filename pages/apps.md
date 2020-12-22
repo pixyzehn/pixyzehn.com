@@ -4,10 +4,10 @@ title: My Apps
 permalink: /apps/
 ---
 
-[![Expenses](../assets/expenses/expenses-image.png)]({{ site.url }}/expenses/)
+[![Expenses](../assets/expenses/expenses-image.png)](/expenses/)
 
 <div style="text-align: center;">
-    <h2><a href="{{ site.url }}/expenses/">Expenses</a></h2>
+    <h2><a href="/expenses/">Expenses</a></h2>
 </div>
 
 <hr>
