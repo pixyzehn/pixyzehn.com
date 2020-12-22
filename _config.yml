@@ -17,6 +17,13 @@ links:
 paginate: 8
 paginate_path: /articles/:num
 
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: /:title.html
+
 sass:
   style: compressed
 strict_front_matter: true
