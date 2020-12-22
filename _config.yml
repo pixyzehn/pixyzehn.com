@@ -22,7 +22,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      permalink: /:title.html
+      permalink: /:title
 
 sass:
   style: compressed
