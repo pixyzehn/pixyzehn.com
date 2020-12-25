@@ -8,6 +8,7 @@
     <li><a href="#sharing-sheet-with-others">Sharing a sheet with others</a></li>
     <li><a href="#universal-purchase">Universal Purchase</a></li>
     <li><a href="#disabled-icloud-sync-option">Disabled iCloud Sync option</a></li>
+    <li><a href="#missing-print-function-on-macos-version">Missing Print function on macOS version</a></li>
 
     <hr>
 
@@ -54,4 +55,7 @@
         <li>Relaunch the app to properly reflect the change.</li>
         <li>See the iCloud Sync is now enabled.</li>
     </ol>
+
+    <h3 id="missing-print-function-on-macos-version">Missing Print function on macOS version</h3>
+    <p>We hide Print function in Expenses for Mac on purpose. The reason is that we can't use the API called <a href="https://developer.apple.com/documentation/uikit/uimarkuptextprintformatter">UIMarkupTextPrintFormatter</a> until we drop macOS Catalina support. Until that time, you could use Print function on iOS/iPadOS or export it as CSV on macOS, and then print it via other apps, such as Numbers.</p>
 </div>
