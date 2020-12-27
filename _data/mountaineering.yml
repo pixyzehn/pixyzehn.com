@@ -1,6 +1,12 @@
 - year: 2020
   activities:
     - flag: 🇯🇵
+      name: 摩耶山
+      category: Trekking
+      altitude: '702m'
+      date: 2020/12/27
+      note: '上野道~掬星台~天上寺~青谷道'
+    - flag: 🇯🇵
       name: 蓬莱峡
       category: Crampons
       altitude: '-'
