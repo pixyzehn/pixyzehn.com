@@ -1,6 +1,12 @@
 - year: 2021
   activities:
     - flag: 🇯🇵
+      name: 九重“夢”大吊橋
+      category: Trekking
+      altitude: '777m'
+      date: 2021/01/10
+      note: '鳴子川渓谷にある日本一高い歩行者専用吊橋'
+    - flag: 🇯🇵
       name: 阿蘇くじゅう国立公園
       category: Trekking
       altitude: '-'
