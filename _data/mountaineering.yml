@@ -1,6 +1,12 @@
 - year: 2021
   activities:
     - flag: 🇯🇵
+      name: 阿蘇くじゅう国立公園
+      category: Trekking
+      altitude: '-'
+      date: 2021/01/09
+      note: '中岳火口園地, 砂千里ヶ浜, etc'
+    - flag: 🇯🇵
       name: 摩耶山
       category: Trekking
       altitude: '702m'
