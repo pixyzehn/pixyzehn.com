@@ -2,7 +2,7 @@
   activities:
     - flag: 🇯🇵
       name: 堂満岳
-      category: Crampons, Trekking
+      category: Crampons&Trekking
       altitude: '1057m'
       date: 2021/01/17
       note: '桜のコバ~ノタノホリ~堂満東稜道'
@@ -40,7 +40,7 @@
       note: ''
     - flag: 🇯🇵
       name: 高御位山・桶居山
-      category: Crampons, 歩荷27kg
+      category: Crampons&歩荷27kg
       altitude: '304m・247m'
       date: 2020/12/06
       note: '鹿嶋神社~高御位山~桶居山~鹿嶋神社'
@@ -52,7 +52,7 @@
       note: '上野道~掬星台~青谷道'
     - flag: 🇯🇵
       name: Mt. Rokko (六甲山・荒地山・Pillar rock)
-      category: Crampons, Trekking
+      category: Crampons&Trekking
       altitude: '-'
       date: 2020/11/28
       note: ''
