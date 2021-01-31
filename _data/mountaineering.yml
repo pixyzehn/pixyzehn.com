@@ -1,6 +1,12 @@
 - year: 2021
   activities:
     - flag: 🇯🇵
+      name: 打見山
+      category: Snow trekking
+      altitude: '1104m'
+      date: 2021/01/30
+      note: '天狗杉~クロトノハゲ~打見山'
+    - flag: 🇯🇵
       name: 堂満岳
       category: Crampons・Trekking
       altitude: '1057m'
