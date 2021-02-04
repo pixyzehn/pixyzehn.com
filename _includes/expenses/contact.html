@@ -10,6 +10,7 @@
     <li><a href="#icloud-sync-is-not-working">iCloud Sync is not working between iOS and Mac</a></li>
     <li><a href="#disabled-icloud-sync-option">Disabled iCloud Sync option</a></li>
     <li><a href="#missing-print-function-on-macos-version">Missing Print function on macOS version</a></li>
+    <li><a href="#error-when-trying-to-restore-purchase">Get an error when trying to restore a purchase</a></li>
     <li><a href="#request-refund">Request a refund</a></li>
 
     <hr>
@@ -76,6 +77,14 @@
 
     <h3 id="missing-print-function-on-macos-version">Missing Print function on macOS version</h3>
     <p>We hide Print function in Expenses for Mac on purpose. The reason is that we can't use the API called <a href="https://developer.apple.com/documentation/uikit/uimarkuptextprintformatter">UIMarkupTextPrintFormatter</a> until we drop macOS Catalina support. Until that time, you could use Print function on iOS/iPadOS or export it as CSV on macOS, and then print it via other apps, such as Numbers.</p>
+
+    <h3 id="error-when-trying-to-restore-purchase">Get an error when trying to restore a purchase</h3>
+    <p>Please check the following list from <a href="https://support.apple.com/en-us/HT204530">Apple's article</a>.</p>
+    <ol>
+        <li>Make sure that you're signed in with the same Apple ID you used to make the purchase.</li>
+        <li>Check <a href="https://support.apple.com/en-us/HT204396">the restrictions</a> on your device to make sure in-app purchases are allowed.</li>
+        <li>Restart your device.</li>
+    </ol>
 
     <h3 id="request-refund">Request a refund</h3>
     <p>Since we don't have any access to purchases, please follow <a href="https://support.apple.com/en-us/HT204084">Request a refund for apps or content that you bought from Apple</a>. We'd also love to hear what you didn't like so that we could make improvements in the near future.</p>
