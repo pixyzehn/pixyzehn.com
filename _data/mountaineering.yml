@@ -1,6 +1,12 @@
 - year: 2021
   activities:
     - flag: 🇯🇵
+      name: 大山
+      category: Avalanche・Multi-pitch climbing
+      altitude: '-'
+      date: 2021/02/06 ~ 2021/02/07
+      note: '駐車場~大神山神社奥宮~元谷小屋~行者谷分かれの手前'
+    - flag: 🇯🇵
       name: 打見山
       category: Snow trekking
       altitude: '1104m'
