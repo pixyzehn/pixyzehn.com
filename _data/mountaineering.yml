@@ -1,6 +1,12 @@
 - year: 2021
   activities:
     - flag: 🇯🇵
+      name: 高御位山
+      category: Trekking
+      altitude: '304m'
+      date: 2021/02/13
+      note: '曽根駅~北山~高御位山頂~長尾~曽根駅'
+    - flag: 🇯🇵
       name: 大山
       category: Avalanche・Multi-pitch climbing
       altitude: '-'
