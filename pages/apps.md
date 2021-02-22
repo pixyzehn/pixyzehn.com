@@ -5,9 +5,13 @@ permalink: /apps/
 ---
 
 [![Expenses](../assets/expenses/expenses-image.png)](/expenses/){:target="_blank"}
-
 <div style="text-align: center;">
     <h2><a href="/expenses/" target="_blank">Expenses</a></h2>
+</div>
+
+[![8Planets](../assets/8planets/8planets-image.png)](/8planets/){:target="_blank"}
+<div style="text-align: center;">
+    <h2><a href="/8planets/" target="_blank">8Planets</a></h2>
 </div>
 
 <hr>
