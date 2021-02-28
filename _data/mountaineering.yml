@@ -1,6 +1,12 @@
 - year: 2021
   activities:
     - flag: 🇯🇵
+      name: '中峠・武奈ヶ岳'
+      category: Crampons・Trekking
+      altitude: '-'
+      date: 2021/02/28
+      note: '比良駅~青ガレ~金糞峠~中峠~金糞峠~青ガレ~比良駅'
+    - flag: 🇯🇵
       name: 高御位山
       category: Trekking
       altitude: '304m'
