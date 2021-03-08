@@ -256,9 +256,9 @@ hr {
  */
 .apps-main {
   p {
-    color: #ebebf599;
+    color: $secondary-content-color;
     b {
-      color: #5E5CE6;
+      color: $primary-content-color;
     }
   }
 }
@@ -270,6 +270,6 @@ hr {
   margin-top: $spacing-unit;
   margin-bottom: $spacing-unit;
   p, ul {
-    color: #ebebf599;
+    color: $secondary-content-color;
   }
 }
