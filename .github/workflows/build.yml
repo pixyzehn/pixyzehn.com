@@ -6,17 +6,12 @@ on:
 
 jobs:
   build_on_macOS:
-    runs-on: macOS-latest
+    runs-on: macos-latest
     steps:
     - uses: actions/checkout@v2
-    - name: gem install bundler
-      run: |
-        gem --version
-        gem update --system
-        gem install bundler
-    - name: bundle install
-      run: |
-        bundle install
+    - uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true
     - name: jekyll build
       run: |
         bundle exec jekyll build
