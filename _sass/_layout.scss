@@ -250,26 +250,3 @@ hr {
   margin-top: $spacing-unit;
   margin-bottom: $spacing-unit;
 }
-
-/**
- * Apps main
- */
-.apps-main {
-  p {
-    color: $secondary-content-color;
-    b {
-      color: $primary-content-color;
-    }
-  }
-}
-
-/**
- * Apps features
- */
-.apps-features {
-  margin-top: $spacing-unit;
-  margin-bottom: $spacing-unit;
-  p, ul {
-    color: $secondary-content-color;
-  }
-}
