@@ -13,4 +13,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-mentions'
   gem 'jemoji'
+  gem 'jekyll-redirect-from'
 end

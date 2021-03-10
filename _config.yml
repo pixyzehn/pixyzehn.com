@@ -35,6 +35,7 @@ plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jemoji
+- jekyll-redirect-from
 
 # https://jekyllrb.com/docs/configuration/default/
 exclude:
