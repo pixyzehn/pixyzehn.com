@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mountaineering
-permalink: /mountaineering
+permalink: /mountaineering/
 ---
 
 {% include map.html %}

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tags
-permalink: /tags
+permalink: /tags/
 ---
 
 {% assign tag_names = "" | split: "|"  %}

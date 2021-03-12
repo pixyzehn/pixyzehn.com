@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Things I like
-permalink: /things_i_like
+permalink: /things_i_like/
 ---
 
 Here are things I like and I occasionally revisit. There may be worth reading or checking if you don't know.

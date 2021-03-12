@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Apps
-permalink: /apps
+permalink: /apps/
 ---
 
 [![Expenses](../assets/expenses-image.png)]({{ site.links.expenses }}){:target="_blank"}
@@ -9,9 +9,9 @@ permalink: /apps
     <h2><a href="{{ site.links.expenses }}" target="_blank">Expenses</a></h2>
 </div>
 
-[![8Planets](../assets/8planets-image.png)]({{ site.links.planets }}){:target="_blank"}
+[![8Planets](../assets/8planets-image.png)]({{ site.links.8planets }}){:target="_blank"}
 <div style="text-align: center;">
-    <h2><a href="{{ site.links.planets }}" target="_blank">8Planets</a></h2>
+    <h2><a href="{{ site.links.8planets }}" target="_blank">8Planets</a></h2>
 </div>
 
 <hr>
