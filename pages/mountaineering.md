@@ -2,6 +2,7 @@
 layout: page
 title: Mountaineering
 permalink: /mountaineering/
+published: false
 ---
 
 {% include map.html %}
