@@ -1,6 +1,12 @@
 - year: 2021
   activities:
     - flag: 🇯🇵
+      name: '小赤壁'
+      category: Climbing
+      altitude: '-'
+      date: 2021/03/14
+      note: 'D, Hの岩場。'
+    - flag: 🇯🇵
       name: '中峠・武奈ヶ岳'
       category: Crampons・Trekking
       altitude: '-'
