@@ -5,8 +5,6 @@ permalink: /mountaineering/
 published: false
 ---
 
-{% include map.html %}
-
 This page is used to track my outdoor activity logs, such as trekking, rock climbing, and mountain climbing.
 
 ---
