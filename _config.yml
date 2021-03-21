@@ -28,6 +28,7 @@ strict_front_matter: true
 
 twitter:
   username: pixyzehn
+  card: summary
 
 plugins:
 - jekyll-avatar
