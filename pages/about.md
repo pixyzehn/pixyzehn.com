@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /
+image: /assets/profile.jpg
 ---
 
 {% avatar {{ site.author }} size=100 %}
