@@ -1,6 +1,6 @@
 title: pixyzehn
-author: Hiroki Nagasawa
-username: pixyzehn
+author: pixyzehn
+author_fullname: Hiroki Nagasawa
 description: Just another jekyll website
 keywords: Swift, pixyzehn, iOS, Objective-C, Cocoa, Apple, Xcode, App Store, Programming
 url: https://pixyzehn.com
@@ -25,6 +25,9 @@ paginate_path: /articles/:num
 sass:
   style: compressed
 strict_front_matter: true
+
+twitter:
+  username: pixyzehn
 
 plugins:
 - jekyll-avatar
