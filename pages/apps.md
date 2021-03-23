@@ -7,7 +7,7 @@ permalink: /apps/
 <div>
     <img src="../assets/8planets.png" width="100" height="100">
     <h2><a href="{{ site.links.eightplanets }}" target="_blank">8Planets</a></h2>
-    <p>8Planets is a simple viewer and simulator for planetary orbits in our Solar System. 8Planets helps you discover how the planets aligned and move around over time so that you feel the scale of the Solar System or even the Universe. By giving you quick and easy access to the Solar System everywhere, 8Planets will make you feel that the Solar System is close to us.</p>
+    <p>8Planets is a simple viewer and simulator for planetary orbits in our Solar System. 8Planets helps you discover how the planets aligned and move around over time so that you feel the scale of the Solar System or even the Universe. By giving you quick and easy access to the Solar System everywhere, 8Planets will make you feel that the Solar System is close to us. The apps are available on Mac, iPhone, iPad, and Apple Watch.</p>
     <a href="{{ site.links.eightplanets }}" target="_blank">Learn More</a>
     <p>Released on March 22, 2021</p>
 </div>
