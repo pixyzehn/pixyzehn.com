@@ -26,3 +26,4 @@ jobs:
           branch-suffix: timestamp
           commit-message: Compressed Images
           body: ${{ steps.calibre.outputs.markdown }}
+          reviewers: pixyzehn
