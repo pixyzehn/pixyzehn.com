@@ -5,7 +5,7 @@
   border-top: 5px solid $primary-content-color;
   // Positioning context for the mobile navigation icon
   position: relative;
-  background: $background-color;
+  background: var(--background-color);
 }
 
 .navbar-brand {
@@ -16,12 +16,12 @@
   margin-bottom: 0;
   float: left;
   text-transform: uppercase;
-  color: $text-color;
+  color: var(--text-color);
 
   &,
   &:visited,
   &:active {
-    color: $text-color;
+    color: var(--text-color);
   }
 
   &:hover {
@@ -34,11 +34,11 @@
 
   .nav-link {
     font-size: 14px;
-    color: $secondary-content-color !important;
+    color: var(--secondary-text-color) !important;
     line-height: $base-line-height;
 
     &:hover {
-      color: $secondary-content-color !important;
+      color: var(--secondary-text-color) !important;
       text-decoration: underline;
     }
   }
@@ -53,7 +53,7 @@
  * Site footer
  */
 .site-footer {
-  background: $background-color;
+  background: var(--background-color);
   a {
     color: $primary-content-color;
   }
@@ -89,7 +89,7 @@
 
 .post-meta {
   font-size: $small-font-size;
-  color: $secondary-content-color;
+  color: var(--secondary-text-color);
 }
 
 .post-link {
@@ -176,7 +176,7 @@
   display: block;
   margin-top: -0.3rem;
   margin-bottom: 1rem;
-  color: $secondary-content-color;
+  color: var(--secondary-text-color);
   time {
     margin-right: 0.5rem;
   }
@@ -214,7 +214,7 @@
  */
 #archive {
   .this {
-    background-color: $secondary-background-color;
+    background-color: var(--secondary-background-color);
     border-radius: 5px;
     padding: 10px;
   }
@@ -249,4 +249,11 @@ hr {
   border-top: 1px solid $border-color;
   margin-top: $spacing-unit;
   margin-bottom: $spacing-unit;
+}
+
+/**
+ * Text muted
+ */
+.text-muted {
+  color: var(--secondary-text-color) !important;
 }

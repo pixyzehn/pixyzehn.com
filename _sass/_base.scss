@@ -25,8 +25,8 @@ figure {
  */
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-  color: $text-color;
-  background-color: $background-color;
+  color: var(--text-color);
+  background-color: var(--background-color);
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -124,7 +124,7 @@ pre,
 code {
   font-family: monospace;
   font-size: 14px;
-  color: $secondary-content-color;
+  color: $code-color;
   border: 1px solid $border-color;
   border-radius: 3px;
   background-color: $syntax-background-color;

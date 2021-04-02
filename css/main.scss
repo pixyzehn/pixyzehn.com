@@ -10,12 +10,25 @@ $base-font-weight: 400;
 $small-font-size: $base-font-size * 0.875;
 
 // Color
-$text-color: #f8f8f2;
-$background-color: #2c2a28;
-$secondary-background-color: #1c1c1eff;
+html { 
+	--background-color: #ffffff;
+	--secondary-background-color: #CBCBCF;
+	--text-color: #000000ff;
+	--secondary-text-color: #3c3c4399;
+}
+
+@media (prefers-color-scheme: dark) {
+	html {
+		--background-color: #2c2a28;
+		--secondary-background-color: #1c1c1eff;
+		--text-color: #f8f8f2;
+		--secondary-text-color: #ebebf599;
+	}
+}
+
 $syntax-background-color: #2c2c2eff;
 $primary-content-color: #5e5ce6ff;
-$secondary-content-color: #ebebf54c;
+$code-color: #6c757d;
 $border-color: #54545899;
 
 // Others
