@@ -17,3 +17,4 @@ permalink: /tags/
 {% include posts_by_tags.html %}
 
 {% include post_internal_links.html %}
+
