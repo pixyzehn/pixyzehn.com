@@ -37,4 +37,3 @@ permalink: /apps/
     <img src="../assets/esafeed.jpg" width="50" height="50">
     <img src="../assets/kigen.jpg" width="50" height="50">
 </div>
-

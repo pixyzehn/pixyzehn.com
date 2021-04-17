@@ -19,4 +19,3 @@ The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/).
 {% endfor %}
 </ul>
 {% endfor %}
-

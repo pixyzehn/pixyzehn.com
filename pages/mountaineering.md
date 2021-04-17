@@ -30,4 +30,3 @@ Use the following format.
 ・[National flag] Name, Category, Altitude, Date (yyyy/MM/DD)
 > Additional notes
 ```
-

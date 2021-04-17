@@ -39,10 +39,8 @@
       url: https://waitbutwhy.com/2014/05/life-weeks.html
     - title: Life is short
       url: http://www.paulgraham.com/vb.html
-    - title: The Complete Guide to Self-Control
-      url: https://www.scotthyoung.com/blog/2019/09/30/self-control/
-  
-- category: Mountain
+
+- category: Misc
   links:
     - title: Tomorrow is another day, THE NORTH FACE
       url: https://www.goldwin.co.jp/tnf/special/tomorrow_is_another_day/
@@ -50,9 +48,6 @@
       url: https://flatlanderfilms.com/category/trailers-climbers-stories/
     - title: Janhukot / Pertex
       url: https://www.pertex.com/janhukot/
-
-- category: Misc
-  links:
     - title: The Story of the Mexican Fisherman
       url: https://bemorewithless.com/the-story-of-the-mexican-fisherman/
     - title: 'Douglas Tompkins: A Force for Nature'
