@@ -11,7 +11,7 @@ image: /assets/profile.jpg
 
 <h1>About</h1>
 
-Hi, I'm Hiroki Nagasawa, also known as @{{ site.author }}, and an iOS software engineer at [Doist](https://doist.com). I built [my apps](/apps) for the iPhone, iPad and Mac.
+Hi, I'm Hiroki Nagasawa, also known as @{{ site.author }}, and an iOS software engineer at [Doist](https://doist.com). I built [my apps](/apps) for the iPhone, iPad, and Mac.
 
 Apart from iOS development and programming, I'm passionate about trekking, climbing, playing soccer, and stargazing with binoculars. I keep track of places I have visited here in <a href="{{ site.links.google_my_map }}">Google My Map</a>.
 All views on this website are mine.
