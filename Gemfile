@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', group: :jekyll_plugins
+gem 'jekyll'
 gem 'rouge'
 gem 'webrick', '~> 1.7' # https://github.com/jekyll/jekyll/issues/8523
 
