@@ -4,7 +4,7 @@ title: Things I like
 permalink: /things_i_like/
 ---
 
-<h1>Things I like</h1>
+<h1><small>Things I like</small></h1>
 
 Here are things I like and I occasionally revisit. There may be worth reading or checking if you don't know.
 The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/).

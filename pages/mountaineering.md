@@ -5,6 +5,8 @@ permalink: /mountaineering/
 published: false
 ---
 
+<h1><small>Mountaineering</small></h1>
+
 This page is used to track my outdoor activity logs, such as trekking, rock climbing, and mountain climbing.
 
 ---

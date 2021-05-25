@@ -4,7 +4,7 @@ title: My Apps
 permalink: /apps/
 ---
 
-<h1>My Apps</h1>
+<h1><small>My Apps</small></h1>
 
 <div>
     <img src="../assets/8planets.png" width="100" height="100">
