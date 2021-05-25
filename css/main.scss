@@ -15,6 +15,7 @@ html {
   --secondary-background-color: #CBCBCF;
   --text-color: #000000;
   --secondary-text-color: #3c3c4399;
+  --link-background-color: #ccccff;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -23,6 +24,7 @@ html {
     --secondary-background-color: #1c1c1eff;
     --text-color: #f8f8f2;
     --secondary-text-color: #ebebf599;
+    --link-background-color: #4c36ad;
   }
 }
 
