@@ -23,4 +23,9 @@ You can reach me via <a href="{{ site.links.email }}"><em>hi[at]pixyzehn.com</em
 ---
 
 <img src="../assets/mont-blanc.jpg" class="rounded" width="100%">
-The view from the top of Mont Blanc where you can see tiny but sharp Matterhorn.
+The view from the top of Mont Blanc where you can see tiny but sharp Matterhorn. Here is a quiz for you. Which one is Matterhorn?
+
+<details>
+<summary>Answer</summary>
+<img src="../assets/mont-blanc-answer.jpg" class="rounded" width="100%">
+</details>
