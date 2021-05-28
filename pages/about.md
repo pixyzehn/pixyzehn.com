@@ -19,3 +19,8 @@ All views on this website are mine.
 You can reach me via <a href="{{ site.links.email }}"><em>hi[at]pixyzehn.com</em></a> and find me on:
 
 {% include contact.html %}
+
+---
+
+<img src="../assets/mont-blanc.jpg" class="rounded" width="100%">
+The view from the top of Mont Blanc where you can see tiny but sharp Matterhorn.
