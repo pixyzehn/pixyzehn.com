@@ -33,11 +33,11 @@
 
   .nav-link {
     font-size: 14px;
-    color: var(--secondary-text-color) !important;
+    color: var(--text-color) !important;
     line-height: $base-line-height;
 
     &:hover {
-      color: var(--secondary-text-color) !important;
+      color: var(--text-color) !important;
       text-decoration: underline;
     }
   }
