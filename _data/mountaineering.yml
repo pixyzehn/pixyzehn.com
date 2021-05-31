@@ -1,6 +1,11 @@
 - year: 2021
   activities:
     - flag: 🇯🇵
+      name: 蓬莱峡
+      category: Climbing
+      altitude: '-'
+      date: 2021/05/30
+    - flag: 🇯🇵
       name: Mt. Rokko (六甲山・荒地山)
       category: Climbing
       altitude: '-'
