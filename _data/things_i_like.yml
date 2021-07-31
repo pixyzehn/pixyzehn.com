@@ -18,6 +18,8 @@
       url: http://antirez.com/news/112
     - title: Workflows of Refactoring
       url: https://martinfowler.com/articles/workflowsOfRefactoring/
+    - title: Stop Nitpicking in Code Reviews
+      url: https://blog.danlew.net/2021/02/23/stop-nitpicking-in-code-reviews/
 
 - category: Life
   links:
