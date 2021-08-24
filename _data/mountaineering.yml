@@ -1,6 +1,12 @@
 - year: 2021
   activities:
     - flag: 🇯🇵
+      name: 伊吹山
+      category: Trekking
+      altitude: '1377m'
+      date: 2021/08/25
+      note: '上野登道ピストンコース'
+    - flag: 🇯🇵
       name: 蓬莱峡
       category: Climbing
       altitude: '-'
@@ -87,6 +93,7 @@
       altitude: '702m'
       date: 2021/01/02
       note: '上野道~掬星台~オテル・ド・摩耶~天上寺~青谷道'
+
 - year: 2020
   activities:
     - flag: 🇯🇵
