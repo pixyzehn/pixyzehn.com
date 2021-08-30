@@ -2,7 +2,6 @@
 layout: page
 title: Mountaineering
 permalink: /mountaineering/
-published: false
 ---
 
 <h1><small>Mountaineering</small></h1>
