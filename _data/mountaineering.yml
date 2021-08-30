@@ -390,9 +390,18 @@
       altitude: '330m'
       date: 2016/07/17
       note: ''
+
+- year: '-'
+  activities:
     - flag: 🇯🇵
       name: Mt. Takao (高尾山)
       category: Trekking
       altitude: '599m'
+      date: '-'
+      note: ''
+    - flag: 🇯🇵
+      name: 屋久島
+      category: Trekking
+      altitude: '-'
       date: '-'
       note: ''
