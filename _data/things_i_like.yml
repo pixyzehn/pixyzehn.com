@@ -20,6 +20,8 @@
       url: https://martinfowler.com/articles/workflowsOfRefactoring/
     - title: Stop Nitpicking in Code Reviews
       url: https://blog.danlew.net/2021/02/23/stop-nitpicking-in-code-reviews/
+    - title: How to Write a Git Commit Message
+      url: https://chris.beams.io/posts/git-commit/
 
 - category: Life
   links:
