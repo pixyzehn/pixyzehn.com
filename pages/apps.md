@@ -33,7 +33,7 @@ permalink: /apps/
     <h2>Rokuyo</h2>
     <p>Rokuyo is a simple menu bar app that will let you know today's Rokuyo (六曜). Today's Rokuyo is always up to date based on your date and timezone. That's all. We hope you enjoy one of interesting facts in Japanese culture. The app is available on Mac.</p>
     <a href="{{ site.links.rokuyo }}" target="_blank">Download on the Mac App Store</a>
-    <p>TBD</p>
+    <p>Released on October 14, 2021</p>
 </div>
 
 <hr>
