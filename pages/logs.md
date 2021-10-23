@@ -10,7 +10,7 @@ This page is used to collect my logs just for myself. Hopefully, it'll help me d
 
 ---
 
-<p>I have visited roughly <b>{{ site.data.places.countries.size }} / 195</b> countries so far.</p>
+<p>I have visited roughly <b>{{ site.data.places.countries.size }} / 195</b> countries so far (excluding Japan).</p>
 
 <details>
 <summary>Details</summary>
@@ -20,7 +20,7 @@ This page is used to collect my logs just for myself. Hopefully, it'll help me d
 {% endfor %}
 </details>
 
-<p>I have visited roughly <b>{{ site.data.places.cities.size }}</b> cities so far.</p>
+<p>I have visited roughly <b>{{ site.data.places.cities.size }}</b> cities so far (excluding cities in Japan).</p>
 
 <details>
 <summary>Details</summary>
@@ -40,7 +40,17 @@ This page is used to collect my logs just for myself. Hopefully, it'll help me d
 {% endfor %}
 </details>
 
-<p>Mountaineering activities by year.</p>
+<p>I have climbed roughly <b>{{ site.data.places.mountains_in_japan.size }} / 100</b> famous mountains in Japan so far (<a href="https://en.wikipedia.org/wiki/100_Famous_Japanese_Mountains#List_by_region">Wikipedia</a>).</p>
+
+<details>
+<summary>Details</summary>
+{% assign sortedMountains = site.data.places.mountains_in_japan | sort: 'name' %}
+{% for mountain in sortedMountains %}
+<ul style="margin-top:0;margin-bottom:0;"><li>{{ mountain.name }}, {{ mountain.area }} ({{ mountain.altitude }})</li></ul>
+{% endfor %}
+</details>
+
+<p>Mountaineering activities by year (Trekking, Climbing, Camping, etc).</p>
 
 <details>
 <summary>Details</summary>
