@@ -50,7 +50,7 @@ This page is used to collect my logs just for myself. Hopefully, it'll help me d
 {% endfor %}
 </details>
 
-<p>Mountaineering activities by year (Trekking, Climbing, Camping, etc).</p>
+<p>Mountaineering activities by year (Trekking, Climbing, etc).</p>
 
 <details>
 <summary>Details</summary>
