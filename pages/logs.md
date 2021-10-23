@@ -40,13 +40,13 @@ This page is used to collect my logs just for myself. Hopefully, it'll help me d
 {% endfor %}
 </details>
 
-<p>Mountaineering activities.</p>
+<p>Mountaineering activities by year.</p>
 
 <details>
 <summary>Details</summary>
 {% for item in site.data.mountaineering %}
-<h2>{{ item.year }}</h2>
-<ul>
+<p><b>{{ item.year }}</b></p>
+<ul style="margin-top:0;margin-bottom:0;">
 {% for activity in item.activities %}
 <li>{{ activity.flag }} {{ activity.name }}, {{ activity.category }}, {{ activity.altitude }}, {{ activity.date }}
 {% if activity.note != '' %}
