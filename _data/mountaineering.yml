@@ -1,6 +1,12 @@
 - year: 2021
   activities:
     - flag: 🇯🇵
+      name: 須磨アルプス
+      category: Trekking
+      altitude: '-'
+      date: 2021/10/24
+      note: '須磨浦公園駅~旗振山~鉄拐山~高倉台~横尾山~馬の背~東山~妙法寺駅'
+    - flag: 🇯🇵
       name: 伊吹山
       category: Trekking
       altitude: '1377m'
