@@ -58,7 +58,7 @@ This page is used to collect my logs just for myself. Hopefully, it'll help me d
 <p><b>{{ item.year }}</b></p>
 <ul style="margin-top:0;margin-bottom:0;">
 {% for activity in item.activities %}
-<li>{{ activity.flag }} {{ activity.name }}, {{ activity.category }}, {{ activity.altitude }}, {{ activity.date }}
+<li>{{ activity.flag }} {{ activity.name }}, {{ activity.category | default: '-' }}, {{ activity.altitude | default: '-' }}, {{ activity.date | default: '-' }}
 {% if activity.note != '' %}
 <blockquote><p>{{ activity.note }}</p></blockquote>
 {% endif %}
