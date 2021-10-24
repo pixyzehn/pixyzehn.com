@@ -10,7 +10,7 @@ This page is used to collect my logs just for myself. Hopefully, it'll help me d
 
 ---
 
-<p>I have visited roughly <b>{{ site.data.places.countries.size }} / 195</b> countries so far (excluding Japan).</p>
+<p>🌏 I have visited roughly <b>{{ site.data.places.countries.size }} / 195</b> countries so far (excluding Japan).</p>
 
 <details>
 <summary>Details</summary>
@@ -20,7 +20,7 @@ This page is used to collect my logs just for myself. Hopefully, it'll help me d
 {% endfor %}
 </details>
 
-<p>I have visited roughly <b>{{ site.data.places.cities.size }}</b> cities so far (excluding cities in Japan).</p>
+<p>🌃 I have visited roughly <b>{{ site.data.places.cities.size }}</b> cities so far (excluding cities in Japan).</p>
 
 <details>
 <summary>Details</summary>
@@ -30,7 +30,7 @@ This page is used to collect my logs just for myself. Hopefully, it'll help me d
 {% endfor %}
 </details>
 
-<p>I have visited roughly <b>{{ site.data.places.prefectures.size }} / 47</b> prefectures in Japan so far.</p>
+<p>🗾 I have visited roughly <b>{{ site.data.places.prefectures.size }} / 47</b> prefectures in Japan so far.</p>
 
 <details>
 <summary>Details</summary>
@@ -40,7 +40,7 @@ This page is used to collect my logs just for myself. Hopefully, it'll help me d
 {% endfor %}
 </details>
 
-<p>I have climbed roughly <b>{{ site.data.places.mountains_in_japan.size }} / 100</b> famous mountains in Japan so far (<a href="https://en.wikipedia.org/wiki/100_Famous_Japanese_Mountains#List_by_region">Wikipedia</a>).</p>
+<p>⛰ I have climbed roughly <b>{{ site.data.places.mountains_in_japan.size }} / 100</b> famous mountains in Japan so far (<a href="https://en.wikipedia.org/wiki/100_Famous_Japanese_Mountains#List_by_region">Wikipedia</a>).</p>
 
 <details>
 <summary>Details</summary>
@@ -50,7 +50,7 @@ This page is used to collect my logs just for myself. Hopefully, it'll help me d
 {% endfor %}
 </details>
 
-<p>Mountaineering activities by year (Trekking, Climbing, etc).</p>
+<p>🏔 Mountaineering activities by year (Trekking, Climbing, etc).</p>
 
 <details>
 <summary>Details</summary>
