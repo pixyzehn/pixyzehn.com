@@ -22,6 +22,8 @@
       url: https://blog.danlew.net/2021/02/23/stop-nitpicking-in-code-reviews/
     - title: How to Write a Git Commit Message
       url: https://chris.beams.io/posts/git-commit/
+    - title: API Design
+      url: https://davedelong.com/articles/api-design/
 
 - category: Life
   links:
