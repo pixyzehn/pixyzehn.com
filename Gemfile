@@ -10,8 +10,8 @@ group :jekyll_plugins do
   gem 'jekyll-gist'
   gem 'jekyll-mentions'
   gem 'jekyll-paginate'
-  gem 'jekyll-redirect-from'
   gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
   gem 'jemoji'
+  gem 'jekyll-redirect-from'
 end
