@@ -42,6 +42,8 @@ Just another log for myself. Hopefully, it'll help me decide where to visit and 
 {% endfor %}
 </details>
 
+### Accomplishments
+
 <p>⛰ I have climbed roughly <b>{{ site.data.places.mountains_in_japan.size }} / 100</b> famous mountains in Japan so far (<a href="https://en.wikipedia.org/wiki/100_Famous_Japanese_Mountains#List_by_region">Wikipedia</a>).</p>
 
 <details>
@@ -52,7 +54,7 @@ Just another log for myself. Hopefully, it'll help me decide where to visit and 
 {% endfor %}
 </details>
 
-<p>🏔 Mountaineering activities by year (Trekking, Climbing, etc).</p>
+<p>🏔 Mountaineering activities by year (Trekking, Climbing, etc). Total <b>{{ site.data.mountaineering[0].activities.size }}</b> this year.</p>
 
 <details>
 <summary>Details</summary>
@@ -70,17 +72,15 @@ Just another log for myself. Hopefully, it'll help me decide where to visit and 
 {% endfor %}
 </details>
 
-### Accomplishments
-
-<p>📖 Qualifications by year</p>
+<p>📖 Qualifications by year. Total <b>{{ site.data.qualifications[0].qualifications.size }}</b> this year.</p>
 
 <details>
 <summary>Details</summary>
-{% for item in site.data.accomplishments %}
+{% for item in site.data.qualifications %}
 <p><b>{{ item.year }}</b></p>
 <ul style="margin-top:0;margin-bottom:0;">
-{% for accomplishment in item.accomplishments %}
-<li>{{ accomplishment.name }}, {{ accomplishment.date | default: '-' }}
+{% for qualification in item.qualifications %}
+<li>{{ qualification.name }}, {{ qualification.date | default: '-' }}
 </li>
 {% endfor %}
 </ul>
