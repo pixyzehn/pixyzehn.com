@@ -67,3 +67,18 @@ This page is used to collect my logs just for myself. Hopefully, it'll help me d
 </ul>
 {% endfor %}
 </details>
+
+<p>📖 Accomplishments by year</p>
+
+<details>
+<summary>Details</summary>
+{% for item in site.data.accomplishments %}
+<p><b>{{ item.year }}</b></p>
+<ul style="margin-top:0;margin-bottom:0;">
+{% for accomplishment in item.accomplishments %}
+<li>{{ accomplishment.name }}, {{ accomplishment.date | default: '-' }}
+</li>
+{% endfor %}
+</ul>
+{% endfor %}
+</details>
