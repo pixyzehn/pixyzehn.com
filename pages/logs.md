@@ -6,9 +6,11 @@ permalink: /logs/
 
 <h1><small>Logs</small></h1>
 
-This page is used to collect my logs just for myself. Hopefully, it'll help me decide where to visit in the next trip.
+Just another log for myself. Hopefully, it'll help me decide where to visit and what to focus on in the near future.
 
 ---
+
+### Travel
 
 <p>🌏 I have visited roughly <b>{{ site.data.places.countries.size }} / 195</b> countries so far (excluding Japan).</p>
 
@@ -68,7 +70,9 @@ This page is used to collect my logs just for myself. Hopefully, it'll help me d
 {% endfor %}
 </details>
 
-<p>📖 Accomplishments by year</p>
+### Accomplishments
+
+<p>📖 Qualifications by year</p>
 
 <details>
 <summary>Details</summary>
