@@ -16,7 +16,7 @@ Hi, I'm Hiroki Nagasawa, also known as @{{ site.author }}, and an iOS software e
 Apart from software development and programming, I'm passionate about trekking, climbing, playing soccer, and stargazing with binoculars.
 All views on this website are mine.
 
-You can reach me via <a href="{{ site.links.email }}"><em>hi[at]pixyzehn.com</em></a> and find me on:
+You can reach me via <a href="{{ site.links.email }}"><em>this email</em></a> (created by Apple's Hide My Email) and find me on:
 
 {% include contact.html %}
 
