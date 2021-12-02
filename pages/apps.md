@@ -41,6 +41,16 @@ permalink: /apps/
 
 <hr>
 
+<div>
+    <img src="../assets/passwordgen.png" width="100" height="100">
+    <h2>PasswordGen</h2>
+    <p>PasswordGen is a tiny menu bar app that will allow you to create a strong password quickly and easily. The app will also help you overcome password restrictions without compromise, such as only specific symbols are allowed on a website. The app will be available on Mac.</p>
+    <p>Coming Soon</p>
+    <p><a href="{{ site.links.password_twitter }}" target="_blank">@passwordgenapp on Twitter</a></p>
+</div>
+
+<hr>
+
 <p>Archived Apps</p>
 
 <div class="archived-apps">
