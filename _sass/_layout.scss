@@ -280,6 +280,7 @@ hr {
   color: var(--text-color);
   border-bottom: .2em solid var(--link-background-color);
   box-shadow: inset 0 -.2em 0 var(--link-background-color);
+  text-decoration: none;
 
   &:hover {
     color: var(--text-color);
