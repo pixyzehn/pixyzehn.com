@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Things I like
-permalink: /things_i_like/
+permalink: /things_i_like
 ---
 
 <h1><small>Things I like</small></h1>

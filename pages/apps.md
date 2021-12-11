@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Apps
-permalink: /apps/
+permalink: /apps
 ---
 
 <h1><small>My Apps</small></h1>

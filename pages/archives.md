@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archives
-permalink: /archives/
+permalink: /archives
 ---
 
 <h1><small>Archives</small></h1>

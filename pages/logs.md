@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Logs
-permalink: /logs/
+permalink: /logs
 ---
 
 <h1><small>Logs</small></h1>
