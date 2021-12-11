@@ -10,7 +10,7 @@ permalink: /apps
 
 <div>
     <img src="../assets/expenses.png" width="100" height="100">
-    <h2>Expenses<span style="color:gray;font-size:45%;vertical-align:super"> FREE </span></h2>
+    <h2>Expenses<span style="color:gray;font-size:45%;vertical-align:super"> FREE (In-App Purchases)</span></h2>
     <p>Expenses has been crafted to keep track of your spending effortlessly, with useful features in a simple, intuitive interface. And with iCloud, it’s easy to keep all your expenses in sync across your devices and collaborate with others using sharing. The apps are available on Mac, iPhone, and iPad.</p>
     <p><a href="{{ site.links.expenses }}" target="_blank">Learn More</a></p>
     <p><a href="{{ site.links.expenses_twitter }}" target="_blank">@expensesapp on Twitter</a></p>
