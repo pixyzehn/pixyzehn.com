@@ -45,9 +45,9 @@ permalink: /apps
     <img src="../assets/passwordgen.png" width="100" height="100">
     <h2>PasswordGen</h2>
     <p>PasswordGen is a tiny menu bar app that will allow you to create a strong password quickly and easily. When you can't simply use a suggested password on Mac, the app will also help you overcome password restrictions without compromise, such as only specific symbols are allowed on a website. The app will be available on Mac.</p>
-    <p>Coming Soon</p>
-    <p><a href="{{ site.links.passwordgen }}" target="_blank">Download Beta on the TestFlight for Mac</a></p>
+    <p><a href="{{ site.links.passwordgen }}" target="_blank">Download on the Mac App Store</a></p>
     <p><a href="{{ site.links.passwordgen_twitter }}" target="_blank">@passwordgenapp on Twitter</a></p>
+    <p>Released on December 11, 2021</p>
 </div>
 
 <hr>
