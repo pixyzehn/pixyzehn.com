@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tags
-permalink: /tags
+permalink: /tags/
 ---
 
 <h1><small>Tags</small></h1>
