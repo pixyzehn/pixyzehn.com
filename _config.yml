@@ -22,7 +22,7 @@ links:
 collections:
   posts:
     output: true
-    permalink: /:title
+    permalink: /articles/:title
 
 paginate: 8
 paginate_path: /articles/:num
