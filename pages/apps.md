@@ -44,8 +44,8 @@ permalink: /apps/
 <div>
     <img src="../assets/passwordgen.png" width="100" height="100">
     <h2>PasswordGen<span style="color:gray;font-size:45%;vertical-align:super"> Paid </span></h2>
-    <p>PasswordGen is a tiny menu bar app that will allow you to create a strong password quickly and easily. When you can't simply use a suggested password on Mac, the app will also help you overcome password restrictions without compromise, such as only specific symbols are allowed on a website. The app will be available on Mac.</p>
-    <p><a href="{{ site.links.passwordgen }}" target="_blank">Download on the Mac App Store</a></p>
+    <p>PasswordGen is a tiny app that will allow you to create a strong password quickly and easily. When you can't simply use a suggested password, the app will also help you overcome password restrictions without compromise, such as only specific symbols are allowed on a website. The app is available on Mac, iPhone, and iPad.</p>
+    <p><a href="{{ site.links.passwordgen }}" target="_blank">Download on the App Store</a></p>
     <p><a href="{{ site.links.passwordgen_twitter }}" target="_blank">@passwordgenapp on Twitter</a></p>
     <p>Released on December 11, 2021</p>
 </div>
