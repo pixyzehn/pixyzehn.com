@@ -1,5 +1,11 @@
 - year: 2021
   activities:
+    - name: 伊吹山
+      flag: 🇯🇵
+      category: Snow Trekking
+      altitude: 1377m
+      date: 2021/12/20
+      note: 上野登道ピストンコース
     - name: 須磨アルプス
       flag: 🇯🇵
       category: Trekking
