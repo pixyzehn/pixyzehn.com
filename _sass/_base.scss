@@ -185,6 +185,6 @@ summary:focus{
  * Badge
  */
  .badge {
-  color: var(--text-color);
-  background-color: var(--secondary-background-color);
+  color: var(--text-color) !important;
+  background-color: var(--secondary-background-color) !important;
  }
