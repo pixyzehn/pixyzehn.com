@@ -5,6 +5,7 @@
   // Positioning context for the mobile navigation icon
   position: relative;
   background: var(--background-color);
+  padding: 15px;
 }
 
 .navbar-brand {
@@ -26,15 +27,17 @@
 }
 
 .navbar {
-  padding: .7rem 1rem;
+  padding: 0.5rem 1rem;
+  font-weight: 700;
 
   .nav-link {
     color: var(--text-color) !important;
     line-height: $base-line-height;
+    text-transform: uppercase;
 
     &:hover {
       color: var(--text-color) !important;
-      text-decoration: underline;
+      text-decoration: none;
     }
   }
 
