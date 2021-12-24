@@ -12,7 +12,7 @@ $small-font-size: $base-font-size * 0.875;
 // Color
 html { 
   --background-color: #ffffff;
-  --secondary-background-color: #CBCBCF;
+  --secondary-background-color: #E9EAF0;
   --text-color: #000000;
   --secondary-text-color: #3c3c4399;
   --link-background-color: #ccccff;
@@ -21,7 +21,7 @@ html {
 @media (prefers-color-scheme: dark) {
   html {
     --background-color: #0d1116;
-    --secondary-background-color: #1c1c1eff;
+    --secondary-background-color: #2E303C;
     --text-color: #f8f8f2;
     --secondary-text-color: #ebebf599;
     --link-background-color: #4c36ad;
