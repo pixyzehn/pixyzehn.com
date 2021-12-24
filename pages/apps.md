@@ -17,7 +17,7 @@ permalink: /apps/
         <span class="badge badge-pill">Universal App</span>
     </div>
     <p>Expenses has been crafted to keep track of your spending effortlessly, with useful features in a simple, intuitive interface. And with iCloud, it’s easy to keep all your expenses in sync across your devices and collaborate with others using sharing. The apps are available on Mac, iPhone, and iPad.</p>
-    <p><a href="{{ site.links.expenses }}" target="_blank">Learn More</a></p>
+    <p><a href="{{ site.links.expenses }}">Learn More</a></p>
     <p><a href="{{ site.links.expenses_twitter }}">@expensesapp on Twitter</a></p>
     <p>Released on May 14, 2020</p>
 </div>
@@ -33,7 +33,7 @@ permalink: /apps/
         <span class="badge badge-pill">macOS</span>
     </div>
     <p>8Planets is a simple viewer and simulator for planetary orbits in our Solar System. 8Planets helps you discover how the planets aligned and move around over time so that you feel the scale of the Solar System or even the Universe. By giving you quick and easy access to the Solar System everywhere, 8Planets will make you feel that the Solar System is close to us. The apps are available on Mac, iPhone, iPad, and Apple Watch.</p>
-    <p><a href="{{ site.links.eightplanets }}" target="_blank">Learn More</a></p>
+    <p><a href="{{ site.links.eightplanets }}">Learn More</a></p>
     <p><a href="{{ site.links.eightplanets_twitter }}">@8planetsapp on Twitter</a></p>
     <p>Released on March 22, 2021</p>
 </div>
