@@ -12,53 +12,41 @@ Just another log for myself. Hopefully, it'll help me decide where to visit and 
 
 <h3>Travel</h3>
 
-<p>🌏 I have visited roughly <b>{{ site.data.places.countries.size }} / 195</b> countries so far (excluding Japan).</p>
-
+{% assign sortedCountries = site.data.countries | sort: 'name' %}
+<p>🌏 I have visited roughly <b>{{ sortedCountries.size }} / 195~</b> country(ies) so far (excluding Japan).</p>
 <details>
 <summary>Details</summary>
-{% assign sortedCountries = site.data.places.countries | sort: 'name' %}
 {% for country in sortedCountries %}
 <ul style="margin-top:0;margin-bottom:0;"><li>{{ country.name }} {{ country.flag  }}</li></ul>
 {% endfor %}
 </details>
 
-<p>🌃 I have visited roughly <b>{{ site.data.places.cities.size }}</b> cities so far (excluding cities in Japan).</p>
-
+{% assign sortedCities = site.data.cities | sort: 'name' %}
+<p>🌃 I have visited roughly <b>{{ sortedCities.size }} / 10,000~</b> city(ies) so far (excluding cities in Japan).</p>
 <details>
 <summary>Details</summary>
-{% assign sortedCities = site.data.places.cities | sort: 'name' %}
 {% for city in sortedCities %}
 <ul style="margin-top:0;margin-bottom:0;"><li>{{ city.name }}, {{ city.country }}</li></ul>
 {% endfor %}
 </details>
 
-<p>🗾 I have visited roughly <b>{{ site.data.places.prefectures.size }} / 47</b> prefectures in Japan so far.</p>
-
+{% assign sortedPrefectures = site.data.japanese_prefectures | sort: 'name' %}
+<p>🗾 I have visited roughly <b>{{ sortedPrefectures.size }} / 47</b> prefecture(s) in Japan so far.</p>
 <details>
 <summary>Details</summary>
-{% assign sortedPrefectures = site.data.places.prefectures | sort: 'name' %}
 {% for prefecture in sortedPrefectures %}
 <ul style="margin-top:0;margin-bottom:0;"><li>{{ prefecture.name }}</li></ul>
 {% endfor %}
 </details>
 
-<h3>Accomplishments</h3>
+<h3>Activities</h3>
 
-<p>⛰ I have climbed roughly <b>{{ site.data.places.mountains_in_japan.size }} / 100</b> famous mountains in Japan so far (<a href="https://en.wikipedia.org/wiki/100_Famous_Japanese_Mountains#List_by_region">Wikipedia</a>).</p>
-
+{% assign mountaineering = site.data.mountaineering %}
+{% assign recentMountaineeringItem = mountaineering[0] %}
+<p>🏔 I did <b>{{ recentMountaineeringItem.activities.size }}</b> Mountaineering activity(ies) in {{ recentMountaineeringItem.year }}.</p>
 <details>
 <summary>Details</summary>
-{% assign sortedMountains = site.data.places.mountains_in_japan | sort: 'name' %}
-{% for mountain in sortedMountains %}
-<ul style="margin-top:0;margin-bottom:0;"><li>{{ mountain.name }}, {{ mountain.area }} ({{ mountain.altitude }})</li></ul>
-{% endfor %}
-</details>
-
-<p>🏔 Mountaineering activities by year (Trekking, Climbing, etc). Total <b>{{ site.data.mountaineering[0].activities.size }}</b> this year.</p>
-
-<details>
-<summary>Details</summary>
-{% for item in site.data.mountaineering %}
+{% for item in mountaineering %}
 <p><b>{{ item.year }}</b></p>
 <ul style="margin-top:0;margin-bottom:0;">
 {% for activity in item.activities %}
@@ -72,17 +60,24 @@ Just another log for myself. Hopefully, it'll help me decide where to visit and 
 {% endfor %}
 </details>
 
-<p>📖 Qualifications by year. Total <b>{{ site.data.qualifications[0].qualifications.size }}</b> this year.</p>
-
+{% assign sortedMountains = site.data.japanese_mountains | sort: 'name' %}
+<p>⛰ I have climbed roughly <b>{{ sortedMountains.size }} / 100</b> famous mountain(s) in Japan so far (<a href="https://en.wikipedia.org/wiki/100_Famous_Japanese_Mountains#List_by_region">Wikipedia</a>).</p>
 <details>
 <summary>Details</summary>
-{% for item in site.data.qualifications %}
-<p><b>{{ item.year }}</b></p>
+{% for mountain in sortedMountains %}
+<ul style="margin-top:0;margin-bottom:0;"><li>{{ mountain.name }}, {{ mountain.area }} ({{ mountain.altitude }})</li></ul>
+{% endfor %}
+</details>
+
+<h3>Learnings</h3>
+
+{% assign qualifications = site.data.qualifications %}
+<p>📖 I got roughly <b>{{ qualifications.size }}</b> qualification(s) so far.</p>
+<details>
+<summary>Details</summary>
 <ul style="margin-top:0;margin-bottom:0;">
-{% for qualification in item.qualifications %}
-<li>{{ qualification.name }}, {{ qualification.date | default: '-' }}
-</li>
+{% for qualification in qualifications %}
+<li>{{ qualification.name }}, {{ qualification.date | default: '-' }}</li>
 {% endfor %}
 </ul>
-{% endfor %}
 </details>
