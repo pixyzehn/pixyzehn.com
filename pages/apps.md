@@ -6,7 +6,7 @@ permalink: /apps/
 
 <h1><small>My Apps</small></h1>
 
-<br>
+<hr>
 
 <div>
     <img src="../assets/expenses.png" width="100" height="100">

@@ -8,9 +8,9 @@ permalink: /logs/
 
 Just another log for myself. Hopefully, it'll help me decide where to visit and what to focus on in the near future.
 
----
+<hr>
 
-### Travel
+<h3>Travel</h3>
 
 <p>🌏 I have visited roughly <b>{{ site.data.places.countries.size }} / 195</b> countries so far (excluding Japan).</p>
 
@@ -42,7 +42,7 @@ Just another log for myself. Hopefully, it'll help me decide where to visit and 
 {% endfor %}
 </details>
 
-### Accomplishments
+<h3>Accomplishments</h3>
 
 <p>⛰ I have climbed roughly <b>{{ site.data.places.mountains_in_japan.size }} / 100</b> famous mountains in Japan so far (<a href="https://en.wikipedia.org/wiki/100_Famous_Japanese_Mountains#List_by_region">Wikipedia</a>).</p>
 
