@@ -10,7 +10,7 @@ Just another log for myself. Hopefully, it'll help me decide where to visit and 
 
 <hr>
 
-<h3>Travel</h3>
+<h2>Travel</h2>
 
 {% assign sortedCountries = site.data.countries | sort: 'name' %}
 <p>🌏 I have visited roughly <b>{{ sortedCountries.size }} / 195~</b> country(ies) so far (excluding Japan).</p>
@@ -39,7 +39,7 @@ Just another log for myself. Hopefully, it'll help me decide where to visit and 
 {% endfor %}
 </details>
 
-<h3>Activities</h3>
+<h2>Activities</h2>
 
 {% assign mountaineering = site.data.mountaineering %}
 {% assign recentMountaineeringItem = mountaineering[0] %}
@@ -69,7 +69,7 @@ Just another log for myself. Hopefully, it'll help me decide where to visit and 
 {% endfor %}
 </details>
 
-<h3>Learnings</h3>
+<h2>Learnings</h2>
 
 {% assign qualifications = site.data.qualifications %}
 <p>📖 I got roughly <b>{{ qualifications.size }}</b> qualification(s) so far.</p>
