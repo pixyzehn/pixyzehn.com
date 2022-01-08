@@ -36,9 +36,9 @@ $border-color: #54545899;
 // Others
 $base-line-height: 1.5;
 $spacing-unit: 32px;
-$content-width: 1000px;
+$content-width: 860px;
 $on-palm: 600px;
-$on-laptop: 1000px;
+$on-laptop: 860px;
 
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
