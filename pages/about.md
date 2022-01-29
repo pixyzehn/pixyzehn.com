@@ -11,9 +11,9 @@ image: /assets/profile.jpg
 
 ---
 
-Hi, I'm Hiroki Nagasawa, also known as @{{ site.author }}, and an iOS software engineer at [Doist](https://doist.com). I built [my apps](/apps) for the iPhone, iPad, and Mac.
+Hi, I'm Hiroki Nagasawa and an iOS software engineer at [Doist](https://doist.com). I built [my apps](/apps) for the iPhone, iPad, and Mac.
 
-Apart from software development and programming, I'm passionate about trekking, climbing, playing soccer, and stargazing with binoculars.
+Apart from software development and programming, I'm passionate about trekking, climbing, playing soccer, and stargazing.
 All views on this website are mine.
 
 You can reach me via <a href="{{ site.links.email }}"><em>hi[at]pixyzehn.com</em></a> and find me on:
