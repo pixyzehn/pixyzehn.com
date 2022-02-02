@@ -12,7 +12,6 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-  text-transform: uppercase;
   color: var(--text-color);
 
   &,
@@ -28,12 +27,11 @@
 
 .navbar {
   padding: 0.5rem 1rem;
-  font-weight: 700;
+  font-weight: 600;
 
   .nav-link {
     color: var(--text-color) !important;
     line-height: $base-line-height;
-    text-transform: uppercase;
 
     &:hover {
       color: var(--text-color) !important;
