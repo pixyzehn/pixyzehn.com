@@ -127,7 +127,7 @@ code {
   color: $code-color;
   border: 1px solid $border-color;
   border-radius: 3px;
-  background-color: $syntax-background-color;
+  background-color: var(--syntax-background-color);
   line-height: 18px;
 }
 

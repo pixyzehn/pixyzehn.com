@@ -16,6 +16,7 @@ html {
   --text-color: #000000;
   --secondary-text-color: #3c3c4399;
   --link-background-color: #ccccff;
+  --syntax-background-color: #f2f2f2;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -25,10 +26,10 @@ html {
     --text-color: #f8f8f2;
     --secondary-text-color: #ebebf599;
     --link-background-color: #4c36ad;
+    --syntax-background-color: #2c2c2eff;
   }
 }
 
-$syntax-background-color: #2c2c2eff;
 $primary-content-color: #5e5ce6ff;
 $code-color: #6c757d;
 $border-color: #54545899;
