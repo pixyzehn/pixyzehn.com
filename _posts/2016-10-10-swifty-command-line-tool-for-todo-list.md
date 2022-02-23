@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Swifty command-line tool for todo list"
-date: 2016-10-10 09:28:00 +0900
+title: Swifty command-line tool for todo list
+date: 2016-10-10
 tags: swift
-comments: true
 ---
 
 I'll introduce a simple command-line tool that I made called `stodo` just for myself. To create command-line tool was first time experience for me. To be honest, it was really fun and comfortable because I don't need to stuck UI staffs. The repository is here.

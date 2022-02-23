@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Kigen: Todo List for reminder"
-date: 2017-01-28 20:24:00 +0900
+title: Kigen - Todo List for reminder
+date: 2017-01-28
 tags: app
-comments: true
 ---
 
 Today I released a small and simple Todo List iOS app called ["Kigen"](https://itunes.apple.com/us/app/kigen-todo-list-for-reminder/id1198205732?l=en&mt=8). "Kigen"(期限) means a deadline in Japanese.

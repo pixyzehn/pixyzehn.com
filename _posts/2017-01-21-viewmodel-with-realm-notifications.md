@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "ViewModel with Realm Notifications"
-date: 2017-01-21 17:31:00 +0900
+title: ViewModel with Realm Notifications
+date: 2017-01-21
 tags: swift realm
-comments: true
 ---
 
 In a simple iOS project with Realm, I took this kind of structure.

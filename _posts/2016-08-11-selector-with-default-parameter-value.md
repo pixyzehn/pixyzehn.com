@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Selector with Default Parameter Value"
-date: 2016-08-11 15:23:00 +0900
+title: Selector with Default Parameter Value
+date: 2016-08-11
 tags: swift
-comments: true
 ---
 
 I found a strange behavior in `#selector` with [Default Parameter Values](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Functions.html){:target="_blank"}.

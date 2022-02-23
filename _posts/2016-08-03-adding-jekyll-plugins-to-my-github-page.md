@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Adding Jekyll plugins to my Github page"
-date: 2016-08-03 07:40:00 +0900
+title: Adding Jekyll plugins to my Github page
+date: 2016-08-03
 tags: jekyll
-comments: false
 ---
 
 I thought I cannot use Jekyll plugins as long as I use Github hosting. Since Jekyll 3.0 version, we were able to use some Jekyll plugins. I didn't know that, so I'll share about that.

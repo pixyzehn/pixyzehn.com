@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Using Forestry.io as a CMS"
-date: 2016-07-07 10:00:00 +0900
+title: Using Forestry.io as a CMS
+date: 2016-07-07
 tags: jekyll
-comments: true
 ---
 
 The other day I started using Jekyll, but I was searching for an effective way to write a post.

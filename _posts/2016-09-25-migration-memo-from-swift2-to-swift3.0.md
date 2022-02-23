@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Migration memo from Swift2 to Swift3.0 in a real app"
-date: 2016-09-25 19:11:00 +0900
+title: Migration memo from Swift2 to Swift3.0 in a real app
+date: 2016-09-25
 tags: swift
-comments: true
 ---
 
 I did migration from Swift2 to Swift3.0 in my app called [Esafeed](https://itunes.apple.com/us/app/esafeed-for-esa.io/id1111901482?mt=8){:target="_blank"}. I'll take a note for future myself and may be others. I hope it'll be useful for you.

@@ -1,9 +1,8 @@
 ---
-title: Setup Fastlane with CircleCI
 layout: post
-date: '2016-08-24 08:25:00 +0900'
+title: Setup Fastlane with CircleCI
+date: 2016-08-24
 tags: fastlane
-comments: true
 ---
 
 I'd like to introduce my Fastlane's setup with CircleCI. What I wanted to do is to deploy release build in CircleCI automatically when merging a certain branch.

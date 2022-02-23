@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "A Swift framework for the esa.io API"
-date: 2016-12-1 7:39:00 +0900
+title: A Swift framework for the esa.io API
+date: 2016-12-01
 tags: swift
-comments: true
 ---
 
 I worked on a Swift framework for the esa.io API called [EsaKit](https://github.com/pixyzehn/EsaKit){:target="_blank"}. EsaKit is build with [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift){:target="_blank"} and [Himotoki](https://github.com/ikesyo/Himotoki){:target="_blank"}.

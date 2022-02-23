@@ -3,7 +3,6 @@ layout: post
 title: Safe Hashable in Swift
 date: 2017-03-04
 tags: swift
-comments: true
 ---
 
 This is the way to create safe `Hashable` based on @rayfix's talk.

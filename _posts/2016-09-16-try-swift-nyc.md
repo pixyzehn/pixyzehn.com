@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "try!Swift NYC"
-date: 2016-09-16 08:52:00 +0900
+title: try! Swift NYC
+date: 2016-09-16
 tags: swift
-comments: true
 ---
 
 A big Swift conference called [try!Swift NYC](http://www.tryswiftconf.com/){:target="_blank"} was held in New York on September 1st and 2nd, 2016. I attended overseas conference for the first time. I blogged about this conference in order not to forget the exciting experience.

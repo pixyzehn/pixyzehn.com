@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "First and rest in Type erasure"
-date: 2016-11-24 21:53:00 +0900
+title: First and rest in Type erasure
+date: 2016-11-24
 tags: swift
-comments: true
 ---
 
 I found this article ([First and Rest](http://www.figure.ink/blog/2016/11/12/first-and-rest?utm_source=Swift_Developments&utm_medium=email&utm_campaign=Swift_Developments_Issue_64)) by chance. In this article, he explains the best way to take an array and split it into its first and remaining elements. I think it is interesting, so I tried my hand at it. I recommend you to read his article before you read my article.

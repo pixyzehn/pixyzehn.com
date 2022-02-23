@@ -3,7 +3,6 @@ layout: post
 title: AutoEquatable and AutoHashable by Sourcery
 date: 2017-03-09
 tags: swift
-comments: true
 ---
 
 I'm really interested in [Sourcery](https://github.com/krzysztofzablocki/Sourcery), so I installed it in my one of repositories. In my case, I generated `AutoEquatable` and `AutoHashable` at first because I felt these implementations contain really a lot of boilerplate codes.

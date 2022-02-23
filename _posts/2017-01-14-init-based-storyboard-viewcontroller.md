@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Init based Storyboard ViewController"
-date: 2017-01-14 19:14:00 +0900
+title: Init based Storyboard ViewController
+date: 2017-01-14
 tags: swift
-comments: true
 ---
 
 This article is based on @JaviSoto's [gist](https://gist.github.com/JaviSoto/3bfb2c9e272a1363431fdad4d9b1d7e8).
