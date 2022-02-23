@@ -1,10 +1,10 @@
 ---
 layout: page
-title: My Apps
+title: Apps
 permalink: /apps/
 ---
 
-<h1><small>My Apps</small></h1>
+<h1><small>Apps</small></h1>
 
 <hr>
 
