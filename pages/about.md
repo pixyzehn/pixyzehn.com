@@ -25,4 +25,5 @@ You can reach me via <a href="{{ site.links.email }}"><em>hi[at]pixyzehn.com</em
 
 <img src="../assets/mont-blanc.jpg" class="d-block mx-auto rounded" width="85%">
 
-The view from the top of Mont Blanc where you can see tiny but sharp Matterhorn.
+{: align="center"}
+_The view from the top of Mont Blanc where you can see tiny but sharp Matterhorn._
