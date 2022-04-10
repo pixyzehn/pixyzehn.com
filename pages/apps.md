@@ -70,6 +70,20 @@ permalink: /apps/
 
 <hr>
 
+<div>
+    <img src="../assets/rerere.png" width="100" height="100">
+    <h2>Rerere</h2>
+    <div>
+        <span class="badge badge-pill">Universal App</span>
+    </div>
+    <p>A simple process-oriented checklist app that you can use repeatedly and improve continuously. The app is available on Mac, iPhone, and iPad.</p>
+    <p>The public beta is coming soon!</p>
+    <p><a href="{{ site.links.rerere_twitter }}">@rerereapp on Twitter</a></p>
+    <p>Released on TBD</p>
+</div>
+
+<hr>
+
 <p>Archived Apps</p>
 
 <div class="archived-apps">
