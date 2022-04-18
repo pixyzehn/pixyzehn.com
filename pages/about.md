@@ -19,7 +19,7 @@ Apart from software development and programming, I'm passionate about trekking, 
 
 You can reach me via <a href="{{ site.links.email }}"><em>hi[at]pixyzehn.com</em></a> and find me on:
 
-{% include contact.html %}
+{% include external_links.html %}
 
 ---
 
