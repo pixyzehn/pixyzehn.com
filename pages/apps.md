@@ -77,7 +77,7 @@ permalink: /apps/
         <span class="badge badge-pill">Universal App</span>
     </div>
     <p>A simple process-oriented checklist app that you can use repeatedly and improve continuously. The app is available on Mac, iPhone, and iPad.</p>
-    <p>The public beta is coming soon!</p>
+    <p>The public beta is <a href="{{ site.links.rerere }}">here</a> via TestFlight!</p>
     <p><a href="{{ site.links.rerere_twitter }}">@rerereapp on Twitter</a></p>
     <p>Released on TBD</p>
 </div>
