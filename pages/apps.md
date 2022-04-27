@@ -9,6 +9,22 @@ permalink: /apps/
 <hr>
 
 <div>
+    <img src="../assets/rerere.png" width="100" height="100">
+    <h2>Rerere 🆕</h2>
+    <div>
+        <span class="badge badge-pill">Free</span>
+        <span class="badge badge-pill">In-App Purchases</span>
+        <span class="badge badge-pill">Universal App</span>
+    </div>
+    <p>A simple process-oriented checklist app that helps you ensure you don't forget anything. The app is available on Mac, iPhone, and iPad.</p>
+    <p>The public beta is <a href="{{ site.links.rerere }}">here</a> via TestFlight!</p>
+    <p><a href="{{ site.links.rerere_twitter }}">@rerereapp on Twitter</a></p>
+    <p>Released on TBD</p>
+</div>
+
+<hr>
+
+<div>
     <img src="../assets/expenses.png" width="100" height="100">
     <h2>Expenses</h2>
     <div>
@@ -66,20 +82,6 @@ permalink: /apps/
     <p><a href="{{ site.links.passwordgen }}" target="_blank">Download on the App Store</a></p>
     <p><a href="{{ site.links.passwordgen_twitter }}">@passwordgenapp on Twitter</a></p>
     <p>Released on December 11, 2021</p>
-</div>
-
-<hr>
-
-<div>
-    <img src="../assets/rerere.png" width="100" height="100">
-    <h2>Rerere</h2>
-    <div>
-        <span class="badge badge-pill">Universal App</span>
-    </div>
-    <p>A simple process-oriented checklist app that you can use repeatedly and improve continuously. The app is available on Mac, iPhone, and iPad.</p>
-    <p>The public beta is <a href="{{ site.links.rerere }}">here</a> via TestFlight!</p>
-    <p><a href="{{ site.links.rerere_twitter }}">@rerereapp on Twitter</a></p>
-    <p>Released on TBD</p>
 </div>
 
 <hr>
