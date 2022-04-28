@@ -9,22 +9,6 @@ permalink: /apps/
 <hr>
 
 <div>
-    <img src="../assets/rerere.png" width="100" height="100">
-    <h2>Rerere 🆕</h2>
-    <div>
-        <span class="badge badge-pill">Free</span>
-        <span class="badge badge-pill">In-App Purchases</span>
-        <span class="badge badge-pill">Universal App</span>
-    </div>
-    <p>A simple process-oriented checklist app that helps you ensure you don't forget anything. The app is available on Mac, iPhone, and iPad.</p>
-    <p>The public beta is <a href="{{ site.links.rerere }}">here</a> via TestFlight!</p>
-    <p><a href="{{ site.links.rerere_twitter }}">@rerereapp on Twitter</a></p>
-    <p>Released on TBD</p>
-</div>
-
-<hr>
-
-<div>
     <img src="../assets/expenses.png" width="100" height="100">
     <h2>Expenses</h2>
     <div>
@@ -36,6 +20,21 @@ permalink: /apps/
     <p><a href="{{ site.links.expenses }}">Learn More</a></p>
     <p><a href="{{ site.links.expenses_twitter }}">@expensesapp on Twitter</a></p>
     <p>Released on May 14, 2020</p>
+</div>
+
+<hr>
+
+<div>
+    <img src="../assets/rerere.png" width="100" height="100">
+    <h2>Rerere 🆕</h2>
+    <div>
+        <span class="badge badge-pill">Free</span>
+        <span class="badge badge-pill">In-App Purchases</span>
+        <span class="badge badge-pill">Universal App</span>
+    </div>
+    <p>A simple process-oriented checklist app that helps you ensure you don't forget anything. The app is available on Mac, iPhone, and iPad.</p>
+    <p><a href="{{ site.links.rerere_twitter }}">@rerereapp on Twitter</a></p>
+    <p>Released on TBD</p>
 </div>
 
 <hr>
