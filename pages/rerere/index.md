@@ -8,7 +8,7 @@ permalink: /rerere/
 
 A simple process-oriented checklist app that helps you ensure you don't forget anything. The app is available on Mac, iPhone, and iPad.
 
-Work in progress...
+[Join the public beta]({{ site.links.rerere }})
 
 <hr>
 
