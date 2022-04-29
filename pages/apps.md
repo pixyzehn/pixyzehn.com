@@ -17,8 +17,8 @@ permalink: /apps/
         <span class="badge badge-pill">Universal App</span>
     </div>
     <p>Expenses has been crafted to keep track of your spending effortlessly, with useful features in a simple, intuitive interface.</p>
-    <p><a href="{{ site.links.expenses }}">Learn More</a></p>
-    <p>Released on May 14, 2020</p>
+    <p><a href="{{ site.links.expenses }}" target="_blank">Learn More <i class="bi bi-arrow-up-right-square"></i></a></p>
+    <p class="text-muted"><i>Released on May 14, 2020</i></p>
 </div>
 
 <hr>
@@ -32,8 +32,8 @@ permalink: /apps/
         <span class="badge badge-pill">Universal App</span>
     </div>
     <p>A simple process-oriented checklist app that helps you ensure you don't forget anything.</p>
-    <p><a href="/rerere/">Learn More</a></p>
-    <p>Released on TBD</p>
+    <p><a href="/rerere/">Learn More <i class="bi bi-chevron-right"></i></a></p>
+    <p class="text-muted"><i>Released on TBD</i></p>
 </div>
 
 <hr>
@@ -48,8 +48,8 @@ permalink: /apps/
         <span class="badge badge-pill">macOS</span>
     </div>
     <p>8Planets is a simple viewer and simulator for planetary orbits in our Solar System.</p>
-    <p><a href="{{ site.links.eightplanets }}">Learn More</a></p>
-    <p>Released on March 22, 2021</p>
+    <p><a href="{{ site.links.eightplanets }}" target="_blank">Learn More <i class="bi bi-arrow-up-right-square"></i></a></p>
+    <p class="text-muted"><i>Released on March 22, 2021</i></p>
 </div>
 
 <hr>
@@ -62,8 +62,8 @@ permalink: /apps/
         <span class="badge badge-pill">macOS</span>
     </div>
     <p>Rokuyo is a simple menu bar app that will let you know about today's Rokuyo (六曜).</p>
-    <p><a href="/rokuyo/">Learn More</a></p>
-    <p>Released on October 14, 2021</p>
+    <p><a href="/rokuyo/">Learn More <i class="bi bi-chevron-right"></i></a></p>
+    <p class="text-muted"><i>Released on October 14, 2021</i></p>
 </div>
 
 <hr>
@@ -76,8 +76,8 @@ permalink: /apps/
         <span class="badge badge-pill">Universal App</span>
     </div>
     <p>PasswordGen is a tiny app that will allow you to create a strong password quickly and easily.</p>
-    <p><a href="/passwordgen/">Learn More</a></p>
-    <p>Released on December 11, 2021</p>
+    <p><a href="/passwordgen/">Learn More <i class="bi bi-chevron-right"></i></a></p>
+    <p class="text-muted"><i>Released on December 11, 2021</i></p>
 </div>
 
 <hr>
