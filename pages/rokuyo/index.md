@@ -4,9 +4,13 @@ title: Rokuyo
 permalink: /rokuyo/
 ---
 
+<img src="../assets/rokuyo.png" width="100" height="100">
+
 # Rokuyo
 
 Rokuyo is a simple menu bar app that will let you know about today's Rokuyo (六曜). The rokuyo/rokuyō (六曜) is a series of six days calculated from the date of the Chinese calendar that supposedly predict whether there will be good or bad fortune during that day.
+
+<img src="../assets/rokuyo-image.png" class="d-block mx-auto rounded" width="100%">
 
 Features:  
 ・Today's Rokuyo is always up to date based on your date and timezone.  
