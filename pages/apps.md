@@ -18,7 +18,6 @@ permalink: /apps/
     </div>
     <p>Expenses has been crafted to keep track of your spending effortlessly, with useful features in a simple, intuitive interface.</p>
     <p><a href="{{ site.links.expenses }}">Learn More</a></p>
-    <p><a href="{{ site.links.expenses_twitter }}">@expensesapp on Twitter</a></p>
     <p>Released on May 14, 2020</p>
 </div>
 
@@ -34,7 +33,6 @@ permalink: /apps/
     </div>
     <p>A simple process-oriented checklist app that helps you ensure you don't forget anything.</p>
     <p><a href="/rerere/">Learn More</a></p>
-    <p><a href="{{ site.links.rerere_twitter }}">@rerereapp on Twitter</a></p>
     <p>Released on TBD</p>
 </div>
 
@@ -51,7 +49,6 @@ permalink: /apps/
     </div>
     <p>8Planets is a simple viewer and simulator for planetary orbits in our Solar System.</p>
     <p><a href="{{ site.links.eightplanets }}">Learn More</a></p>
-    <p><a href="{{ site.links.eightplanets_twitter }}">@8planetsapp on Twitter</a></p>
     <p>Released on March 22, 2021</p>
 </div>
 
@@ -66,7 +63,6 @@ permalink: /apps/
     </div>
     <p>Rokuyo is a simple menu bar app that will let you know about today's Rokuyo (六曜).</p>
     <p><a href="/rokuyo/">Learn More</a></p>
-    <p><a href="{{ site.links.rokuyo_twitter }}">@rokuyoapp on Twitter</a></p>
     <p>Released on October 14, 2021</p>
 </div>
 
@@ -81,7 +77,6 @@ permalink: /apps/
     </div>
     <p>PasswordGen is a tiny app that will allow you to create a strong password quickly and easily.</p>
     <p><a href="/passwordgen/">Learn More</a></p>
-    <p><a href="{{ site.links.passwordgen_twitter }}">@passwordgenapp on Twitter</a></p>
     <p>Released on December 11, 2021</p>
 </div>
 
