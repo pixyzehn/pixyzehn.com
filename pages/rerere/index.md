@@ -8,10 +8,12 @@ permalink: /rerere/
 
 # Rerere
 
-<picture>
-  <source srcset="../assets/rerere-image-dark.png" width="80%" media="(prefers-color-scheme: dark)">
-  <img src="../assets/rerere-image.png" width="80%">
-</picture>
+<div class="text-center">
+  <picture>
+    <source srcset="../assets/rerere-image-dark.png" width="80%" media="(prefers-color-scheme: dark)">
+    <img src="../assets/rerere-image.png" width="80%">
+  </picture>
+</div>
 
 Rerere is a simple process-oriented checklist app that helps you ensure you don’t forget anything. The app is available on Mac, iPhone, and iPad.
 
