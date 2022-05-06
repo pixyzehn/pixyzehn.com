@@ -55,20 +55,6 @@ permalink: /apps/
 <hr>
 
 <div>
-    <img src="../assets/rokuyo.png" width="100" height="100">
-    <h2>Rokuyo</h2>
-    <div>
-        <span class="badge badge-pill">Free</span>
-        <span class="badge badge-pill">macOS</span>
-    </div>
-    <p>Rokuyo is a simple menu bar app that will let you know about today's Rokuyo (六曜).</p>
-    <p><a href="/rokuyo/">Learn More <i class="bi bi-chevron-right"></i></a></p>
-    <p class="text-muted"><i>Released on October 14, 2021</i></p>
-</div>
-
-<hr>
-
-<div>
     <img src="../assets/passwordgen.png" width="100" height="100">
     <h2>PasswordGen</h2>
     <div>
@@ -78,6 +64,20 @@ permalink: /apps/
     <p>PasswordGen is a tiny app that will allow you to create a strong password quickly and easily.</p>
     <p><a href="/passwordgen/">Learn More <i class="bi bi-chevron-right"></i></a></p>
     <p class="text-muted"><i>Released on December 11, 2021</i></p>
+</div>
+
+<hr>
+
+<div>
+    <img src="../assets/rokuyo.png" width="100" height="100">
+    <h2>Rokuyo</h2>
+    <div>
+        <span class="badge badge-pill">Free</span>
+        <span class="badge badge-pill">macOS</span>
+    </div>
+    <p>Rokuyo is a simple menu bar app that will let you know about today's Rokuyo (六曜).</p>
+    <p><a href="/rokuyo/">Learn More <i class="bi bi-chevron-right"></i></a></p>
+    <p class="text-muted"><i>Released on October 14, 2021</i></p>
 </div>
 
 <hr>
