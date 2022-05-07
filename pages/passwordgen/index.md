@@ -14,7 +14,7 @@ permalink: /passwordgen/
 
 PasswordGen is a tiny app that will allow you to create a strong password quickly and easily. When you can't simply use a suggested password, the app will also help you overcome password restrictions without compromise, such as only specific symbols are allowed on a website. The app is available on Mac, iPhone, and iPad.
 
-Features:  
+Features
 
 ・Simple and intuitive UI to set password options  
 ・Ability to hide a generated password  
