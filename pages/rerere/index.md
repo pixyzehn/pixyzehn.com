@@ -29,23 +29,27 @@ Mark items as checked repeatedly, with a flag, sorting, multi-selection, and mor
 
 **Keep Items up-to-date**
 
-Repeat Pending → In Progress → Done → Pending... and improve items continuously.
+Repeat *Pending → In Progress → Done → Pending...* and improve items continuously.
 
 **iCloud Sync**
 
 Keep all your data in sync across your devices.
 
-**No registration, no personal data**
+**Privacy**
 
-We care about your privacy seriously. No registration and personal data is required.
+We care about your privacy seriously. No registration is required, and we don't collect any personal data.
 
 **Accessibility**
 
- It's designed to be accessible to everyone, including those with special needs by providing built-in accessibility features.
+It's designed to be accessible to everyone, including those with special needs by providing built-in accessibility features.
 
-**Importing & Exporting**
+**Import & Export**
 
-Import and export all your data in multiple ways, so you can make full use of the data as you want.
+Import and export all your data in multiple ways, so you can make full use of the data.
+
+**Others**
+
+Dark Mode, Markdown support, Markdown Preview, Scan Text on iOS and iPadOS, Split View, and so on.
 
 <div class="no-marker-link">
 <a href="{{ site.links.rerere }}" target="_blank">
