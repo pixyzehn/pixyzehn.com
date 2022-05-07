@@ -33,7 +33,7 @@ permalink: /apps/
     </div>
     <p>A simple process-oriented checklist app that helps you ensure you don't forget anything.</p>
     <p><a href="/rerere/">Learn More <i class="bi bi-chevron-right"></i></a></p>
-    <p class="text-muted"><i>Released on TBD</i></p>
+    <p class="text-muted"><i>Released on May 14, 2022</i></p>
 </div>
 
 <hr>
