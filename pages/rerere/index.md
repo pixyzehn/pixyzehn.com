@@ -47,7 +47,20 @@ We care about your privacy seriously. No registration and personal data is requi
 
 Import and export all your data in multiple ways, so you can make full use of the data as you want.
 
-[Join the public beta]({{ site.links.rerere }})
+<div class="no-marker-link">
+<a href="{{ site.links.rerere }}" target="_blank">
+    <picture>
+        <source srcset="../assets/app-store-badge-dark.svg" media="(prefers-color-scheme: dark)">
+        <img src="../assets/app-store-badge.svg">
+    </picture>
+</a>
+<a href="{{ site.links.rerere }}" target="_blank">
+    <picture>
+        <source srcset="../assets/mac-app-store-badge-dark.svg" media="(prefers-color-scheme: dark)">
+        <img src="../assets/mac-app-store-badge.svg">
+    </picture>
+</a>
+</div>
 
 <hr>
 
