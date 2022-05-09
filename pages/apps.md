@@ -25,7 +25,7 @@ permalink: /apps/
 
 <div>
     <img src="../assets/rerere.png" width="100" height="100">
-    <h2>Rerere 🆕</h2>
+    <h2>Rerere</h2>
     <div>
         <span class="badge badge-pill">Free</span>
         <span class="badge badge-pill">In-App Purchases</span>
