@@ -71,12 +71,12 @@ Just another log for myself. Hopefully, it'll help me decide where to visit and 
 
 <h2>Learnings</h2>
 
-{% assign qualifications = site.data.qualifications %}
-<p>📖 I got roughly <b>{{ qualifications.size }}</b> qualification(s) so far.</p>
+{% assign done_qualifications = site.data.qualifications | where: 'status', 'done' %}
+<p>📖 I got roughly <b>{{ done_qualifications.size }}</b> qualification(s) so far.</p>
 <details>
 <summary>Details</summary>
 <ul style="margin-top:0;margin-bottom:0;">
-{% for qualification in qualifications %}
+{% for qualification in site.data.qualifications %}
 <li>{{ qualification.name }}, {{ qualification.date | default: '-' }}</li>
 {% endfor %}
 </ul>

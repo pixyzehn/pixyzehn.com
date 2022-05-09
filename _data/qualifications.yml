@@ -1,4 +1,12 @@
-- name: 星空宇宙天文検定 4級・5級
-  date: 2021/11/17
-- name: 3級ファイナンシャル・プランニング技能検定
+- name: Test of World Heritage Study Grade 2 (世界遺産検定 2級)
+  date:
+  status: wip
+- name: Hoshiken Grade 2・3 (星空宇宙天文検定 2級・3級)
+  date:
+  status: wip
+- name: 3rd grade Certified Skilled Worker of Financial Planning (3級ファイナンシャル・プランニング技能検定)
   date: 2022/03/04
+  status: done
+- name: Hoshiken Grade 4・5 (星空宇宙天文検定 4級・5級)
+  date: 2021/11/17
+  status: done
