@@ -51,7 +51,7 @@ Import and export all your data in multiple ways, so you can make full use of th
 
 Dark Mode, Markdown support, Markdown Preview, Scan Text on iOS and iPadOS, Split View, and so on.
 
-<div class="no-marker-link">
+<p class="no-marker-link">
 <a href="{{ site.links.rerere }}" target="_blank">
     <picture>
         <source srcset="../assets/app-store-badge-dark.svg" media="(prefers-color-scheme: dark)">
@@ -64,7 +64,16 @@ Dark Mode, Markdown support, Markdown Preview, Scan Text on iOS and iPadOS, Spli
         <img src="../assets/mac-app-store-badge.svg">
     </picture>
 </a>
-</div>
+</p>
+
+<p class="no-marker-link">
+<a href="https://www.producthunt.com/posts/rerere-simple-checklist?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-rerere&#0045;simple&#0045;checklist" target="_blank">
+    <picture>
+        <source srcset="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=346654&theme=dark" alt="Rerere&#0058;&#0032;Simple&#0032;Checklist - Packing&#0032;List&#0032;&#0038;&#0032;Any&#0032;Procedure | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" media="(prefers-color-scheme: dark)">
+        <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=346654&theme=light" alt="Rerere&#0058;&#0032;Simple&#0032;Checklist - Packing&#0032;List&#0032;&#0038;&#0032;Any&#0032;Procedure | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54">
+    </picture>
+</a>
+</p>
 
 <hr>
 
