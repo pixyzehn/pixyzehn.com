@@ -13,7 +13,7 @@ image: /assets/profile.jpg
 
 Hi, I'm Hiroki Nagasawa and an iOS software engineer at [Doist](https://doist.com), working on [Todoist](https://todoist.com/home) and [Twist](https://twist.com/home).
 
-As side projects, I built my [apps](/apps) for the iPhone, iPad, and Mac.
+I'm building [apps](/apps) for the iPhone, iPad, and Mac as side projects.
 
 Apart from software development and programming, I'm passionate about trekking, climbing, playing soccer, and stargazing. All views on this website are mine.
 
