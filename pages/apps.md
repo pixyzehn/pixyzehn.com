@@ -87,7 +87,6 @@ permalink: /apps/
 <div class="app-icons">
     <img src="../assets/app-icons/inagex.jpg" width="50" height="50">
     <img src="../assets/app-icons/shinreizu.jpg" width="50" height="50">
-    <img src="../assets/app-icons/india-note.jpg" width="50" height="50">
     <img src="../assets/app-icons/fastzaim.jpg" width="50" height="50">
     <img src="../assets/app-icons/taskey.jpg" width="50" height="50">
     <img src="../assets/app-icons/motivation.jpg" width="50" height="50">
