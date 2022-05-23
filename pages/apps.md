@@ -84,23 +84,23 @@ permalink: /apps/
 
 <p>Archived Apps</p>
 
-<div class="old-apps">
-    <img src="../assets/old-app-icons/inagex.jpg" width="50" height="50">
-    <img src="../assets/old-app-icons/shinreizu.jpg" width="50" height="50">
-    <img src="../assets/old-app-icons/fastzaim.jpg" width="50" height="50">
-    <img src="../assets/old-app-icons/taskey.jpg" width="50" height="50">
-    <img src="../assets/old-app-icons/motivation.jpg" width="50" height="50">
-    <img src="../assets/old-app-icons/esafeed.jpg" width="50" height="50">
-    <img src="../assets/old-app-icons/kigen.jpg" width="50" height="50">
+<div class="app-icons">
+    <img src="../assets/app-icons/inagex.jpg" width="50" height="50">
+    <img src="../assets/app-icons/shinreizu.jpg" width="50" height="50">
+    <img src="../assets/app-icons/india-note.jpg" width="50" height="50">
+    <img src="../assets/app-icons/fastzaim.jpg" width="50" height="50">
+    <img src="../assets/app-icons/taskey.jpg" width="50" height="50">
+    <img src="../assets/app-icons/motivation.jpg" width="50" height="50">
+    <img src="../assets/app-icons/esafeed.jpg" width="50" height="50">
+    <img src="../assets/app-icons/kigen.jpg" width="50" height="50">
 </div>
 
 <p>Apps I used to work for at my prev job</p>
 
-<div class="old-apps">
-    <img src="../assets/old-app-icons/india-note.jpg" width="50" height="50">
-    <img src="../assets/old-app-icons/pairs.jpg" width="50" height="50">
-    <img src="../assets/old-app-icons/couples.jpg" width="50" height="50">
-    <img src="../assets/old-app-icons/melpy.jpg" width="50" height="50">
-    <img src="../assets/old-app-icons/sanpojista.jpg" width="50" height="50">
-    <img src="../assets/old-app-icons/kencom.jpg" width="50" height="50">
+<div class="app-icons">
+    <img src="../assets/app-icons/pairs.jpg" width="50" height="50">
+    <img src="../assets/app-icons/couples.jpg" width="50" height="50">
+    <img src="../assets/app-icons/melpy.jpg" width="50" height="50">
+    <img src="../assets/app-icons/sanpojista.jpg" width="50" height="50">
+    <img src="../assets/app-icons/kencom.jpg" width="50" height="50">
 </div>
