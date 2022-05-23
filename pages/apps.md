@@ -9,7 +9,7 @@ permalink: /apps/
 <hr>
 
 <div>
-    <img src="../assets/expenses.png" width="100" height="100">
+    <img src="../assets/apps/expenses.png" width="100" height="100">
     <h2>Expenses</h2>
     <div>
         <span class="badge badge-pill">Free</span>
@@ -24,7 +24,7 @@ permalink: /apps/
 <hr>
 
 <div>
-    <img src="../assets/rerere.png" width="100" height="100">
+    <img src="../assets/apps/rerere.png" width="100" height="100">
     <h2>Rerere</h2>
     <div>
         <span class="badge badge-pill">Free</span>
@@ -39,7 +39,7 @@ permalink: /apps/
 <hr>
 
 <div>
-    <img src="../assets/8planets.png" width="100" height="100">
+    <img src="../assets/apps/8planets.png" width="100" height="100">
     <h2>8Planets</h2>
     <div>
         <span class="badge badge-pill">Paid</span>
@@ -55,7 +55,7 @@ permalink: /apps/
 <hr>
 
 <div>
-    <img src="../assets/passwordgen.png" width="100" height="100">
+    <img src="../assets/apps/passwordgen.png" width="100" height="100">
     <h2>PasswordGen</h2>
     <div>
         <span class="badge badge-pill">Paid</span>
@@ -69,7 +69,7 @@ permalink: /apps/
 <hr>
 
 <div>
-    <img src="../assets/rokuyo.png" width="100" height="100">
+    <img src="../assets/apps/rokuyo.png" width="100" height="100">
     <h2>Rokuyo</h2>
     <div>
         <span class="badge badge-pill">Free</span>

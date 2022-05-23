@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /
-image: /assets/profile.jpg
+image: /assets/about/profile.jpg
 ---
 
 <h1><small>About me</small></h1>
@@ -23,7 +23,7 @@ You can reach me via <a href="{{ site.links.email }}"><em>hi[at]pixyzehn.com</em
 
 ---
 
-<img src="../assets/mont-blanc.jpg" class="d-block mx-auto rounded" width="85%">
+<img src="../assets/about/mont-blanc.jpg" class="d-block mx-auto rounded" width="85%">
 
 {: align="center"}
 _The view from the top of Mont Blanc where you can see tiny but sharp Matterhorn._

@@ -7,8 +7,8 @@ tags: app
 
 Today I released a small and simple Todo List iOS app called ["Kigen"](https://itunes.apple.com/us/app/kigen-todo-list-for-reminder/id1198205732?l=en&mt=8). "Kigen"(期限) means a deadline in Japanese.
 
-![kigen01]({{ site.url }}/assets/kigen01.jpg){:width="40%"}
-![kigen02]({{ site.url }}/assets/kigen02.jpg){:width="40%"}
+![kigen01]({{ site.url }}/assets/posts/kigen01.jpg){:width="40%"}
+![kigen02]({{ site.url }}/assets/posts/kigen02.jpg){:width="40%"}
 
 From App Store description,
 

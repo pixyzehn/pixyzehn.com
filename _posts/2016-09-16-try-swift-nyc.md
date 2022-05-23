@@ -7,7 +7,7 @@ tags: swift
 
 A big Swift conference called [try!Swift NYC](http://www.tryswiftconf.com/){:target="_blank"} was held in New York on September 1st and 2nd, 2016. I attended overseas conference for the first time. I blogged about this conference in order not to forget the exciting experience.
 
-![Hall]({{ site.url }}/assets/try-swift-nyc-hall.png)
+![Hall]({{ site.url }}/assets/posts/try-swift-nyc-hall.png)
 
 You may know about [try!Swift](http://www.tryswiftconf.com/){:target="_blank"} conference held in Shibuya, Tokyo on March 2nd - 4th, 2016. I had really good time in that time, so I decided to join try!Swift NYC.
 
@@ -45,12 +45,12 @@ Ryan announces new iOS library [IGListKit](https://github.com/instagram/IGListKi
 
 In addition to the above, I saw many great talks.
 
-![Talk1]({{ site.url }}/assets/try-swift-nyc-talk1.png)
+![Talk1]({{ site.url }}/assets/posts/try-swift-nyc-talk1.png)
 
-![Talk2]({{ site.url }}/assets/try-swift-nyc-talk2.png)
+![Talk2]({{ site.url }}/assets/posts/try-swift-nyc-talk2.png)
 
 #### Conclusion
 
 try!Swift NYC was by far the best conference for me. I met many people and learned a lot. At the same time, I thought I'd like to contribute more to Swift developer community as possible as I can. Finally, thank you @NatashaTheRobot, organizers, speakers, and volunteers. Hope to see you again:)
 
-![Ending]({{ site.url }}/assets/try-swift-nyc-ending.png)
+![Ending]({{ site.url }}/assets/posts/try-swift-nyc-ending.png)

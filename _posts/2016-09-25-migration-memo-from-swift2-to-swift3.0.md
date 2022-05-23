@@ -26,7 +26,7 @@ Be careful of choosing buttons. convert button's position is different. That's i
 
 I set `OS_ACTIVITY_MODE` disable in order not to show many redundant logs in Xcode console.
 
-![Mode]({{ site.url }}/assets/os-activity-mode.png)
+![Mode]({{ site.url }}/assets/posts/os-activity-mode.png)
 
 #### 4. Update libraries in response to Swift3.0
 

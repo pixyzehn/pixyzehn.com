@@ -4,14 +4,14 @@ title: Rerere
 permalink: /rerere/
 ---
 
-<img src="../assets/rerere.png" width="100" height="100">
+<img src="../assets/apps/rerere.png" width="100" height="100">
 
 # Rerere
 
 <div class="text-center">
   <picture>
-    <source srcset="../assets/rerere-image-dark.png" width="80%" media="(prefers-color-scheme: dark)">
-    <img src="../assets/rerere-image.png" width="80%">
+    <source srcset="../assets/apps/rerere-image-dark.png" width="80%" media="(prefers-color-scheme: dark)">
+    <img src="../assets/apps/rerere-image.png" width="80%">
   </picture>
 </div>
 
@@ -54,14 +54,14 @@ Dark Mode, Markdown support, Markdown Preview, Scan Text on iOS and iPadOS, Spli
 <p class="no-marker-link">
 <a href="{{ site.links.rerere }}" target="_blank">
     <picture>
-        <source srcset="../assets/app-store-badge-dark.svg" media="(prefers-color-scheme: dark)">
-        <img src="../assets/app-store-badge.svg">
+        <source srcset="../assets/badges/app-store-badge-dark.svg" media="(prefers-color-scheme: dark)">
+        <img src="../assets/badges/app-store-badge.svg">
     </picture>
 </a>
 <a href="{{ site.links.rerere }}" target="_blank">
     <picture>
-        <source srcset="../assets/mac-app-store-badge-dark.svg" media="(prefers-color-scheme: dark)">
-        <img src="../assets/mac-app-store-badge.svg">
+        <source srcset="../assets/badges/mac-app-store-badge-dark.svg" media="(prefers-color-scheme: dark)">
+        <img src="../assets/badges/mac-app-store-badge.svg">
     </picture>
 </a>
 </p>

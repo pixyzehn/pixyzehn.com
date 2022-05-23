@@ -32,7 +32,7 @@ I created a simple script for `Sourcery`, and then I run `Sourcery` command in t
 If I move `Sourcery.swift` to `/EsaKit/Sourcery.swift`, `Sourcery` didn't create any codes:( I didn't know it has a such a specification until I have met this problem.  
 So I had to put in under the `/EsaKit/Models` like this `/EsaKit/Models/Sourcery.swift` because all structs confirmed to `Auto***` is in `Models`.
 
-![EsaKit Tree]({{ site.url }}/assets/esakit-tree.png){:width="60%"}
+![EsaKit Tree]({{ site.url }}/assets/posts/esakit-tree.png){:width="60%"}
 
 **Please be careful about `Auto***` files directory.**
 

@@ -7,7 +7,7 @@ tags: swift realm
 
 In a simple iOS project with Realm, I took this kind of structure.
 
-![Structure]({{ site.url }}/assets/viewmodel-with-realm.png)
+![Structure]({{ site.url }}/assets/posts/viewmodel-with-realm.png)
 
 By using this structure, I got several merits like this.  
 
