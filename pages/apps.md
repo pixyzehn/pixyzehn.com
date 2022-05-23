@@ -82,7 +82,7 @@ permalink: /apps/
 
 <hr>
 
-<p>Archived Apps</p>
+<p>Apps I used to build</p>
 
 <div class="app-icons">
     <img src="../assets/app-icons/inagex.jpg" width="50" height="50">

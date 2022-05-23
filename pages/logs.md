@@ -14,7 +14,7 @@ Just another log for myself. Hopefully, it'll help me decide where to visit and 
 
 {% assign sortedCountries = site.data.countries | sort: 'name' %}
 <details>
-<summary>🌏 I have visited roughly <b>{{ sortedCountries.size }} / 195~</b> country(ies) so far (excluding Japan).</summary>
+<summary>🌏 I have visited roughly <b>{{ sortedCountries.size }} / 195~</b> country(ies) (excluding Japan)</summary>
 {% for country in sortedCountries %}
 <ul style="margin-top:0;margin-bottom:0;"><li>{{ country.name }} {{ country.flag  }}</li></ul>
 {% endfor %}
@@ -22,7 +22,7 @@ Just another log for myself. Hopefully, it'll help me decide where to visit and 
 
 {% assign sortedCities = site.data.cities | sort: 'name' %}
 <details>
-<summary>🌃 I have visited roughly <b>{{ sortedCities.size }} / 10,000~</b> city(ies) so far (excluding cities in Japan).</summary>
+<summary>🌃 I have visited roughly <b>{{ sortedCities.size }} / 10,000~</b> city(ies) (excluding cities in Japan)</summary>
 {% for city in sortedCities %}
 <ul style="margin-top:0;margin-bottom:0;"><li>{{ city.name }}, {{ city.country }}</li></ul>
 {% endfor %}
@@ -30,7 +30,7 @@ Just another log for myself. Hopefully, it'll help me decide where to visit and 
 
 {% assign sortedPrefectures = site.data.japanese_prefectures | sort: 'name' %}
 <details>
-<summary>🗾 I have visited roughly <b>{{ sortedPrefectures.size }} / 47</b> prefecture(s) in Japan so far.</summary>
+<summary>🗾 I have visited roughly <b>{{ sortedPrefectures.size }} / 47</b> prefecture(s) in Japan</summary>
 {% for prefecture in sortedPrefectures %}
 <ul style="margin-top:0;margin-bottom:0;"><li>{{ prefecture.name }}</li></ul>
 {% endfor %}
@@ -41,7 +41,7 @@ Just another log for myself. Hopefully, it'll help me decide where to visit and 
 {% assign mountaineering = site.data.mountaineering %}
 {% assign recentMountaineeringItem = mountaineering[0] %}
 <details>
-<summary>🏔 I did <b>{{ recentMountaineeringItem.activities.size }}</b> mountaineering activity(ies) in {{ recentMountaineeringItem.year }}.</summary>
+<summary>🏔 I did <b>{{ recentMountaineeringItem.activities.size }}</b> mountaineering activity(ies) in {{ recentMountaineeringItem.year }}</summary>
 {% for item in mountaineering %}
 <p><b>{{ item.year }}</b></p>
 <ul style="margin-top:0;margin-bottom:0;">
@@ -58,7 +58,7 @@ Just another log for myself. Hopefully, it'll help me decide where to visit and 
 
 {% assign sortedMountains = site.data.japanese_mountains | sort: 'name' %}
 <details>
-<summary>⛰ I have climbed roughly <b>{{ sortedMountains.size }} / 100</b> famous mountain(s) in Japan so far (<a href="https://en.wikipedia.org/wiki/100_Famous_Japanese_Mountains#List_by_region">Wikipedia</a>).</summary>
+<summary>⛰ I have climbed roughly <b>{{ sortedMountains.size }} / 100</b> famous mountain(s) in Japan (<a href="https://en.wikipedia.org/wiki/100_Famous_Japanese_Mountains#List_by_region">Wikipedia</a>)</summary>
 {% for mountain in sortedMountains %}
 <ul style="margin-top:0;margin-bottom:0;"><li>{{ mountain.name }}, {{ mountain.area }} ({{ mountain.altitude }})</li></ul>
 {% endfor %}
@@ -68,7 +68,7 @@ Just another log for myself. Hopefully, it'll help me decide where to visit and 
 
 {% assign done_qualifications = site.data.qualifications | where: 'status', 'done' %}
 <details>
-<summary>📖 I got roughly <b>{{ done_qualifications.size }}</b> qualification(s) so far.</summary>
+<summary>📖 I got roughly <b>{{ done_qualifications.size }}</b> qualification(s)</summary>
 <ul style="margin-top:0;margin-bottom:0;">
 {% for qualification in site.data.qualifications %}
 <li>{{ qualification.name }}, {{ qualification.date | default: '-' }}</li>
