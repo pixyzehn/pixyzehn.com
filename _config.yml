@@ -8,6 +8,7 @@ links:
   github: https://github.com/pixyzehn
   twitter: https://twitter.com/pixyzehn
   linkedin: https://www.linkedin.com/in/pixyzehn
+  instagram: https://www.instagram.com/pixyzehn
   email: mailto:hi@pixyzehn.com
   expenses: https://getexpenses.app
   eightplanets: https://8planets.app
@@ -33,7 +34,6 @@ twitter:
   card: summary
 
 plugins:
-- jekyll-avatar
 - jekyll-feed
 - jekyll-gist
 - jekyll-mentions
