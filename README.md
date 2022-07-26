@@ -1,4 +1,6 @@
-# [pixyzehn.com](https://pixyzehn.com) [![jekyll build](https://github.com/pixyzehn/pixyzehn.com/actions/workflows/build.yml/badge.svg)](https://github.com/pixyzehn/pixyzehn.com/actions/workflows/build.yml)
+# [pixyzehn.com](https://pixyzehn.com)
+
+[![jekyll build](https://github.com/pixyzehn/pixyzehn.com/actions/workflows/build.yml/badge.svg)](https://github.com/pixyzehn/pixyzehn.com/actions/workflows/build.yml)
 
 ## Requirements
 
