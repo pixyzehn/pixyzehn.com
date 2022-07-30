@@ -27,6 +27,8 @@
 
 .navbar {
   .nav-link {
+    padding-right: 1.0rem !important;
+    padding-left: 1.0rem !important;
     color: var(--text-color) !important;
     line-height: $base-line-height;
 
