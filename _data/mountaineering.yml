@@ -1,5 +1,11 @@
 - year: 2022
   activities:
+    - name: 摩耶山
+      flag: 🇯🇵
+      category: Trekking
+      altitude: 702m
+      date: 2022/07/31
+      note: 上野道
     - name: Kyoto Trail
       flag: 🇯🇵
       category: Trekking
