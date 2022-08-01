@@ -99,7 +99,7 @@ GEM
       faraday (>= 0.17.3, < 3)
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
-    tzinfo (2.0.4)
+    tzinfo (2.0.5)
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
     webrick (1.7.0)
