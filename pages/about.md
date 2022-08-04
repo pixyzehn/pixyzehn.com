@@ -18,7 +18,7 @@ You can reach me via <a href="{{ site.links.email }}"><em>hi[at]pixyzehn.com</em
 {% include external_links.html %}
 
 <div class="pt-5">
-<img src="../assets/about/mont-blanc.jpg" class="d-block mx-auto rounded" width="95%">
+<img alt="mont-blanc" src="../assets/about/mont-blanc.jpg" class="d-block mx-auto rounded" width="95%">
 </div>
 
-<p class="text-muted text-center"><i>The view from the top of Mont Blanc where you can see tiny but sharp Matterhorn.</i></p>
+<p class="text-muted text-center"><i><small>The view from the top of Mont Blanc where you can see tiny but sharp Matterhorn.</small></i></p>
