@@ -13,9 +13,9 @@ The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/).
 
 {% for item in site.data.things_i_like %}
 <h2>{{ item.category }}</h2>
-<ul>
+<ul style="list-style: none">
 {% for link in item.links %}
-<li><a href="{{ link.url }}">{{ link.title }}</a></li>
+<li><a href="{{ link.url }}">{% include icons/link.html %} {{ link.title }}</a></li>
 {% endfor %}
 </ul>
 {% endfor %}
