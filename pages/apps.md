@@ -82,8 +82,8 @@ permalink: /apps/
 
 <hr>
 
-<p>Apps I used to build</p>
-
+<details>
+<summary>Apps I used to build</summary>
 <div class="app-icons">
     <img src="../assets/app-icons/inagex.jpg" width="50" height="50">
     <img src="../assets/app-icons/shinreizu.jpg" width="50" height="50">
@@ -93,9 +93,10 @@ permalink: /apps/
     <img src="../assets/app-icons/esafeed.jpg" width="50" height="50">
     <img src="../assets/app-icons/kigen.jpg" width="50" height="50">
 </div>
+</details>
 
-<p>Apps I used to work for at my prev job</p>
-
+<details>
+<summary>Apps I used to work for at my prev job</summary>
 <div class="app-icons">
     <img src="../assets/app-icons/pairs.jpg" width="50" height="50">
     <img src="../assets/app-icons/couples.jpg" width="50" height="50">
@@ -103,3 +104,4 @@ permalink: /apps/
     <img src="../assets/app-icons/sanpojista.jpg" width="50" height="50">
     <img src="../assets/app-icons/kencom.jpg" width="50" height="50">
 </div>
+</details>
