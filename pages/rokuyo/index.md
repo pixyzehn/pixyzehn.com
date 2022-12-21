@@ -31,8 +31,4 @@ Rokuyo is a simple menu bar app that will let you know about today's Rokuyo (六
 
 <hr>
 
-<p>
-    <a href="https://twitter.com/rokuyoapp?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @rokuyoapp</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
-
 <a href="/contact">Contact</a> ・ <a href="/rokuyo/privacy/">Privacy Policy</a>
