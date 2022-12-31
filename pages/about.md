@@ -22,3 +22,8 @@ You can reach me via <a href="{{ site.links.email }}"><em>hi[at]pixyzehn.com</em
 </div>
 
 <p class="text-muted text-center"><i><small>The view from the top of Mont Blanc where you can see tiny but sharp Matterhorn.</small></i></p>
+
+More about me:
+- [Interviewed by ROKKONOMAD](https://rokkonomad.org/news_column/3080) (Japanese)
+- [Interviewed by NL/ROKKO RADIO](https://open.spotify.com/episode/377Au7Rh7DPtRtN0RFOA7P) (Podcast, Japanese)
+- [Interviewed by Remote Work Labo](https://www.remotework-labo.jp/2018/10/doist01/) (Japanese)

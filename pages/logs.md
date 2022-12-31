@@ -58,7 +58,7 @@ Just another log for myself. Hopefully, it'll help me decide where to visit and 
 
 {% assign sortedMountains = site.data.japanese_mountains | sort: 'name' %}
 <details>
-<summary>⛰ I have climbed roughly <b>{{ sortedMountains.size }} / 100</b> famous {% if sortedMountains.size == 1 %}mountain{% else %}mountains{% endif %} in Japan (<a href="https://en.wikipedia.org/wiki/100_Famous_Japanese_Mountains#List_by_region">Wikipedia</a>)</summary>
+<summary>🗻 I have climbed roughly <b>{{ sortedMountains.size }} / 100</b> famous {% if sortedMountains.size == 1 %}mountain{% else %}mountains{% endif %} in Japan (<a href="https://en.wikipedia.org/wiki/100_Famous_Japanese_Mountains#List_by_region">Wikipedia</a>)</summary>
 {% for mountain in sortedMountains %}
 <ul style="margin-top:0;margin-bottom:0;"><li>{{ mountain.name }}, {{ mountain.area }} ({{ mountain.altitude }})</li></ul>
 {% endfor %}
