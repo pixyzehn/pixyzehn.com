@@ -66,12 +66,16 @@ Just another log for myself. Hopefully, it'll help me decide where to visit and 
 
 <h2>Learnings</h2>
 
-{% assign done_qualifications = site.data.qualifications | where: 'status', 'done' %}
+{% assign done_qualifications = site.data.qualifications %}
 <details>
 <summary>📖 I got roughly <b>{{ done_qualifications.size }}</b> {% if done_qualifications.size == 1 %}qualification{% else %}qualifications{% endif %}</summary>
 <ul style="margin-top:0;margin-bottom:0;">
 {% for qualification in site.data.qualifications %}
+{% if qualification.url == '' %}
 <li>{{ qualification.name }}, {{ qualification.date | default: '-' }}</li>
+{% else %}
+<li><a href="{{ qualification.url }}">{{ qualification.name }}</a>, {{ qualification.date | default: '-' }}</li>
+{% endif %}
 {% endfor %}
 </ul>
 </details>
