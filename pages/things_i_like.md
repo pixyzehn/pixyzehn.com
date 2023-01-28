@@ -10,7 +10,7 @@ The idea comes from [Things I Love by Khanlou](http://khanlou.com/love/).
 <hr>
 
 {% for item in site.data.things_i_like %}
-<h2>{{ item.category }}</h2>
+<h3>{{ item.category }}</h3>
 <ul style="list-style: none; margin-left: 0;">
 {% for link in item.links %}
 <li><a href="{{ link.url }}">{% include icons/link.html %} {{ link.title }}</a></li>

@@ -1,14 +1,12 @@
 <section class="posts-by-tags">
     {% for tag_name in tag_names %}
     <div>
-        <h4 id="{{ tag_name }}">
-            #{{ tag_name }}
-        </h4>
+        <h4 id="{{ tag_name }}">#{{ tag_name }}</h4>
+        <ul style="list-style: none; margin-left: 0;">
         {% for post in site.tags[tag_name] %}
-        <a href="{{ post.url | prepend: baseurl }}">{{ post.title }}</a>
-        <br>
+        <li><a href="{{ post.url | prepend: baseurl }}">{{ post.title }}</a></li>
         {% endfor %}
-        <br>
+        </ul>
     </div>
     {% endfor %}
 </section>

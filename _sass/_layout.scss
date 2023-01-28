@@ -67,7 +67,7 @@
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  padding: calc(#{$spacing-unit} / 2) 0;
 }
 
 .page-heading {
@@ -259,4 +259,12 @@ hr {
     background-color: inherit;
     text-decoration: none;
   }
+}
+
+/**
+ * Badge
+ */
+.badge {
+  color: var(--text-color) !important;
+  background-color: var(--secondary-background-color) !important;
 }

@@ -8,7 +8,7 @@ Just another log for myself. Hopefully, it'll help me decide where to visit and 
 
 <hr>
 
-<h2>Travel</h2>
+<h3>Travel</h3>
 
 {% assign sortedCountries = site.data.countries | sort: 'name' %}
 <details>
@@ -34,7 +34,7 @@ Just another log for myself. Hopefully, it'll help me decide where to visit and 
 {% endfor %}
 </details>
 
-<h2>Activities</h2>
+<h3>Activities</h3>
 
 {% assign mountaineering = site.data.mountaineering %}
 {% assign recentMountaineeringItem = mountaineering[0] %}
@@ -62,7 +62,7 @@ Just another log for myself. Hopefully, it'll help me decide where to visit and 
 {% endfor %}
 </details>
 
-<h2>Learnings</h2>
+<h3>Learnings</h3>
 
 {% assign done_qualifications = site.data.qualifications %}
 <details>
