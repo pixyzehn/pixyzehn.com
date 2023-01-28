@@ -4,10 +4,6 @@ title: Apps
 permalink: /apps/
 ---
 
-<h1><small>Apps</small></h1>
-
-<hr>
-
 <div>
     <img src="../assets/apps/expenses.png" width="100" height="100">
     <h2>Expenses</h2>

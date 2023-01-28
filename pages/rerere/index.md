@@ -4,16 +4,38 @@ title: Rerere
 permalink: /rerere/
 ---
 
-<img src="../assets/apps/rerere.png" width="100" height="100">
-
-# Rerere
-
 <div class="text-center">
   <picture>
     <source srcset="../assets/apps/rerere-image-dark.png" width="80%" media="(prefers-color-scheme: dark)">
     <img src="../assets/apps/rerere-image.png" width="80%">
   </picture>
 </div>
+
+# Rerere
+
+<p class="no-marker-link">
+<a href="{{ site.links.rerere }}" target="_blank">
+    <picture>
+        <source srcset="../assets/badges/app-store-badge-dark.svg" media="(prefers-color-scheme: dark)">
+        <img src="../assets/badges/app-store-badge.svg">
+    </picture>
+</a>
+<a href="{{ site.links.rerere }}" target="_blank">
+    <picture>
+        <source srcset="../assets/badges/mac-app-store-badge-dark.svg" media="(prefers-color-scheme: dark)">
+        <img src="../assets/badges/mac-app-store-badge.svg">
+    </picture>
+</a>
+</p>
+
+<p class="no-marker-link">
+<a href="https://www.producthunt.com/posts/rerere-simple-checklist?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-rerere&#0045;simple&#0045;checklist" target="_blank">
+    <picture>
+        <source srcset="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=346654&theme=dark" alt="Rerere&#0058;&#0032;Simple&#0032;Checklist - Packing&#0032;List&#0032;&#0038;&#0032;Any&#0032;Procedure | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" media="(prefers-color-scheme: dark)">
+        <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=346654&theme=light" alt="Rerere&#0058;&#0032;Simple&#0032;Checklist - Packing&#0032;List&#0032;&#0038;&#0032;Any&#0032;Procedure | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54">
+    </picture>
+</a>
+</p>
 
 Rerere is a simple process-oriented checklist app that helps you ensure you don’t forget anything. The app is available on Mac, iPhone, and iPad.
 
@@ -50,30 +72,6 @@ Import and export all your data in multiple ways, so you can make full use of th
 - **Others**
 
 Dark Mode, Markdown support, Markdown Preview, Scan Text on iOS and iPadOS, Split View, and so on.
-
-<p class="no-marker-link">
-<a href="{{ site.links.rerere }}" target="_blank">
-    <picture>
-        <source srcset="../assets/badges/app-store-badge-dark.svg" media="(prefers-color-scheme: dark)">
-        <img src="../assets/badges/app-store-badge.svg">
-    </picture>
-</a>
-<a href="{{ site.links.rerere }}" target="_blank">
-    <picture>
-        <source srcset="../assets/badges/mac-app-store-badge-dark.svg" media="(prefers-color-scheme: dark)">
-        <img src="../assets/badges/mac-app-store-badge.svg">
-    </picture>
-</a>
-</p>
-
-<p class="no-marker-link">
-<a href="https://www.producthunt.com/posts/rerere-simple-checklist?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-rerere&#0045;simple&#0045;checklist" target="_blank">
-    <picture>
-        <source srcset="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=346654&theme=dark" alt="Rerere&#0058;&#0032;Simple&#0032;Checklist - Packing&#0032;List&#0032;&#0038;&#0032;Any&#0032;Procedure | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" media="(prefers-color-scheme: dark)">
-        <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=346654&theme=light" alt="Rerere&#0058;&#0032;Simple&#0032;Checklist - Packing&#0032;List&#0032;&#0038;&#0032;Any&#0032;Procedure | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54">
-    </picture>
-</a>
-</p>
 
 <hr>
 

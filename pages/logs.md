@@ -4,8 +4,6 @@ title: Logs
 permalink: /logs/
 ---
 
-<h1><small>Logs</small></h1>
-
 Just another log for myself. Hopefully, it'll help me decide where to visit and what to focus on in the near future.
 
 <hr>

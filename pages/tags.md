@@ -4,8 +4,6 @@ title: Tags
 permalink: /tags/
 ---
 
-<h1><small>Tags</small></h1>
-
 {% assign tag_names = "" | split: "|"  %}
 {% for posts_by_tag in site.tags %}
 {% assign tag_names = tag_names | push: posts_by_tag.first %}
