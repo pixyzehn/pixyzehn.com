@@ -15,7 +15,7 @@ I'm an iOS software engineer at [Doist](https://doist.com), working on [Todoist]
 
 Apart from software development and programming, I'm passionate about trekking, climbing, and stargazing. All views on this website are mine.
 
-You can reach me via <a href="{{ site.links.email }}"><em>hi[at]pixyzehn.com</em></a> and find me on:
+You can reach me via <a href="{{ site.links.email }}">this email</a> and find me on:
 
 {% include external_links.html %}
 
