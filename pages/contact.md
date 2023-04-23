@@ -1,13 +1,5 @@
 ---
-layout: default
-title: Contact
+sitemap: false
 permalink: /contact/
+redirect_to: https://bluecometlabs.com
 ---
-
-## Contact
-
-Any feedback and suggestions are welcome. We will try to read every tweet and email.
-
-- [contact@bluecometlabs.com](mailto:contact@bluecometlabs.com) for feedback, suggestions, and bug reports
-- [@pixyzehn]({{ site.links.twitter }}) on Twitter (DM is open)
-- [@pixyzehn]({{ site.links.mastodon }}) on Mastodon

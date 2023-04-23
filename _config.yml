@@ -1,5 +1,4 @@
 title: pixyzehn
-author: pixyzehn
 description: Just another jekyll website
 url: https://pixyzehn.com
 timezone: Asia/Tokyo
@@ -11,11 +10,6 @@ links:
   linkedin: https://www.linkedin.com/in/pixyzehn
   instagram: https://www.instagram.com/pixyzehn
   email: mailto:01_tell_spritz@icloud.com
-  expenses: https://getexpenses.app
-  eightplanets: https://8planets.app
-  rokuyo: https://apple.co/3GAlIDA
-  passwordgen: https://apple.co/31Hm9gF
-  rerere: https://apple.co/3KQdton
   jekyll: https://jekyllrb.com
 
 collections:
