@@ -79,25 +79,10 @@ Just another log for myself. Hopefully, it'll help me decide where to visit and 
 </details>
 
 <details>
-<summary>🛠️ Apps I used to build</summary>
+<summary>🛠️ Past works <b>{{ site.data.apps.size }}</b> apps</summary>
 <div class="app-icons">
-    <img src="../assets/app-icons/inagex.jpg" width="50" height="50">
-    <img src="../assets/app-icons/shinreizu.jpg" width="50" height="50">
-    <img src="../assets/app-icons/fastzaim.jpg" width="50" height="50">
-    <img src="../assets/app-icons/taskey.jpg" width="50" height="50">
-    <img src="../assets/app-icons/motivation.jpg" width="50" height="50">
-    <img src="../assets/app-icons/esafeed.jpg" width="50" height="50">
-    <img src="../assets/app-icons/kigen.jpg" width="50" height="50">
-</div>
-</details>
-
-<details>
-<summary>🛠️ Apps I used to work for at my prev job</summary>
-<div class="app-icons">
-    <img src="../assets/app-icons/pairs.jpg" width="50" height="50">
-    <img src="../assets/app-icons/couples.jpg" width="50" height="50">
-    <img src="../assets/app-icons/melpy.jpg" width="50" height="50">
-    <img src="../assets/app-icons/sanpojista.jpg" width="50" height="50">
-    <img src="../assets/app-icons/kencom.jpg" width="50" height="50">
+{% for app in site.data.apps %}
+<img src="../assets/app-icons/{{ app.name }}.jpg" width="50" height="50">
+{% endfor %}
 </div>
 </details>
