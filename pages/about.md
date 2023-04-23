@@ -11,7 +11,7 @@ image: /assets/about/profile.jpg
 
 ## Hiroki Nagasawa
 
-I'm an iOS software engineer at [Doist](https://doist.com), working on [Todoist](https://todoist.com/home) and [Twist](https://twist.com/home). As a side project, I have made [apps](/apps) for Apple platforms.
+I'm an iOS software engineer at [Doist](https://doist.com), working on [Todoist](https://todoist.com/home) and [Twist](https://twist.com/home). As a side project, I have made [apps](https://bluecometlabs.com) for Apple platforms as Blue Comet Labs.
 
 Apart from software development and programming, I'm passionate about trekking, climbing, and stargazing. All views on this website are mine.
 

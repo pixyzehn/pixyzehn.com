@@ -62,7 +62,7 @@ Just another log for myself. Hopefully, it'll help me decide where to visit and 
 {% endfor %}
 </details>
 
-<h3>Learnings</h3>
+<h3>Misc</h3>
 
 {% assign done_qualifications = site.data.qualifications %}
 <details>
@@ -76,4 +76,28 @@ Just another log for myself. Hopefully, it'll help me decide where to visit and 
 {% endif %}
 {% endfor %}
 </ul>
+</details>
+
+<details>
+<summary>🛠️ Apps I used to build</summary>
+<div class="app-icons">
+    <img src="../assets/app-icons/inagex.jpg" width="50" height="50">
+    <img src="../assets/app-icons/shinreizu.jpg" width="50" height="50">
+    <img src="../assets/app-icons/fastzaim.jpg" width="50" height="50">
+    <img src="../assets/app-icons/taskey.jpg" width="50" height="50">
+    <img src="../assets/app-icons/motivation.jpg" width="50" height="50">
+    <img src="../assets/app-icons/esafeed.jpg" width="50" height="50">
+    <img src="../assets/app-icons/kigen.jpg" width="50" height="50">
+</div>
+</details>
+
+<details>
+<summary>🛠️ Apps I used to work for at my prev job</summary>
+<div class="app-icons">
+    <img src="../assets/app-icons/pairs.jpg" width="50" height="50">
+    <img src="../assets/app-icons/couples.jpg" width="50" height="50">
+    <img src="../assets/app-icons/melpy.jpg" width="50" height="50">
+    <img src="../assets/app-icons/sanpojista.jpg" width="50" height="50">
+    <img src="../assets/app-icons/kencom.jpg" width="50" height="50">
+</div>
 </details>
