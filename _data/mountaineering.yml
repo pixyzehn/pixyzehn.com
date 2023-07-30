@@ -13,7 +13,7 @@
       flag: 🇯🇵
       category: Trekking
       altitude:
-      date: 2022/05/21 ~ 2022/05/22
+      date: 2022/05/21–2022/05/22
       note: Fushimi-Fukakusa Route [9.5km] & Higashiyama Course [24.6km]
 
 - year: 2021
@@ -29,7 +29,7 @@
       category: Trekking
       altitude:
       date: 2021/10/24
-      note: 須磨浦公園駅~旗振山~鉄拐山~高倉台~横尾山~馬の背~東山~妙法寺駅
+      note: 須磨浦公園駅–旗振山–鉄拐山–高倉台–横尾山–馬の背–東山–妙法寺駅
     - name: 伊吹山
       flag: 🇯🇵
       category: Trekking
@@ -50,7 +50,7 @@
       flag: 🇯🇵
       category: Crampons・Trekking
       altitude:
-      date: 2021/05/02 ~ 2021/05/04
+      date: 2021/05/02–2021/05/04
     - name: 蓬莱峡
       flag: 🇯🇵
       category: Climbing
@@ -80,31 +80,31 @@
       category: Crampons・Trekking
       altitude:
       date: 2021/02/28
-      note: 比良駅~青ガレ~金糞峠~中峠~金糞峠~青ガレ~比良駅
+      note: 比良駅–青ガレ–金糞峠–中峠–金糞峠–青ガレ–比良駅
     - name: 高御位山
       flag: 🇯🇵
       category: Trekking
       altitude: 304m
       date: 2021/02/13
-      note: 曽根駅~北山~高御位山頂~長尾~曽根駅
+      note: 曽根駅–北山–高御位山頂–長尾–曽根駅
     - name: 大山
       flag: 🇯🇵
       category: Avalanche・Multi-pitch climbing
       altitude:
-      date: 2021/02/06 ~ 2021/02/07
-      note: 駐車場~大神山神社奥宮~元谷小屋~行者谷分かれの手前
+      date: 2021/02/06–2021/02/07
+      note: 駐車場–大神山神社奥宮–元谷小屋–行者谷分かれの手前
     - name: 打見山
       flag: 🇯🇵
       category: Snow trekking
       altitude: 1104m
       date: 2021/01/30
-      note: 天狗杉~クロトノハゲ~打見山
+      note: 天狗杉–クロトノハゲ–打見山
     - name: 堂満岳
       flag: 🇯🇵
       category: Crampons・Trekking
       altitude: 1057m
       date: 2021/01/17
-      note: 桜のコバ~ノタノホリ~堂満東稜道
+      note: 桜のコバ–ノタノホリ–堂満東稜道
     - name: 九重“夢”大吊橋
       flag: 🇯🇵
       category: Trekking
@@ -122,7 +122,7 @@
       category: Trekking
       altitude: 702m
       date: 2021/01/02
-      note: 上野道~掬星台~オテル・ド・摩耶~天上寺~青谷道
+      note: 上野道–掬星台–オテル・ド・摩耶–天上寺–青谷道
 
 - year: 2020
   activities:
@@ -131,7 +131,7 @@
       category: Trekking
       altitude: 702m
       date: 2020/12/27
-      note: 上野道~掬星台~天上寺~青谷道
+      note: 上野道–掬星台–天上寺–青谷道
     - name: 蓬莱峡
       flag: 🇯🇵
       category: Crampons
@@ -143,13 +143,13 @@
       category: Crampons・歩荷27kg
       altitude: 304m・247m
       date: 2020/12/06
-      note: 鹿嶋神社~高御位山~桶居山~鹿嶋神社
+      note: 鹿嶋神社–高御位山–桶居山–鹿嶋神社
     - name: 摩耶山
       flag: 🇯🇵
       category: Trekking
       altitude: 702m
       date: 2020/12/04
-      note: 上野道~掬星台~青谷道
+      note: 上野道–掬星台–青谷道
     - name: Mt. Rokko (六甲山・荒地山・Pillar rock)
       flag: 🇯🇵
       category: Crampons・Trekking
@@ -220,19 +220,19 @@
       flag: 🇯🇵
       category: Trekking
       altitude:
-      date: 2020/08/17 ~ 2020/08/20
-      note: 扇沢~種池山荘~爺ヶ岳~冷池山荘~鹿島槍ヶ岳~キレット小屋~五竜岳~五竜山荘~唐松岳頂上山荘~唐松岳~不帰キレット~天狗山荘~白馬鑓ヶ岳~杓子岳~白馬岳頂上宿舎~白馬山荘~白馬岳~白馬大雪渓~白馬尻小屋~猿倉荘
+      date: 2020/08/17–2020/08/20
+      note: 扇沢–種池山荘–爺ヶ岳–冷池山荘–鹿島槍ヶ岳–キレット小屋–五竜岳–五竜山荘–唐松岳頂上山荘–唐松岳–不帰キレット–天狗山荘–白馬鑓ヶ岳–杓子岳–白馬岳頂上宿舎–白馬山荘–白馬岳–白馬大雪渓–白馬尻小屋–猿倉荘
     - name: Mt. Rokko (六甲山)
       flag: 🇯🇵
       category: Trekking
       altitude: 932m
       date: 2020/08/14
-      note: 芦屋川駅~六甲山最高峰~有馬温泉
+      note: 芦屋川駅–六甲山最高峰–有馬温泉
     - name: Gergeti Trinity Church in Kazbegi
       flag: 🇬🇪
       category: Trekking
       altitude:
-      date: 2020/03/06 ~ 2020/03/07
+      date: 2020/03/06–2020/03/07
       note:
 
 - year: 2019
@@ -259,13 +259,13 @@
       flag: 🇵🇹
       category: Trekking
       altitude:
-      date: 2019/09/17 ~ 2019/09/19
+      date: 2019/09/17–2019/09/19
       note:
     - name: Ponta da Piedade in Lagos
       flag: 🇵🇹
       category: Trekking
       altitude:
-      date: 2019/09/14 ~ 2019/09/15
+      date: 2019/09/14–2019/09/15
       note:
     - name: Kristínartindar in Skaftafell National Park
       flag: 🇮🇸
@@ -283,7 +283,7 @@
       flag: 🇵🇹
       category: Trekking
       altitude:
-      date: 2019/05/18 ~ 2019/05/19
+      date: 2019/05/18–2019/05/19
       note:
     - name: Reserva Natural das Dunas de São Jacinto (Aveiro)
       flag: 🇵🇹
@@ -295,7 +295,7 @@
       flag: 🇵🇹
       category: Trekking
       altitude:
-      date: 2019/03/22 ~ 2019/03/26
+      date: 2019/03/22–2019/03/26
       note:
     - name: Peneda-Gerês National Park (To 7 Lagoas do Gerês)
       flag: 🇵🇹
@@ -310,7 +310,7 @@
       flag: 🇵🇹
       category: Trekking
       altitude:
-      date: 2018/12/29 ~ 2018/12/31
+      date: 2018/12/29–2018/12/31
       note:
     - name: Serra da Estrela
       flag: 🇵🇹
@@ -352,13 +352,13 @@
       flag: 🇨🇱
       category: Trekking
       altitude:
-      date: 2018/03/09 ~ 2018/03/16
+      date: 2018/03/09–2018/03/16
       note:
     - name: Cerro El Plomo (Stopped around 4800m due to altitude sickness)
       flag: 🇨🇱
       category: Trekking
       altitude: 5424m
-      date: 2018/02/10 ~ 2018/02/13
+      date: 2018/02/10–2018/02/13
       note:
 
 - year: 2017
@@ -421,7 +421,7 @@
       date: 2016/07/17
       note:
 
-- year: '~2015'
+- year: '–2015'
   activities:
     - name: Mt. Takao (高尾山)
       flag: 🇯🇵
