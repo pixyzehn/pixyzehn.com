@@ -1,7 +1,5 @@
 - category: Software Development
   links:
-    - title: Technical Development Guide
-      url: https://www.google.com/about/careers/students/guide-to-technical-development.html
     - title: Teach Yourself Computer Science
       url: https://teachyourselfcs.com/
     - title: How To Become A Hacker
@@ -31,8 +29,8 @@
 
 - category: Life
   links:
-    - title: How I Choose Projects
-      url: https://www.scotthyoung.com/blog/2016/02/18/choosing-projects/
+    - title: Steve Jobs Archive
+      url: https://stevejobsarchive.com
     - title: English has been my pain for 15 years
       url: http://antirez.com/news/61
     - title: 2010 Baccalaureate Remarks
@@ -57,6 +55,8 @@
       url: https://bemorewithless.com/the-story-of-the-mexican-fisherman/
     - title: プログラマの心の健康
       url: https://www.hyuki.com/kokoro/
+    - title: Why Software Is Eating the World
+      url: https://a16z.com/2016/08/20/why-software-is-eating-the-world/
 
 - category: Finance
   links:
@@ -66,22 +66,21 @@
       url: https://pudding.cool/2022/12/yard-sale/
     - title: 普通の人が資産運用で99点をとる方法とその考え方
       url: https://hayatoito.github.io/2020/investing/
+
+- category: Japan
+  links:
     - title: The weak yen is an opportunity
       url: https://www.noahpinion.blog/p/the-weak-yen-is-an-opportunity
+    - title: Why Japanese Websites Look So Different
+      url: https://medium.com/@mirijam.missbichler/why-japanese-websites-look-so-different-2c7273e8be1e
 
 - category: Misc
   links:
-    - title: Steve Jobs Archive
-      url: https://stevejobsarchive.com
     - title: Tomorrow is another day, THE NORTH FACE
       url: https://www.goldwin.co.jp/tnf/special/tomorrow_is_another_day/
-    - title: Trailers / Climber’s Stories – Flatlander Films
-      url: https://flatlanderfilms.com/category/trailers-climbers-stories/
     - title: Janhukot / Pertex
       url: https://www.pertex.com/janhukot/
     - title: 'Douglas Tompkins: A Force for Nature'
       url: http://www.tompkinsconservation.org/news/2015/12/09/douglas-tompkins-a-force-for-nature/
-    - title: Why Software Is Eating the World
-      url: https://a16z.com/2016/08/20/why-software-is-eating-the-world/
     - title: Armageddon
       url: https://www.julian.com/feature/armageddon
