@@ -1,5 +1,23 @@
 - year: 2023
-  activities: []
+  activities:
+    - name: Lago di Sorapis
+      flag: 🇮🇹
+      category: Trekking
+      altitude: 1923m at Lago di Sorapis
+      date: 2023/07/22
+      note: A circular day hike to a stunning turquoise lake. PASSO TRE CROCI–LAGO DI SORAPIS–FORCELLA MARCOIRA–PASSO TRE CROCI
+    - name: Tofana
+      flag: 🇮🇹
+      category: Trekking
+      altitude: 1778m at Col Drusciè
+      date: 2023/07/21
+      note: Col Druscié–Lago Ghedina–Cabinovia Freccia nel Cielo
+    - name: Tre Cime di Lavaredo
+      flag: 🇮🇹
+      category: Trekking
+      altitude: 2438m at RIFUGIO LOCATELLI 
+      date: 2023/07/20
+      note: A circular hike around 3 iconic peaks in the Italian Dolomites. RIFUGIO AURONZO–RIFUGIOO LAVAREDO–FORCELLA LAVAREDO–RIFUGIO LOCATELLI–MALGA LANGALM–RIFUGIOO AURONZO
 
 - year: 2022
   activities:
