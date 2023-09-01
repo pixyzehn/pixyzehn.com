@@ -8,16 +8,12 @@
       url: http://ejohn.org/blog/write-code-every-day/
     - title: Things You Should Never Do, Part I
       url: https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/
-    - title: Rubber Duck Debugging
-      url: https://rubberduckdebugging.com
     - title: Teach Yourself Programming in Ten Years
       url: http://www.norvig.com/21-days.html
     - title: The mythical 10x programmer
       url: http://antirez.com/news/112
     - title: Workflows of Refactoring
       url: https://martinfowler.com/articles/workflowsOfRefactoring/
-    - title: Stop Nitpicking in Code Reviews
-      url: https://blog.danlew.net/2021/02/23/stop-nitpicking-in-code-reviews/
     - title: How to Write a Git Commit Message
       url: https://chris.beams.io/posts/git-commit/
     - title: API Design
