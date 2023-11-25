@@ -1,5 +1,19 @@
 - year: 2023
   activities:
+    - name: Diamond Head, Hawaii
+      flag: 🇺🇸
+      category: Trekking
+      altitude: 232m
+      date: 2023/12/23
+      note: A short hike to the top of a volcanic crater
+
+    - name: Manoa Falls, Hawaii
+      flag: 🇺🇸
+      category: Trekking
+      altitude: 112m
+      date: 2023/12/19
+      note: A short hike to a waterfall
+
     - name: Lago di Sorapis
       flag: 🇮🇹
       category: Trekking
