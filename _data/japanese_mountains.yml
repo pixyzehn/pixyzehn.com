@@ -1,18 +1,18 @@
-- name: 白馬岳
-  area: 北アルプス
+- name: Mount Shirouma (白馬岳)
+  area: Chūbu region
   altitude: 2932m
-- name: 五竜岳
-  area: 北アルプス
+- name: Mount Goryu (五竜岳)
+  area: Chūbu region
   altitude: 2814m
-- name: 鹿島槍ヶ岳
-  area: 北アルプス
+- name: Mount Kashimayari (鹿島槍ヶ岳)
+  area: Chūbu region
   altitude: 2890m
-- name: 伊吹山
-  area: 滋賀
+- name: Mount Ibuki (伊吹山)
+  area: Western Japan
   altitude: 1377m
-- name: 男体山
-  area: 栃木
-  altitude: 2486m
-- name: 剣山
-  area: 徳島
+- name: Mount Tsurugi (剣山)
+  area: Western Japan
   altitude: 1955m
+- name: Mount Nantai (男体山)
+  area: Kantō region
+  altitude: 2486m
