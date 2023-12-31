@@ -39,7 +39,7 @@
 
 - year: 2022
   activities:
-    - name: 摩耶山
+    - name: Mt. Maya (摩耶山)
       flag: 🇯🇵
       category: Trekking
       altitude: 702m
@@ -54,7 +54,7 @@
 
 - year: 2021
   activities:
-    - name: 伊吹山
+    - name: Mt. Ibuki (伊吹山)
       flag: 🇯🇵
       category: Snow Trekking
       altitude: 1377m
@@ -66,7 +66,7 @@
       altitude:
       date: 2021/10/24
       note: 須磨浦公園駅–旗振山–鉄拐山–高倉台–横尾山–馬の背–東山–妙法寺駅
-    - name: 伊吹山
+    - name: Mt. Ibuki (伊吹山)
       flag: 🇯🇵
       category: Trekking
       altitude: 1377m
@@ -117,7 +117,7 @@
       altitude:
       date: 2021/02/28
       note: 比良駅–青ガレ–金糞峠–中峠–金糞峠–青ガレ–比良駅
-    - name: 高御位山
+    - name: Mt. 高御位山
       flag: 🇯🇵
       category: Trekking
       altitude: 304m
@@ -153,7 +153,7 @@
       altitude:
       date: 2021/01/09
       note: 中岳火口園地, 砂千里ヶ浜, etc
-    - name: 摩耶山
+    - name: Mt. Maya (摩耶山)
       flag: 🇯🇵
       category: Trekking
       altitude: 702m
@@ -162,7 +162,7 @@
 
 - year: 2020
   activities:
-    - name: 摩耶山
+    - name: Mt. Maya (摩耶山)
       flag: 🇯🇵
       category: Trekking
       altitude: 702m
@@ -180,7 +180,7 @@
       altitude: 304m・247m
       date: 2020/12/06
       note: 鹿嶋神社–高御位山–桶居山–鹿嶋神社
-    - name: 摩耶山
+    - name: Mt. Maya (摩耶山)
       flag: 🇯🇵
       category: Trekking
       altitude: 702m
