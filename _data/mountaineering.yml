@@ -1,19 +1,23 @@
 - year: 2023
   activities:
+    - name: Mt. Rokko (六甲山)
+      flag: 🇯🇵
+      category: Trekking
+      altitude: 932m
+      date: 2023/12/31
+      note: 芦屋川駅–六甲山最高峰–有馬温泉
     - name: Diamond Head
       flag: 🇺🇸
       category: Trekking
       altitude: 232m
       date: 2023/12/23
       note: A short hike to the top of a volcanic crater
-
     - name: Manoa Falls
       flag: 🇺🇸
       category: Trekking
       altitude: 112m
       date: 2023/12/19
       note: A short hike to a waterfall
-
     - name: Lago di Sorapis
       flag: 🇮🇹
       category: Trekking
@@ -461,7 +465,7 @@
       altitude: 599m
       date:
       note: 
-    - name: 屋久島
+    - name: Yakushima (屋久島)
       flag: 🇯🇵        
       category: Trekking
       altitude:
