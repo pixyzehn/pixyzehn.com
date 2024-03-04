@@ -1,3 +1,23 @@
+- year: 2024
+  activities:
+    - name: Loop Göreme – Pigeon – Zemi – Görkündere – Göreme
+      flag: 🇹🇷
+      category: Trekking
+      altitude:
+      date: 2024/03/04
+      note:
+    - name: Loop Göreme – Red – Rose – Sword – Göreme
+      flag: 🇹🇷
+      category: Trekking
+      altitude:
+      date: 2024/03/02
+      note:
+    - name: Loop Göreme – Love – White – Uchisar – Pigeon – Göreme
+      flag: 🇹🇷
+      category: Trekking
+      altitude:
+      date: 2024/03/01
+      note:
 - year: 2023
   activities:
     - name: Mt. Rokko (六甲山)
