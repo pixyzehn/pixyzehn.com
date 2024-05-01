@@ -98,7 +98,7 @@ GEM
       sawyer (~> 0.9)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (5.0.4)
+    public_suffix (5.0.5)
     racc (1.7.3)
     rake (13.2.1)
     rb-fsevent (0.11.2)
