@@ -30,7 +30,8 @@ GEM
     ffi (1.16.3)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
-    google-protobuf (4.26.1)
+    google-protobuf (4.27.0)
+      bigdecimal
       rake (>= 13)
     html-pipeline (2.14.3)
       activesupport (>= 2)
