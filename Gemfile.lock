@@ -25,7 +25,7 @@ GEM
     eventmachine (1.2.7)
     faraday (2.9.2)
       faraday-net_http (>= 2.0, < 3.2)
-    faraday-net_http (3.1.0)
+    faraday-net_http (3.1.1)
       net-http
     ffi (1.17.0)
     forwardable-extended (2.6.0)
