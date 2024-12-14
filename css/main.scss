@@ -19,9 +19,9 @@ $content-width: 860px;
 $on-palm: 600px;
 $on-laptop: 860px;
 
-html { 
+html {
   --background-color: #ffffff;
-  --secondary-background-color: #E9EAF0;
+  --secondary-background-color: #e9eaf0;
   --text-color: #000000;
   --secondary-text-color: #3c3c4399;
   --link-background-color: #ccccff;
@@ -31,7 +31,7 @@ html {
 @media (prefers-color-scheme: dark) {
   html {
     --background-color: #0d1116;
-    --secondary-background-color: #2E303C;
+    --secondary-background-color: #2e303c;
     --text-color: #f8f8f2;
     --secondary-text-color: #ebebf599;
     --link-background-color: #4c36ad;
@@ -48,187 +48,187 @@ html {
 /**
  * Reset some basic elements
  */
- body,
- h1,
- h2,
- h3,
- h4,
- h5,
- h6,
- p,
- blockquote,
- pre,
- dl,
- dd,
- ol,
- ul,
- figure {
-   margin: 0;
-   padding: 0;
- }
- 
- /**
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+dl,
+dd,
+ol,
+ul,
+figure {
+  margin: 0;
+  padding: 0;
+}
+
+/**
   * Basic styling
   */
- body {
-   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-   color: var(--text-color);
-   background-color: var(--background-color);
-   -webkit-text-size-adjust: 100%;
-   -webkit-font-feature-settings: "kern" 1;
-   -moz-font-feature-settings: "kern" 1;
-   -o-font-feature-settings: "kern" 1;
-   font-feature-settings: "kern" 1;
-   font-kerning: normal;
- }
- 
- /**
+body {
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  color: var(--text-color);
+  background-color: var(--background-color);
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-feature-settings: "kern" 1;
+  -moz-font-feature-settings: "kern" 1;
+  -o-font-feature-settings: "kern" 1;
+  font-feature-settings: "kern" 1;
+  font-kerning: normal;
+}
+
+/**
   * Set `margin-top` and `margin-bottom` to maintain vertical rhythm
   */
- h1,
- h2,
- h3,
- h4,
- h5,
- h6,
- p,
- blockquote,
- pre,
- ul,
- ol,
- dl,
- figure,
- %vertical-rhythm {
-   margin-top: calc(#{$spacing-unit} / 2);
-   margin-bottom: calc(#{$spacing-unit} / 2);
- }
- 
- /**
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+ul,
+ol,
+dl,
+figure,
+%vertical-rhythm {
+  margin-top: calc(#{$spacing-unit} / 2);
+  margin-bottom: calc(#{$spacing-unit} / 2);
+}
+
+/**
   * Images
   */
- img {
-   max-width: 100%;
-   vertical-align: middle;
- }
- 
- /**
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+/**
   * Figures
   */
- figure > img {
-   display: block;
- }
- 
- figcaption {
-   font-size: $small-font-size;
- }
- 
- /**
+figure > img {
+  display: block;
+}
+
+figcaption {
+  font-size: $small-font-size;
+}
+
+/**
   * Lists
   */
- ul,
- ol {
-   margin-left: $spacing-unit;
- }
- 
- li {
-   > ul,
-   > ol {
-     margin-bottom: 0;
-   }
- }
- 
- /**
+ul,
+ol {
+  margin-left: $spacing-unit;
+}
+
+li {
+  > ul,
+  > ol {
+    margin-bottom: 0;
+  }
+}
+
+/**
   * Links
   */
- a {
-   color: $primary-content-color;
- 
-   &:hover {
-     color: $primary-content-color;
-     text-decoration: underline;
-   }
- }
- 
- /**
+a {
+  color: $primary-content-color;
+
+  &:hover {
+    color: $primary-content-color;
+    text-decoration: underline;
+  }
+}
+
+/**
   * Blockquotes
   */
- blockquote {
-   color: #828282;
-   border-left: 2px solid;
-   padding-left: calc(#{$spacing-unit} / 2);
-   font-size: 14px;
-   font-style: italic;
- 
-   > :last-child {
-     margin-bottom: 0;
-   }
- }
- 
- /**
+blockquote {
+  color: #828282;
+  border-left: 2px solid;
+  padding-left: calc(#{$spacing-unit} / 2);
+  font-size: 14px;
+  font-style: italic;
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+/**
   * Code formatting
   */
- pre,
- code {
-   font-family: monospace;
-   font-size: 14px;
-   color: $code-color;
-   border: 1px solid $border-color;
-   border-radius: 3px;
-   background-color: var(--syntax-background-color);
-   line-height: 18px;
- }
- 
- code {
-   padding: 1px 5px;
- }
- 
- pre {
-   padding: 8px 12px;
-   overflow-x: auto;
- 
-   > code {
-     border: 0;
-     padding-right: 0;
-     padding-left: 0;
-   }
- }
- 
- /**
+pre,
+code {
+  font-family: monospace;
+  font-size: 14px;
+  color: $code-color;
+  border: 1px solid $border-color;
+  border-radius: 3px;
+  background-color: var(--syntax-background-color);
+  line-height: 18px;
+}
+
+code {
+  padding: 1px 5px;
+}
+
+pre {
+  padding: 8px 12px;
+  overflow-x: auto;
+
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+/**
   * Wrapper
   */
- .wrapper {
-   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-   max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
-   margin-right: auto;
-   margin-left: auto;
-   padding-right: $spacing-unit;
-   padding-left: $spacing-unit;
-   @extend %clearfix;
- 
-   @include media-query($on-laptop) {
-     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-     max-width: calc(#{$content-width} - (#{$spacing-unit}));
-     padding-right: calc(#{$spacing-unit} / 2);
-     padding-left: calc(#{$spacing-unit} / 2);
-   }
- }
- 
- /**
+.wrapper {
+  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+  max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: $spacing-unit;
+  padding-left: $spacing-unit;
+  @extend %clearfix;
+
+  @include media-query($on-laptop) {
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+    max-width: calc(#{$content-width} - (#{$spacing-unit}));
+    padding-right: calc(#{$spacing-unit} / 2);
+    padding-left: calc(#{$spacing-unit} / 2);
+  }
+}
+
+/**
   * Clearfix
   */
- %clearfix {
-   &:after {
-     content: "";
-     display: table;
-     clear: both;
-   }
- }
- 
- summary:focus{
-   outline: none;
- }
- 
- /**
+%clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+summary:focus {
+  outline: none;
+}
+
+/**
   * Nav header
   */
 .nav-header {
@@ -257,8 +257,8 @@ html {
 
 .navbar {
   .nav-link {
-    padding-right: 1.0rem !important;
-    padding-left: 1.0rem !important;
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
     color: var(--text-color) !important;
     line-height: $base-line-height;
 
@@ -458,7 +458,7 @@ hr {
   box-shadow: none;
 }
 
-.navbar .navbar-toggler-icon{
+.navbar .navbar-toggler-icon {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(142,142,147, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
 }
 
@@ -467,8 +467,8 @@ hr {
  */
 .marker-link a {
   color: var(--text-color);
-  border-bottom: .2em solid var(--link-background-color);
-  box-shadow: inset 0 -.2em 0 var(--link-background-color);
+  border-bottom: 0.2em solid var(--link-background-color);
+  box-shadow: inset 0 -0.2em 0 var(--link-background-color);
   text-decoration: none;
 
   &:hover {
@@ -494,7 +494,7 @@ hr {
 /**
  * Syntax highlighting styles
  */
- .highlight {
+.highlight {
   background: var(--syntax-background-color);
   @extend %vertical-rhythm;
 
