@@ -282,6 +282,7 @@ summary:focus {
   a {
     color: $primary-content-color;
   }
+  padding: 1rem;
 }
 
 @include media-query($on-palm) {
