@@ -4,9 +4,11 @@ updates:
   directory: "/"
   schedule:
     interval: monthly
+  groups:
+    dependencies:
+      patterns:
+        - "*"
   open-pull-requests-limit: 10
-  reviewers:
-  - pixyzehn
   allow:
   - dependency-type: direct
   - dependency-type: indirect
@@ -14,6 +16,8 @@ updates:
   directory: "/"
   schedule:
     interval: monthly
+  groups:
+    dependencies:
+      patterns:
+        - "*"
   open-pull-requests-limit: 10
-  reviewers:
-  - pixyzehn
