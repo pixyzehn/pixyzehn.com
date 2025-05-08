@@ -1,7 +1,5 @@
 # [pixyzehn.com](https://pixyzehn.com)
 
-[![Deploy Jekyll site to Pages](https://github.com/pixyzehn/pixyzehn.com/actions/workflows/jekyll.yml/badge.svg)](https://github.com/pixyzehn/pixyzehn.com/actions/workflows/jekyll.yml)
-
 ## Requirements
 
 - [Bundler](https://bundler.io)
