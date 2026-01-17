@@ -1,0 +1,33 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostMeta from '../../components/PostMeta.astro';
+import PostInternalLinks from '../../components/PostInternalLinks.astro';
+import { getAllPosts, getPostSlug, getPostTags } from '../../utils/posts';
+
+export async function getStaticPaths() {
+  const posts = await getAllPosts();
+  return posts.map((post) => ({
+    params: { slug: getPostSlug(post) },
+    props: { post }
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await post.render();
+const tags = getPostTags(post);
+---
+<BaseLayout title={post.data.title}>
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    <header class="post-header">
+      <h1 class="post-title" itemprop="name headline">{post.data.title}</h1>
+      <PostMeta date={post.data.date} tags={tags} />
+    </header>
+    <div class="post-content" itemprop="articleBody">
+      <Content />
+    </div>
+  </article>
+
+  <hr>
+
+  <PostInternalLinks />
+</BaseLayout>

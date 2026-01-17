@@ -1,0 +1,35 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import TagCloud from '../components/TagCloud.astro';
+import PostsByTags from '../components/PostsByTags.astro';
+import PostInternalLinks from '../components/PostInternalLinks.astro';
+import { getAllPosts, getPostSlug, getPostTags } from '../utils/posts';
+
+const posts = await getAllPosts();
+const tagMap = {};
+
+for (const post of posts) {
+  for (const tag of getPostTags(post)) {
+    if (!tagMap[tag]) {
+      tagMap[tag] = [];
+    }
+    tagMap[tag].push({
+      title: post.data.title,
+      url: `/articles/${getPostSlug(post)}.html`
+    });
+  }
+}
+
+const tags = Object.keys(tagMap).sort((a, b) => a.localeCompare(b));
+---
+<PageLayout title="Tags">
+  <TagCloud tags={tags} />
+
+  <hr>
+
+  <PostsByTags tagMap={tagMap} />
+
+  <hr>
+
+  <PostInternalLinks />
+</PageLayout>

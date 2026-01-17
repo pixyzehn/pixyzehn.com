@@ -1,0 +1,129 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { loadYaml } from '../utils/data';
+
+const countries = loadYaml(new URL('../../_data/countries.yml', import.meta.url));
+const cities = loadYaml(new URL('../../_data/cities.yml', import.meta.url));
+const japanesePrefectures = loadYaml(
+  new URL('../../_data/japanese_prefectures.yml', import.meta.url)
+);
+const mountaineering = loadYaml(
+  new URL('../../_data/mountaineering.yml', import.meta.url)
+);
+const japaneseMountains = loadYaml(
+  new URL('../../_data/japanese_mountains.yml', import.meta.url)
+);
+const qualifications = loadYaml(
+  new URL('../../_data/qualifications.yml', import.meta.url)
+);
+const apps = loadYaml(new URL('../../_data/apps.yml', import.meta.url));
+
+const sortedCountries = [...countries].sort((a, b) => a.name.localeCompare(b.name));
+const sortedCities = [...cities].sort((a, b) => a.name.localeCompare(b.name));
+const sortedPrefectures = [...japanesePrefectures].sort((a, b) => a.name.localeCompare(b.name));
+const sortedMountains = [...japaneseMountains].sort((a, b) => a.name.localeCompare(b.name));
+const recentMountaineeringItem = mountaineering[0];
+
+const pluralize = (count, singular, plural) => (count === 1 ? singular : plural);
+---
+<PageLayout title="Logs">
+  <p>Just another log for myself. Hopefully, it'll help me decide where to visit and what to focus on in the near future.</p>
+
+  <hr>
+
+  <h3>Travel</h3>
+
+  <details>
+    <summary>
+      🌏 I have visited roughly <b>{sortedCountries.length} / 195~</b>
+      {pluralize(sortedCountries.length, 'country', 'countries')} (excluding Japan)
+    </summary>
+    {sortedCountries.map((country) => (
+      <ul style="margin-top:0;margin-bottom:0;"><li>{country.name} {country.flag}</li></ul>
+    ))}
+  </details>
+
+  <details>
+    <summary>
+      🌃 I have visited roughly <b>{sortedCities.length} / 10,000~</b>
+      {pluralize(sortedCities.length, 'city', 'cities')} (excluding cities in Japan)
+    </summary>
+    {sortedCities.map((city) => (
+      <ul style="margin-top:0;margin-bottom:0;"><li>{city.name}, {city.country}</li></ul>
+    ))}
+  </details>
+
+  <details>
+    <summary>
+      🗾 I have visited roughly <b>{sortedPrefectures.length} / 47</b>
+      {pluralize(sortedPrefectures.length, 'prefecture', 'prefectures')} in Japan
+    </summary>
+    {sortedPrefectures.map((prefecture) => (
+      <ul style="margin-top:0;margin-bottom:0;"><li>{prefecture.name}</li></ul>
+    ))}
+  </details>
+
+  <h3>Activities</h3>
+
+  <details>
+    <summary>
+      🏔 I did <b>{recentMountaineeringItem.activities.length}</b> mountaineering
+      {pluralize(recentMountaineeringItem.activities.length, 'activity', 'activities')} in
+      {recentMountaineeringItem.year}
+    </summary>
+    {mountaineering.map((item) => (
+      <>
+        <p><b>{item.year}</b></p>
+        <ul style="margin-top:0;margin-bottom:0;">
+          {item.activities.map((activity) => (
+            <li>
+              {activity.flag} {activity.name}, {activity.category || '-'},
+              {activity.altitude || '-'}, {activity.date || '-'}
+              {activity.note ? (
+                <blockquote><p>{activity.note}</p></blockquote>
+              ) : null}
+            </li>
+          ))}
+        </ul>
+      </>
+    ))}
+  </details>
+
+  <details>
+    <summary>
+      🗻 I have climbed roughly <b>{sortedMountains.length} / 100</b> famous
+      {pluralize(sortedMountains.length, 'mountain', 'mountains')} in Japan
+      (<a href="https://en.wikipedia.org/wiki/100_Famous_Japanese_Mountains#List_by_region">Wikipedia</a>)
+    </summary>
+    {sortedMountains.map((mountain) => (
+      <ul style="margin-top:0;margin-bottom:0;"><li>{mountain.name}, {mountain.area} ({mountain.altitude})</li></ul>
+    ))}
+  </details>
+
+  <h3>Misc</h3>
+
+  <details>
+    <summary>
+      📖 I got roughly <b>{qualifications.length}</b>
+      {pluralize(qualifications.length, 'qualification', 'qualifications')}
+    </summary>
+    <ul style="margin-top:0;margin-bottom:0;">
+      {qualifications.map((qualification) => (
+        qualification.url ? (
+          <li><a href={qualification.url}>{qualification.name}</a>, {qualification.date || '-'}</li>
+        ) : (
+          <li>{qualification.name}, {qualification.date || '-'}</li>
+        )
+      ))}
+    </ul>
+  </details>
+
+  <details>
+    <summary>🛠️ Past works <b>{apps.length}</b> apps</summary>
+    <div class="app-icons">
+      {apps.map((app) => (
+        <img src={`/assets/app-icons/${app.name}.jpg`} width="50" height="50" alt={app.name}>
+      ))}
+    </div>
+  </details>
+</PageLayout>

@@ -1,0 +1,28 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import LinkIcon from '../components/LinkIcon.astro';
+import { loadYaml } from '../utils/data';
+
+const things = loadYaml(new URL('../../_data/things_i_like.yml', import.meta.url));
+---
+<PageLayout title="Things I like">
+  <p>
+    Here are things I like and occasionally revisit. There may be worth reading or checking if you don't know.
+    The idea comes from <a href="http://khanlou.com/love/">Things I Love by Khanlou</a>.
+  </p>
+
+  <hr>
+
+  {things.map((item) => (
+    <>
+      <h3>{item.category}</h3>
+      <ul style="list-style: none; margin-left: 0;">
+        {item.links.map((link) => (
+          <li>
+            <a href={link.url}><LinkIcon /> {link.title}</a>
+          </li>
+        ))}
+      </ul>
+    </>
+  ))}
+</PageLayout>

@@ -1,0 +1,22 @@
+{
+  "name": "pixyzehn.com",
+  "version": "0.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=18.20.8"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.5",
+    "@astrojs/sitemap": "^3.1.6",
+    "astro": "^5.16.11",
+    "yaml": "^2.5.1"
+  },
+  "devDependencies": {
+    "sass": "^1.77.8"
+  }
+}

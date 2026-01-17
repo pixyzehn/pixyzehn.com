@@ -1,0 +1,17 @@
+---
+import type { TagInput } from '../utils/tags';
+import { formatPostDate, toDate } from '../utils/dates';
+import { normalizeTags, slugifyTag } from '../utils/tags';
+
+const { date, tags } = Astro.props;
+const tagList = normalizeTags(tags as TagInput);
+const isoDate = toDate(date).toISOString();
+---
+<p class="post-meta">
+  <time datetime={isoDate} itemprop="datePublished">{formatPostDate(date)}</time>
+  <div class="post-tags">
+    {tagList.map((tag) => (
+      <a href={`/tags/#${slugifyTag(tag)}`}>#{tag}</a>
+    ))}
+  </div>
+</p>

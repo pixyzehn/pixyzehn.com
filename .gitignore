@@ -13,3 +13,6 @@ _site
 
 # Folders
 /vendor
+node_modules
+dist
+.astro

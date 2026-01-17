@@ -1,0 +1,30 @@
+---
+const { page } = Astro.props;
+const normalizeFirstPageUrl = (url) => (url ? url.replace(/\/1\/?$/, '/') : url);
+const prevUrl = page.url.next;
+const nextUrl = normalizeFirstPageUrl(page.url.prev);
+const prevDisabled = !prevUrl;
+const nextDisabled = !nextUrl;
+---
+<nav aria-label="Page navigation">
+  <ul class="pagination justify-content-center mx-auto">
+    <li class="page-item">
+      <a
+        href={prevUrl ?? '#'}
+        class={`btn btn-outline-secondary ${prevDisabled ? 'disabled' : ''}`}
+        aria-disabled={prevDisabled}
+      >
+        Prev
+      </a>
+    </li>
+    <li class="page-item">
+      <a
+        href={nextUrl ?? '#'}
+        class={`btn btn-outline-secondary ${nextDisabled ? 'disabled' : ''}`}
+        aria-disabled={nextDisabled}
+      >
+        Next
+      </a>
+    </li>
+  </ul>
+</nav>

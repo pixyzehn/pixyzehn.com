@@ -1,0 +1,39 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import PostInternalLinks from '../components/PostInternalLinks.astro';
+import { formatArchiveDate, formatYear } from '../utils/dates';
+import { getAllPosts, getPostSlug } from '../utils/posts';
+
+const posts = await getAllPosts();
+const postsByYear = new Map();
+
+for (const post of posts) {
+  const year = formatYear(post.data.date);
+  const items = postsByYear.get(year) ?? [];
+  items.push(post);
+  postsByYear.set(year, items);
+}
+
+const years = Array.from(postsByYear.keys());
+---
+<PageLayout title="Archives">
+  <section id="archive">
+    {years.map((year) => (
+      <>
+        <h4>{year}</h4>
+        <ul>
+          {postsByYear.get(year).map((post) => (
+            <li>
+              <time>{formatArchiveDate(post.data.date)}</time>
+              <a href={`/articles/${getPostSlug(post)}.html`}>{post.data.title}</a>
+            </li>
+          ))}
+        </ul>
+      </>
+    ))}
+  </section>
+
+  <hr>
+
+  <PostInternalLinks />
+</PageLayout>

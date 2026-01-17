@@ -2,25 +2,24 @@
 
 ## Requirements
 
-- [Bundler](https://bundler.io)
-- [Jekyll](https://jekyllrb.com)
+- [Node.js](https://nodejs.org) >= 18.20.8
 
 ## Installation
 
 ```bash
-bundle install
+npm install
 ```
 
 ## Build
 
 ```bash
-bundle exec jekyll build
+npm run build
 ```
 
 ## Preview
 
 ```bash
-bundle exec jekyll serve
+npm run dev
 ```
 
 ## License

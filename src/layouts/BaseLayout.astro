@@ -1,0 +1,21 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/main.scss';
+
+const { title, description, image, canonical } = Astro.props;
+---
+<!DOCTYPE html>
+<html lang="en">
+  <BaseHead title={title} description={description} image={image} canonical={canonical} />
+  <body>
+    <Header />
+    <div class="page-content marker-link">
+      <div class="wrapper">
+        <slot />
+      </div>
+    </div>
+    <Footer />
+  </body>
+</html>

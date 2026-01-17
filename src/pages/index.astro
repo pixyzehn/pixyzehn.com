@@ -1,0 +1,41 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import ExternalLinks from '../components/ExternalLinks.astro';
+import { site } from '../data/site';
+---
+<PageLayout title="About" image="/assets/about/profile.jpg">
+  <div>
+    <img src="/assets/about/profile.jpg" class="rounded" width="100" height="100" alt="Profile">
+  </div>
+
+  <h2>Hiroki Nagasawa</h2>
+
+  <p>
+    I'm an iOS software engineer at <a href="https://doist.com">Doist</a>, working on
+    <a href="https://todoist.com/home">Todoist</a> and <a href="https://twist.com/home">Twist</a>.
+    As a side project, I have made <a href="https://bluecometlabs.com">apps</a> at Blue Comet Labs.
+  </p>
+
+  <p>
+    Apart from software development and programming, I'm passionate about trekking and running.
+  </p>
+
+  <p>
+    You can reach me via <a href={site.links.email}>this email</a> and find me on:
+  </p>
+
+  <ExternalLinks />
+
+  <div class="pt-5">
+    <img
+      alt="mont-blanc"
+      src="/assets/about/mont-blanc.jpg"
+      class="d-block mx-auto rounded"
+      width="95%"
+    >
+  </div>
+
+  <p class="text-muted text-center">
+    <i><small>The view from the top of Mont Blanc where you can see tiny but sharp Matterhorn.</small></i>
+  </p>
+</PageLayout>

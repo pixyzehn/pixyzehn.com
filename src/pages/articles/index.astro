@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Pagination from '../../components/Pagination.astro';
+import PostInternalLinks from '../../components/PostInternalLinks.astro';
+import { getAllPosts, getPostSlug } from '../../utils/posts';
+import { formatPostDate } from '../../utils/dates';
+
+const pageSize = 8;
+const posts = await getAllPosts();
+const page = {
+  data: posts.slice(0, pageSize),
+  url: {
+    current: '/articles/',
+    next: posts.length > pageSize ? '/articles/2/' : undefined,
+    prev: undefined
+  }
+};
+---
+<BaseLayout title="Articles">
+  <div class="home">
+    <ul class="post-list">
+      {page.data.map((post) => (
+        <li>
+          <span class="post-meta">{formatPostDate(post.data.date)}</span>
+          <h2>
+            <a class="post-link" href={`/articles/${getPostSlug(post)}.html`}>
+              {post.data.title}
+            </a>
+          </h2>
+        </li>
+      ))}
+    </ul>
+  </div>
+
+  <Pagination page={page} />
+
+  <hr>
+
+  <PostInternalLinks />
+</BaseLayout>
