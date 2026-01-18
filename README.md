@@ -2,7 +2,7 @@
 
 ## Requirements
 
-- [Node.js](https://nodejs.org) >= 18.20.8
+- [Node.js](https://nodejs.org)
 
 ## Installation
 
