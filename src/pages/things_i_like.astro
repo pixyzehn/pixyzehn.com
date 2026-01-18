@@ -1,9 +1,10 @@
 ---
 import PageLayout from '../layouts/PageLayout.astro';
 import LinkIcon from '../components/LinkIcon.astro';
+import thingsYaml from '../data/things_i_like.yml?raw';
 import { loadYaml } from '../utils/data';
 
-const things = loadYaml(new URL('../../_data/things_i_like.yml', import.meta.url));
+const things = loadYaml(thingsYaml);
 ---
 <PageLayout title="Things I like">
   <p>

@@ -1,6 +1,5 @@
-import { readFileSync } from 'node:fs';
 import { parse } from 'yaml';
 
-export function loadYaml<T = unknown>(fileUrl: URL): T {
-  return parse(readFileSync(fileUrl, 'utf-8')) as T;
+export function loadYaml<T = unknown>(yamlSource: string): T {
+  return parse(yamlSource) as T;
 }

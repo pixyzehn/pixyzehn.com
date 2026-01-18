@@ -1,22 +1,21 @@
 ---
 import PageLayout from '../layouts/PageLayout.astro';
+import appsYaml from '../data/apps.yml?raw';
+import citiesYaml from '../data/cities.yml?raw';
+import countriesYaml from '../data/countries.yml?raw';
+import japaneseMountainsYaml from '../data/japanese_mountains.yml?raw';
+import japanesePrefecturesYaml from '../data/japanese_prefectures.yml?raw';
+import mountaineeringYaml from '../data/mountaineering.yml?raw';
+import qualificationsYaml from '../data/qualifications.yml?raw';
 import { loadYaml } from '../utils/data';
 
-const countries = loadYaml(new URL('../../_data/countries.yml', import.meta.url));
-const cities = loadYaml(new URL('../../_data/cities.yml', import.meta.url));
-const japanesePrefectures = loadYaml(
-  new URL('../../_data/japanese_prefectures.yml', import.meta.url)
-);
-const mountaineering = loadYaml(
-  new URL('../../_data/mountaineering.yml', import.meta.url)
-);
-const japaneseMountains = loadYaml(
-  new URL('../../_data/japanese_mountains.yml', import.meta.url)
-);
-const qualifications = loadYaml(
-  new URL('../../_data/qualifications.yml', import.meta.url)
-);
-const apps = loadYaml(new URL('../../_data/apps.yml', import.meta.url));
+const countries = loadYaml(countriesYaml);
+const cities = loadYaml(citiesYaml);
+const japanesePrefectures = loadYaml(japanesePrefecturesYaml);
+const mountaineering = loadYaml(mountaineeringYaml);
+const japaneseMountains = loadYaml(japaneseMountainsYaml);
+const qualifications = loadYaml(qualificationsYaml);
+const apps = loadYaml(appsYaml);
 
 const sortedCountries = [...countries].sort((a, b) => a.name.localeCompare(b.name));
 const sortedCities = [...cities].sort((a, b) => a.name.localeCompare(b.name));
