@@ -38,7 +38,7 @@ const pluralize = (count, singular, plural) => (count === 1 ? singular : plural)
       {pluralize(sortedCountries.length, 'country', 'countries')} (excluding Japan)
     </summary>
     {sortedCountries.map((country) => (
-      <ul style="margin-top:0;margin-bottom:0;"><li>{country.name} {country.flag}</li></ul>
+      <ul class="my-0"><li>{country.name} {country.flag}</li></ul>
     ))}
   </details>
 
@@ -48,7 +48,7 @@ const pluralize = (count, singular, plural) => (count === 1 ? singular : plural)
       {pluralize(sortedCities.length, 'city', 'cities')} (excluding cities in Japan)
     </summary>
     {sortedCities.map((city) => (
-      <ul style="margin-top:0;margin-bottom:0;"><li>{city.name}, {city.country}</li></ul>
+      <ul class="my-0"><li>{city.name}, {city.country}</li></ul>
     ))}
   </details>
 
@@ -58,7 +58,7 @@ const pluralize = (count, singular, plural) => (count === 1 ? singular : plural)
       {pluralize(sortedPrefectures.length, 'prefecture', 'prefectures')} in Japan
     </summary>
     {sortedPrefectures.map((prefecture) => (
-      <ul style="margin-top:0;margin-bottom:0;"><li>{prefecture.name}</li></ul>
+      <ul class="my-0"><li>{prefecture.name}</li></ul>
     ))}
   </details>
 
@@ -73,7 +73,7 @@ const pluralize = (count, singular, plural) => (count === 1 ? singular : plural)
     {mountaineering.map((item) => (
       <>
         <p><b>{item.year}</b></p>
-        <ul style="margin-top:0;margin-bottom:0;">
+        <ul class="my-0">
           {item.activities.map((activity) => (
             <li>
               {activity.flag} {activity.name}, {activity.category || '-'},
@@ -95,7 +95,7 @@ const pluralize = (count, singular, plural) => (count === 1 ? singular : plural)
       (<a href="https://en.wikipedia.org/wiki/100_Famous_Japanese_Mountains#List_by_region">Wikipedia</a>)
     </summary>
     {sortedMountains.map((mountain) => (
-      <ul style="margin-top:0;margin-bottom:0;"><li>{mountain.name}, {mountain.area} ({mountain.altitude})</li></ul>
+      <ul class="my-0"><li>{mountain.name}, {mountain.area} ({mountain.altitude})</li></ul>
     ))}
   </details>
 
@@ -106,7 +106,7 @@ const pluralize = (count, singular, plural) => (count === 1 ? singular : plural)
       📖 I got roughly <b>{qualifications.length}</b>
       {pluralize(qualifications.length, 'qualification', 'qualifications')}
     </summary>
-    <ul style="margin-top:0;margin-bottom:0;">
+    <ul class="my-0">
       {qualifications.map((qualification) => (
         qualification.url ? (
           <li><a href={qualification.url}>{qualification.name}</a>, {qualification.date || '-'}</li>
@@ -119,9 +119,15 @@ const pluralize = (count, singular, plural) => (count === 1 ? singular : plural)
 
   <details>
     <summary>🛠️ Past works <b>{apps.length}</b> apps</summary>
-    <div class="app-icons">
+    <div class="flex flex-wrap gap-2">
       {apps.map((app) => (
-        <img src={`/assets/app-icons/${app.name}.jpg`} width="50" height="50" alt={app.name}>
+        <img
+          class="rounded-[8.7px]"
+          src={`/assets/app-icons/${app.name}.jpg`}
+          width="50"
+          height="50"
+          alt={app.name}
+        >
       ))}
     </div>
   </details>

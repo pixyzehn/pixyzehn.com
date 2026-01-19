@@ -17,14 +17,16 @@ for (const post of posts) {
 const years = Array.from(postsByYear.keys());
 ---
 <PageLayout title="Archives">
-  <section id="archive">
+  <section class="space-y-4">
     {years.map((year) => (
       <>
         <h4>{year}</h4>
-        <ul>
+        <ul class="m-0 list-none p-0">
           {postsByYear.get(year).map((post) => (
-            <li>
-              <time>{formatArchiveDate(post.data.date)}</time>
+            <li class="mb-2">
+              <time class="mr-2 inline-block font-mono text-xs">
+                {formatArchiveDate(post.data.date)}
+              </time>
               <a href={`/articles/${getPostSlug(post)}.html`}>{post.data.title}</a>
             </li>
           ))}

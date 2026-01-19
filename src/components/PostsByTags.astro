@@ -4,11 +4,11 @@ import { slugifyTag } from '../utils/tags';
 const { tagMap } = Astro.props;
 const tags = Object.keys(tagMap);
 ---
-<section class="posts-by-tags">
+<section class="space-y-6">
   {tags.map((tag) => (
     <div>
       <h4 id={slugifyTag(tag)}>#{tag}</h4>
-      <ul style="list-style: none; margin-left: 0;">
+      <ul class="m-0 list-none p-0">
         {tagMap[tag].map((post) => (
           <li><a href={post.url}>{post.title}</a></li>
         ))}

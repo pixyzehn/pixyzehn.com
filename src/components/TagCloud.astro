@@ -3,9 +3,9 @@ import { slugifyTag } from '../utils/tags';
 
 const { tags } = Astro.props;
 ---
-<ul class="tag-cloud">
+<ul class="m-0 list-none p-0">
   {tags.map((tag) => (
-    <li>
+    <li class="mr-2 inline-block">
       <a href={`/tags/#${slugifyTag(tag)}`}>#{tag}</a>
     </li>
   ))}

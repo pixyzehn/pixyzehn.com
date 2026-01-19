@@ -2,7 +2,7 @@
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-import '../styles/main.scss';
+import '../styles/tailwind.css';
 
 const { title, description, image, canonical } = Astro.props;
 ---
@@ -11,8 +11,8 @@ const { title, description, image, canonical } = Astro.props;
   <BaseHead title={title} description={description} image={image} canonical={canonical} />
   <body>
     <Header />
-    <div class="page-content marker-link">
-      <div class="wrapper">
+    <div class="marker-link py-4">
+      <div class="mx-auto w-full max-w-[860px] px-4 laptop:px-8">
         <slot />
       </div>
     </div>

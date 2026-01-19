@@ -17,13 +17,15 @@ const page = {
 };
 ---
 <BaseLayout title="Articles">
-  <div class="home">
-    <ul class="post-list">
+  <div>
+    <ul class="m-0 list-none space-y-8 p-0">
       {page.data.map((post) => (
         <li>
-          <span class="post-meta">{formatPostDate(post.data.date)}</span>
+          <span class="text-sm text-[var(--secondary-text-color)]">
+            {formatPostDate(post.data.date)}
+          </span>
           <h2>
-            <a class="post-link" href={`/articles/${getPostSlug(post)}.html`}>
+            <a class="text-2xl" href={`/articles/${getPostSlug(post)}.html`}>
               {post.data.title}
             </a>
           </h2>

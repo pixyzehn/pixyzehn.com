@@ -17,7 +17,7 @@ const things = loadYaml(thingsYaml);
   {things.map((item) => (
     <>
       <h3>{item.category}</h3>
-      <ul style="list-style: none; margin-left: 0;">
+      <ul class="m-0 list-none p-0">
         {item.links.map((link) => (
           <li>
             <a href={link.url}><LinkIcon /> {link.title}</a>

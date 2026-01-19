@@ -7,11 +7,11 @@ const { date, tags } = Astro.props;
 const tagList = normalizeTags(tags as TagInput);
 const isoDate = toDate(date).toISOString();
 ---
-<p class="post-meta">
-  <time datetime={isoDate} itemprop="datePublished">{formatPostDate(date)}</time>
-  <div class="post-tags">
+<p class="mb-4 mt-[-0.3rem] block text-sm text-[var(--secondary-text-color)]">
+  <time class="mr-2" datetime={isoDate} itemprop="datePublished">{formatPostDate(date)}</time>
+  <span class="inline-block">
     {tagList.map((tag) => (
-      <a href={`/tags/#${slugifyTag(tag)}`}>#{tag}</a>
+      <a class="text-[0.8rem]" href={`/tags/#${slugifyTag(tag)}`}>#{tag}</a>
     ))}
-  </div>
+  </span>
 </p>
