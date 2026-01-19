@@ -18,7 +18,7 @@ const { page } = Astro.props;
     <ul class="m-0 list-none space-y-8 p-0">
       {page.data.map((post) => (
         <li>
-          <span class="text-sm text-[var(--secondary-text-color)]">
+          <span class="text text-[var(--secondary-text-color)]">
             {formatPostDate(post.data.date)}
           </span>
           <h2>
