@@ -17,13 +17,3 @@ export function slugifyTag(tag: string): string {
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/(^-|-$)+/g, '');
 }
-
-export function getTagList(posts: CollectionEntry<'posts'>[]): string[] {
-  const tagSet = new Set<string>();
-  for (const post of posts) {
-    for (const tag of normalizeTags(post.data.tags)) {
-      tagSet.add(tag);
-    }
-  }
-  return Array.from(tagSet).sort((a, b) => a.localeCompare(b));
-}
