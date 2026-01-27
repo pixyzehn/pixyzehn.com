@@ -1,13 +1,31 @@
 <header class="bg-[var(--background-color)] py-2">
   <div class="mx-auto w-full max-w-[860px] px-4 laptop:px-8">
     <div class="flex flex-col gap-3 laptop:flex-row laptop:items-center laptop:justify-between">
-      <a
-        class="tracking-[0.25em] text-[var(--text-color)] no-underline hover:opacity-70"
-        href="/"
-      >
-        ⛺️
-      </a>
-      <nav class="flex flex-wrap gap-4 laptop:gap-6">
+      <div class="flex items-center justify-between">
+        <a
+          class="tracking-[0.25em] text-[var(--text-color)] no-underline hover:opacity-70"
+          href="/"
+        >
+          ⛺️
+        </a>
+        <details class="relative laptop:hidden">
+          <summary class="cursor-pointer list-none text-[var(--text-color)]">
+            <span class="sr-only">Open navigation</span>
+            <span class="block h-5 w-6">
+              <span class="block h-0.5 w-6 rounded-full bg-[var(--text-color)]"></span>
+              <span class="mt-1.5 block h-0.5 w-6 rounded-full bg-[var(--text-color)]"></span>
+              <span class="mt-1.5 block h-0.5 w-6 rounded-full bg-[var(--text-color)]"></span>
+            </span>
+          </summary>
+          <nav class="absolute right-0 mt-3 flex w-48 flex-col gap-3 rounded-md border border-black/10 bg-[var(--background-color)] p-4 shadow-lg">
+            <a class="text-[var(--text-color)] no-underline hover:opacity-70" href="/">About</a>
+            <a class="text-[var(--text-color)] no-underline hover:opacity-70" href="/articles/">Articles</a>
+            <a class="text-[var(--text-color)] no-underline hover:opacity-70" href="/things_i_like/">Things I like</a>
+            <a class="text-[var(--text-color)] no-underline hover:opacity-70" href="/logs/">Logs</a>
+          </nav>
+        </details>
+      </div>
+      <nav class="hidden flex-wrap gap-4 laptop:flex laptop:gap-6">
         <a class="text-[var(--text-color)] no-underline hover:opacity-70" href="/">About</a>
         <a class="text-[var(--text-color)] no-underline hover:opacity-70" href="/articles/">Articles</a>
         <a class="text-[var(--text-color)] no-underline hover:opacity-70" href="/things_i_like/">Things I like</a>
