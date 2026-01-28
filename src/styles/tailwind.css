@@ -20,7 +20,8 @@
       --text-color: #f8f8f2;
       --secondary-text-color: #ebebf599;
       --link-background-color: #4c36ad;
-      --syntax-background-color: #2c2c2e;
+      --syntax-background-color: #1f2430;
+      --border-color: #3a3d4a;
     }
   }
 
@@ -97,7 +98,7 @@
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
       "Courier New", monospace;
     font-size: 14px;
-    color: #6c757d;
+    color: var(--text-color);
     border: 1px solid var(--border-color);
     border-radius: 3px;
     background-color: var(--syntax-background-color);
@@ -115,6 +116,8 @@
 
   pre > code {
     border: 0;
+    background-color: transparent;
+    color: inherit;
     padding-right: 0;
     padding-left: 0;
   }
